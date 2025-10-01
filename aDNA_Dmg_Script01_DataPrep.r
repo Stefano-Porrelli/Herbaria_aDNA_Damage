@@ -4,10 +4,11 @@
 #                 aDNA Damage through time -  Script 01                        #
 #                             Data preparation                                 #
 #------------------------------------------------------------------------------#
-# Install required packages
+# Install required packages, if needed uncoment below
 # install.packages(c("dplyr", "ggplot2", "stringr", "colorspace",
-                   "tidyr", "ggrepel", "ggtext", "sf", "geodata",
-                   "terra", "purrr", "maps"))
+#                   "tidyr", "ggrepel", "ggtext", "sf", "geodata",
+#                   "terra", "purrr", "maps"))
+
 # Load libraries
 library(dplyr)
 library(ggplot2)
@@ -23,7 +24,7 @@ library(purrr)
 library(maps)
 
 # Read data matrix in R
-d <- read.delim("aDNA_damage_screening.txt",
+d <- read.delim("aDNA_damage_screening_MAIN.txt",
                 row.names = 1, stringsAsFactors = TRUE)
 
 #------------------------------------------------------------------------------#
