@@ -5,7 +5,7 @@
 #                             Data preparation                                 #
 #------------------------------------------------------------------------------#
 # Install required packages
-install.packages(c("dplyr", "ggplot2", "stringr", "colorspace",
+# install.packages(c("dplyr", "ggplot2", "stringr", "colorspace",
                    "tidyr", "ggrepel", "ggtext", "sf", "geodata",
                    "terra", "purrr", "maps"))
 # Load libraries
