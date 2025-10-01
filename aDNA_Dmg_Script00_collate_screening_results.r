@@ -22,8 +22,8 @@
 options(warn = 1)  # Print warnings as they occur
 print("Starting script execution...")
 
-# Install required packages, if needed
-install.packages(c("dplyr", "readr", "MASS", "ggplot2"))
+# Install required packages, if needed uncomment below
+# install.packages(c("dplyr", "readr", "MASS", "ggplot2"))
 
 # Load necessary libraries
 library(readr)
