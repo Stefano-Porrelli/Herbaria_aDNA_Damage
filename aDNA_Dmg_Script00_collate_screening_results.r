@@ -594,7 +594,7 @@ cleanup_dmg_plot_files <- function(output_dir, keep_plots = TRUE) {
 #------------------------------------------------------------------------------#
 
 # Define output files
-output_file <- "aDNA_damage_screening.txt"
+output_file <- "aDNA_damage_screening_MAIN.txt"
 metadata_file <- "sample_metadata.txt"  # Optional, set to NULL if not available
 
 # Run analysis
