@@ -11,8 +11,8 @@
 # Retrieve reference genome and index it
 # Change variables below to project name and FTP link to reference genome assembly
 
-PROJECT_NAME="Oryza_Sediment_KALIMANTAN"
-REFERENCE_GENOME_FTP="https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/433/935/GCF_001433935.1_IRGSP-1.0/GCF_001433935.1_IRGSP-1.0_genomic.fna.gz"
+PROJECT_NAME="ENTER_DIRECTORY_NAME"
+REFERENCE_GENOME_FTP="FTP_LINK_TO_REF_GENOME"
 
 # Function to check if a command was successful
 check_command() {
