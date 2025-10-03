@@ -32,14 +32,50 @@ This workflow consists of BASH and R scripts that process raw sequencing data an
 
 
 ## Bioinformatics Pipeline (Processing Raw FASTQ Files)
+The repository includes two bash scripts for processing raw sequencing data and compute damage metrics before running the R analysis pipeline:
 
 - `01_Plant_aDNA_screening_prep.sh`: Sets up the environment and installs required software for running [Plant_aDNA_pipeline](https://gitlab.com/smlatorreo/plant-adna-pipeline).
 - `02_Plant_aDNA_screening_main.sh`: Main pipeline to calculate aDNA damage metrics.
 
+**Input**: Paired-end FASTQ files (*_1.fastq.gz and *_2.fastq.gz) in 1_initial_data/ directory
 
+**Output**: Directory structure with:
 
+- `2_trimmed_merged/` - Adapter-trimmed and merged reads
+- `3_quality_control/` - FastQC reports and MultiQC summary
+- `4_mapping/` - BAM files, mapping statistics, flagstat logs
+- `5_aDNA_characteristics/` - MapDamage2 outputs (damage patterns, fragment distributions)
+- `6_AMBER/` - Mapping bias assessment
+- `7_preseq/` - Complexity curves and yield predictions
 
+## R Statistical analyses workflow/scripts - REQUIREMENTS
+Install the following R packages:
+```
+packages <- c("dplyr", "tidyr", "purrr", "stringr", "readr",
+              "MASS", "vegan", "car",
+              "ggplot2", "colorspace", "viridis",
+              "ggrepel", "ggtext", "ggpubr", "gridExtra", "cowplot",
+              "sf", "geodata", "terra", "maps")
+install.packages(packages)
+```
 
+### External Data
+CHELSA V2.1 Climate Data: Download from https://chelsa-climate.org/
 
+Required bioclimatic variables:
+```
+CHELSA_bio1_1981-2010_V.2.1.tif (Annual mean temperature)
+CHELSA_bio4_1981-2010_V.2.1.tif (Temperature seasonality)
+CHELSA_bio12_1981-2010_V.2.1.tif (Annual precipitation)
+CHELSA_bio15_1981-2010_V.2.1.tif (Precipitation seasonality)
+```
+Required monthly data:
+```
+monthly/tas/CHELSA_tas_01_1981-2010_V.2.1.tif through CHELSA_tas_12_1981-2010_V.2.1.tif
+monthly/pr/CHELSA_pr_01_1981-2010_V.2.1.tif through CHELSA_pr_12_1981-2010_V.2.1.tif
+```
 
+Place all files in chelsa_data/ directory.
+
+Reference Genomes: Download from NCBI (see manuscript Table 2 for BioProject IDs)
 
