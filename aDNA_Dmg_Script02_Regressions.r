@@ -1,9 +1,18 @@
 #!/usr/bin/env Rscript
+#------------------------------------------------------------------------------#
+#            Patterns of aDNA Damage Through Time end Environments             #
+#                      – lessons from herbarium specimens  -                   #
+#                                                                              #
+#                                   Script 02                                  #
+#                                                                              #
+#                        DATA ANALYSIS II - Regressions:                       #
+#                                                                              #
+#                    - Endogenous Fraction ~ Collection year                   #
+#                      - Fragment length ~ Collection year                     #
+#                             - 5' C>T  ~ Sample Age                           #
+#                  - Damage fraction per site (λ) ~ Sample Age                 #
+#------------------------------------------------------------------------------#
 
-#------------------------------------------------------------------------------#
-#                 aDNA Damage through time -  Script 02                        #
-#                          Regression Analyses                                 #
-#------------------------------------------------------------------------------#
 # Install required packages, uncomment below if needed
 # install.packages(c("dplyr", "ggplot2", "purrr", "gridExtra", "grid", "cowplot"))
 
