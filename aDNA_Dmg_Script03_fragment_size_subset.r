@@ -1,6 +1,12 @@
 #!/usr/bin/env Rscript
-
 #------------------------------------------------------------------------------#
+#            Patterns of aDNA Damage Through Time end Environments             #
+#                      – lessons from herbarium specimens  -                   #
+#                                                                              #
+#                                   Script 03                                  #
+#                                                                              #
+#                               DATA ANALYSIS III:                              #
+#                                                                              #
 #                 aDNA Damage through time -  Script 03                        #
 #                          Fragment size Analyses                              #
 #                                                                              #
