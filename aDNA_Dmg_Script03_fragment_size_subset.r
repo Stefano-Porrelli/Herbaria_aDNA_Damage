@@ -5,10 +5,7 @@
 #                                                                              #
 #                                   Script 03                                  #
 #                                                                              #
-#                               DATA ANALYSIS III:                              #
-#                                                                              #
-#                 aDNA Damage through time -  Script 03                        #
-#                          Fragment size Analyses                              #
+#                      DATA ANALYSIS III - Fragment Size Subset:               #
 #                                                                              #
 # Uses a subset of the data, which contains information of peak sizes of gDNA  #
 #            generated with capillary electrophoresis (TapeStation)            #
