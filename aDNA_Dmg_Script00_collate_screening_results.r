@@ -1,6 +1,9 @@
 #!/usr/bin/env Rscript
 #------------------------------------------------------------------------------#
-#                    aDNA Damage through time -  Script 00                     #
+#            Patterns of aDNA Damage Through Time end Environments             #
+#                      – lessons from herbarium specimens  -                   #
+#                                                                              #
+#                                   Script 00                                  #
 #                                                                              #
 #                               DATA PREPARATION:                              #
 #                                                                              #
