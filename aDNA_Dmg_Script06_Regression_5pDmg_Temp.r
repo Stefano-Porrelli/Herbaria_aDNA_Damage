@@ -1,8 +1,13 @@
 #!/usr/bin/env Rscript
-
 #------------------------------------------------------------------------------#
-#                     aDNA Damage through time - Script 06                     #
-#                    Regression 5'C>T and Temperature models                   #
+#            Patterns of aDNA Damage Through Time end Environments             #
+#                      – lessons from herbarium specimens  -                   #
+#                                                                              #
+#                                   Script 06                                  #
+#                                                                              #
+#                                DATA ANALYSIS VI:                             #
+#                                                                              #
+#                    §§Regression 5'C>T ~ Temperature models                   #
 #------------------------------------------------------------------------------#
 
 # Load required libraries
