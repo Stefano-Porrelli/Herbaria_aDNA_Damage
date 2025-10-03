@@ -1,5 +1,4 @@
 #!/usr/bin/env Rscript
-
 #------------------------------------------------------------------------------#
 #            Patterns of aDNA Damage Through Time end Environments             #
 #                      – lessons from herbarium specimens  -                   #
@@ -12,6 +11,7 @@
 #               - N. of Accessions per Herbarium and Temporal range            #
 #                - Distribution Map + Temperature + Precipitation              #
 #------------------------------------------------------------------------------#
+
 # Install required packages, if needed uncoment below
 # install.packages(c("dplyr", "ggplot2", "stringr", "colorspace",
 #                   "tidyr", "ggrepel", "ggtext", "sf", "geodata",
