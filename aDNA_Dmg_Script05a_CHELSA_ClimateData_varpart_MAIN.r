@@ -1,11 +1,18 @@
 #!/usr/bin/env Rscript
-
 #------------------------------------------------------------------------------#
-#                     aDNA Damage through time - Script 05a                    #
-#                       CHELSA Climatic variables analyses                     #
+#            Patterns of aDNA Damage Through Time end Environments             #
+#                      – lessons from herbarium specimens  -                   #
+#                                                                              #
+#                                   Script 05a                                 #
+#                                                                              #
+#                               DATA ANALYSIS V-a                              #
+#                                                                              #
+#                          CHELSA Climatic variables &                         #
 #                     Variance partitioning (varpart/VEGAN)                    #
 #                                                                              #
-#                 4-way: Temperature, Precipitation, Age, Genus                #
+#             - 4-way varpart: Temperature, Precipitation, Age, Genus          #
+#                      - Significance testing (rda + ANOVA)                    #
+#                                                                              #
 #------------------------------------------------------------------------------#
 
 # Install required packages
