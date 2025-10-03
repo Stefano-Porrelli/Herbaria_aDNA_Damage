@@ -1,6 +1,20 @@
+#!/usr/bin/env Rscript
 #------------------------------------------------------------------------------#
-#                     aDNA Damage through time - Script 04                     #
-#                       Analyses of Covariance (ANCOVA)                        #
+#            Patterns of aDNA Damage Through Time end Environments             #
+#                      – lessons from herbarium specimens  -                   #
+#                                                                              #
+#                                   Script 04                                  #
+#                                                                              #
+#                      DATA ANALYSIS IV - COVARIANCE (ANCOVA):                 #
+#                                                                              #
+#                      - Endogenous fraction ~ Sample Age                      #
+#                          - Fragment size ~ Sample Age                        #
+#                       - 5' C>T frequencies ~ Sample Age                      #
+#                              - Lambda ~ Sample Age                           #
+#                                                                              #
+#           - Model comparison (interaction vs. no interaction) - ANOVA        #
+#                              - Generate Boxplots                             #
+#                                                                              #
 #------------------------------------------------------------------------------#
 
 # Install required packages, uncomment below if needed
