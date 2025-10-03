@@ -7,7 +7,7 @@
 #                                                                              #
 #                                DATA ANALYSIS VI:                             #
 #                                                                              #
-#                    §§Regression 5'C>T ~ Temperature models                   #
+#                      Regression 5'C>T ~ Temperature models                   #
 #------------------------------------------------------------------------------#
 
 # Load required libraries
