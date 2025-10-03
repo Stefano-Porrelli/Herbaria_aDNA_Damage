@@ -10,7 +10,7 @@
 # Main aDNA pipeline - processing samples
 # Make sure to update PROJECT_NAME to match your prep script
 
-PROJECT_NAME="Oryza_Sediment_KALIMANTAN"
+PROJECT_NAME="ENTER_DIRECTORY_NAME"
 
 # Function to check if a command was successful
 check_command() {
