@@ -6,12 +6,14 @@ Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M.
 Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens**  
 d.o.i.: [XXXXXXXXXXXXXXX](https://linktodoi.com)
 
+## Overview
 The workflow processes low-throughput (screening) sequencing data from 573 herbarium samples representing six plant species from two genera (*Hordeum* and *Oryza*) collected over a 220-year period (1797-2017) across the Americas and Eurasia.
 
-## Summary
 Ancient DNA degrades over time through two primary mechanisms: cytosine deamination and depurination. Understanding these degradation patterns is crucial for optimizing aDNA research and informing museum curation practices. While previous studies have focused on archaeological samples with highly variable preservation conditions, herbarium specimens offer a unique opportunity to study DNA degradation under standardized storage conditions, allowing detection of subtle temporal patterns that are often masked in archaeological contexts.
 
-### DATA AVAILABILITY (SRA - NCBI):
+The workflow consists of BASH and R scripts. The BASH scripts process raw sequencing data following the bioinformatics protocol described in [Latorre *et. al.*, 2020](https://doi.org/10.1002/cppb.20121) to calculate aDNA damage metrics. The R scripts then use these calculated damage metrics for downstream statistical analyses and visualization.
+
+### RAW FASTQ DATA AVAILABILITY (SRA - NCBI):
 
 Samples             | BioProject Link
 ------------------- | --------------------------
@@ -22,29 +24,22 @@ Samples             | BioProject Link
 *Oryza latifolia*   | [PRJNA1288423](https://example.com)
 *Oryza* Americas    | [PRJNA1302186](https://example.com)
 
-## Workflow Description
-This workflow consists of BASH and R scripts that process raw sequencing data and calculate damage metrics using the pipeline described in [Latorre *et. al.*, 2020](https://doi.org/10.1002/cppb.20121). Multiple approaches are used to characterize aDNA damage:
-
-- Temporal analysis: Examines how DNA damage metrics change over time by relating fragment length, deamination patterns, and endogenous DNA content to specimen age.
-- Environmental analysis: Investigates how climatic conditions at the time and location of specimen collection (temperature, precipitation, seasonality) influence DNA preservation using high-resolution climate data from CHELSA V2.1.
-- Comparative analysis: Tests whether different plant genera (*Hordeum* vs *Oryza*) show distinct DNA damage patterns, potentially reflecting differences in tissue composition, growing environments, or biochemical properties.
-- Variance partitioning: Quantifies the relative contributions of age, environment (temperature and precipitation), taxonomy (genus), and storage conditions (herbarium) to observed DNA damage patterns.
-
-
-## Bioinformatics Pipeline (Processing Raw FASTQ Files)
+## Plant aDNA Pipeline ([Latorre *et. al.*, 2020](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cppb.20121))
 The repository includes two bash scripts for processing raw sequencing data and compute damage metrics before running the R analysis pipeline:
 
 - `01_Plant_aDNA_screening_prep.sh`: Sets up the environment and installs required software for running [Plant_aDNA_pipeline](https://gitlab.com/smlatorreo/plant-adna-pipeline).
 - `02_Plant_aDNA_screening_main.sh`: Main pipeline to calculate aDNA damage metrics.
 
-**Input**: Paired-end FASTQ files (*_1.fastq.gz and *_2.fastq.gz) in 1_initial_data/ directory
+The screening pipeline assesses library quality, sequencing run quality, DNA degradation magnitude, endogenous DNA percentage, and authenticates aDNA through quantification of nucleotide misincorporations
 
-**Output**: Directory structure with:
+**Inputs**: Paired-end FASTQ files (*_1.fastq.gz and *_2.fastq.gz) in 1_initial_data/ directory
+
+**Outputs**: Directory structure with:
 
 - `2_trimmed_merged/` - Adapter-trimmed and merged reads
-- `3_quality_control/` - FastQC reports and MultiQC summary
-- `4_mapping/` - BAM files, mapping statistics, flagstat logs
-- `5_aDNA_characteristics/` - MapDamage2 outputs (damage patterns, fragment distributions)
+- `3_quality_control/` - FastQC reports
+- `4_mapping/` - BAM files and mapping statistics
+- `5_aDNA_characteristics/` - MapDamage2 outputs 
 - `6_AMBER/` - Mapping bias assessment
 - `7_preseq/` - Complexity curves and yield predictions
 
@@ -62,14 +57,14 @@ install.packages(packages)
 ### External Data
 CHELSA V2.1 Climate Data: Download from https://chelsa-climate.org/
 
-Required bioclimatic variables:
+**Required bioclimatic variables:**
 ```
 CHELSA_bio1_1981-2010_V.2.1.tif (Annual mean temperature)
 CHELSA_bio4_1981-2010_V.2.1.tif (Temperature seasonality)
 CHELSA_bio12_1981-2010_V.2.1.tif (Annual precipitation)
 CHELSA_bio15_1981-2010_V.2.1.tif (Precipitation seasonality)
 ```
-Required monthly data:
+**Required monthly data:**
 ```
 monthly/tas/CHELSA_tas_01_1981-2010_V.2.1.tif through CHELSA_tas_12_1981-2010_V.2.1.tif
 monthly/pr/CHELSA_pr_01_1981-2010_V.2.1.tif through CHELSA_pr_12_1981-2010_V.2.1.tif
@@ -77,12 +72,12 @@ monthly/pr/CHELSA_pr_01_1981-2010_V.2.1.tif through CHELSA_pr_12_1981-2010_V.2.1
 
 Place all files in chelsa_data/ directory.
 
-Reference Genomes: Download from NCBI (see manuscript Table 2 for BioProject IDs)
+**Reference Genomes:** Download from NCBI (see manuscript Table 2 for BioProject IDs)
 
 ## Script `aDNA_Dmg_Script00_collate_screening_results.r`
 Collates aDNA damage metrics generated by `02_Plant_aDNA_screening_main.sh`, in addition to:
 
-- Calculating the damage fraction per site (λ) by fitting exponential decay to fragment length distribution, as described in (weiss+kistler). 
+- Calculating the damage fraction per site (λ) by fitting exponential decay to fragment length distribution, as described in [Weiß *et. al.*, 2016](https://royalsocietypublishing.org/doi/10.1098/rsos.160239) and [Kistler *et. al.*, 2017](https://academic.oup.com/nar/article/45/11/6310/3806656)
 - Analysing 5' C>T damage patterns by fitting exponential models to the first 20 bases.
 - Generates QC plots showing lambda fits and damage decay curves.
 
@@ -98,3 +93,16 @@ Outputs:
 - `aDNA_damage_screening_MAIN.txt` - Main results table with all calculated metrics
 - `*_lambda_fit.pdf` - Individual plots showing fragment length decay and lambda calculation
 - `*_dmg_decay.pdf` - Individual plots showing 5' C>T damage decay patterns
+
+## Script `aDNA_Dmg_Script01_DataPrep.r`
+Generates descriptive statistics and exploratory visualizations.
+
+**input:**
+
+`aDNA_damage_screening_MAIN.txt`
+
+**outputs:**
+- Species distribution by herbarium (bar plots)
+- Temporal distribution of samples (histograms)
+- Geographic distribution maps
+- Climate overlay maps (temperature and precipitation)
