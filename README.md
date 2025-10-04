@@ -7,6 +7,8 @@ Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M.
 Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens**  
 d.o.i.: [XXXXXXXXXXXXXXX](https://linktodoi.com)
 
+![Final_figures](Data/aDNA_Dmg_Graphical_Abstract.png)
+
 ## Overview
 
 The workflow processes low-throughput (screening) sequencing data from 573 herbarium samples representing six plant species from two genera (*Hordeum* and *Oryza*) collected over a 220-year period (1797-2017) across the Americas and Eurasia.
