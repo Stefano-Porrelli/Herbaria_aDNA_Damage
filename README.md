@@ -213,7 +213,7 @@ Examines the relationship between temperature and DNA deamination using linear m
 - 5' C>T damage ~ Collection temperature
 - Genus-specific temperature effects
 
-## References:
+## References
 
 Dolenz, S., van der Valk, T., Jin, C., Oppenheimer, J., Sharif, M.B., Orlando, L., Shapiro, B., Dalén, L. and Heintzman, P.D. (2024) 'Unravelling reference bias in ancient DNA datasets', *Bioinformatics*, 40(7) [10.1093/bioinformatics/btae436](https://doi.org/10.1093/bioinformatics/btae436)
 
@@ -222,4 +222,3 @@ Kistler, L., Ware, R., Smith, O., Collins, M. and Allaby, R.G. (2017) 'A new mod
 Latorre, S.M., Lang, P.L.M., Burbano, H.A. and Gutaker, R.M. (2020) 'Isolation, Library Preparation, and Bioinformatic Analysis of Historical and Ancient Plant DNA', *Current Protocols in Plant Biology*, 5(4) [10.1002/cppb.20121](https://doi.org/10.1002/cppb.20121)
 
 Weiß, C.L., Schuenemann, V.J., Devos, J., Shirsekar, G., Reiter, E., Gould, B.A., Stinchcombe, J.R., Krause, J. and Burbano, H.A. (2016) 'Temporal patterns of damage and decay kinetics of DNA retrieved from plant herbarium specimens', *Royal Society Open Science*, 3(6) [10.1098/rsos.160239](https://doi.org/10.1098/rsos.160239)
-
