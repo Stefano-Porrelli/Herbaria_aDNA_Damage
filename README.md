@@ -108,7 +108,7 @@ Generates descriptive statistics and exploratory visualizations.
 
 **input:**
 
-`aDNA_damage_screening_MAIN.txt`
+- `aDNA_damage_screening_MAIN.txt`
 
 **outputs:**
 
@@ -123,7 +123,62 @@ Examines relationships between aDNA damage metrics (endogenous fraction, fragmen
 
 **input:**
 
-`aDNA_damage_screening_MAIN.txt`
+- `aDNA_damage_screening_MAIN.txt`
 
 **outputs:**
+
+- Endogenous fraction ~ Collection year
+- Fragment length ~ Collection year
+- Lambda (λ) ~ Sample age & DNA decay rates (*k*)
+- 5' C>T damage ~ Sample age
+
+## Script `aDNA_Dmg_Script03_fragment_size_subset.r`
+
+Validates bioinformatic fragment size estimates using TapeStation data for a subset of the data (*N* = 40) using linear models.
+
+**input:**
+
+- `aDNA_damage_screening_SUBSET_TAPESTATION_gDNA.txt`
+
+**outputs:**
+
+- Library peak size ~ Median fragment size
+- Library peak size ~ gDNA peak size
+- gDNA peak size ~ Median fragment size
+- gDNA peak size ~ Collection Year
+
+## Script `aDNA_Dmg_Script04_Covariance.r`
+
+Compares damage patterns between *Hordeum* and *Oryza* with analysis of covariance (ANCOVA) using sample age as covariate and genus as factor. Also tests for possible interactions between sample age and genus (i.e., differences in the slope of regression are dependent on genus).
+
+**input:**
+
+- `aDNA_damage_screening_MAIN.txt`
+
+**outputs:**
+
+- ANCOVA - Endogenous fraction
+- ANCOVA - Fragment length
+- ANCOVA - Lambda (λ)
+- ANCOVA - 5' C>T damage
+
+## Script `aDNA_Dmg_Script05a_CHELSA_ClimateData_varpart_MAIN.r`
+
+Quantify unique and shared contributions of environmental factors to DNA damage (factors: Temperature, Precipitation, Age, Genus).
+
+**input:**
+
+- `aDNA_damage_screening_MAIN.txt`
+- [CHELSA v.2.1 Climate data](https://chelsa-climate.org/)
+
+**outputs:**
+
+- VARPART - Endogenous fraction (Collection Climate / Annual Climate)
+- VARPART - Fragment length (Collection Climate / Annual Climate)
+- VARPART - Lambda (λ) (Collection Climate / Annual Climate)
+- VARPART - 5' C>T damage (Collection Climate / Annual Climate)
+
+## Script `aDNA_Dmg_Script05b_CHELSA_ClimateData_varpart_SUPPL.r`
+
+Supplementary variance partitioning analyses including herbarium effects, and excluding genus.
 
