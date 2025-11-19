@@ -229,4 +229,4 @@ multiqc 1_initial_data/ 2_trimmed_merged/ 3_quality_control/ 4_mapping/ 5_aDNA_c
         --cl-config "read_count_multiplier: 0.001" --cl-config "read_count_prefix: K" --cl-config "read_count_desc: thousands"
 check_command "MultiQC report generation"
 
-log "Pipeline complete! Check the MultiQC report in 3_quality_control/ for results summary."
+log "Pipeline complete! Check the MultiQC report for results summary."
