@@ -1,574 +1,574 @@
-Sample	Batch_no	Herbarium	Barcode	Genus	Species	Collection_date	Collection_day	Collection_month	Collection_year	Country	Province	District	Town_Village	Latitude_DD	Longitude_DD	Accuracy	Altitude_m	Tissue_weight_mg	DNA_concentration_QUANTUS_ng_ul	gDNA_DIN	Peak_size	LIB_concentration_tapestation_ng_ul	LIB_concentration_QUANTUS_ng_ul	
-HV0011	#002	RBGK	K001451010	Hordeum	vulgare	26/09/1939	26	9	1939	UK	England	WestKent	Turnbridge	51.13	0.26	Town level		10.9	0.83	NA	182	7.82	23	
-HV0012	#002	RBGK	K001451017	Hordeum	vulgare	01/08/1926	1	8	1926	UK	England	Kent	Gravesent	51.44	0.36	Town level		10.9	7.2	1	179	8.43	24	
-HV0013	#002	RBGK	K001451036	Hordeum	vulgare	30/05/1932	30	5	1932	UK	England	Bristol 	Avonmouth	51.5	-2.7	Town level		8.6	1.54	NA	181	7.76	19	
-HV0014	#002	RBGK	K001451034	Hordeum	vulgare	10/06/1954	10	6	1954	UK	England	Gloucestershire	Sharpness	51.72	-2.48	Town level		12.8	30	1.1	183	5.88	24	
-HV0015	#002	RBGK	K001451033	Hordeum	vulgare	02/09/1936	2	9	1936	UK	England	Bristol	Sneyd Park	51.47	-2.63	Town level		2.2	0.314	NA	180	1.26	4.34	
-HV0016	#002	RBGK	K001451037	Hordeum	vulgare	17/07/1942	17	7	1942	UK	England	Warwickshire	Cranhill	52.19	-1.83	Town level		6.4	17	NA	183	17.2	54	
-HV0017	#002	RBGK	K001451038	Hordeum	vulgare	13/08/1918	13	8	1918	UK	England	Warwickshire	Warwick	52.28	-1.59	Town level		8.2	1.93	NA	181	3.18	9.5	
-HV0018	#002	RBGK	K001451027	Hordeum	vulgare	11/06/1946	11	6	1946	UK	England	Oxfordshire	Oxford	51.75	-1.26	Town level		6.8	1.52	NA	182	6.57	17	
-HV0019	#002	RBGK	K001451029	Hordeum	vulgare	12/08/1934	12	8	1934	UK	England	Norfolk	Grimston	52.77	0.55	Town level		7.2	0.782	NA	187	1.88	5.2	
-HV0020	#002	RBGK	K001451039	Hordeum	vulgare	09/09/1937	9	9	1937	UK	England	Staffordshire	Burton-upon-Trent	52.8	-1.64	Town level		9.6	44	NA	175	5.47	21	
-HS0011	#004	RBGK	K001451900	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		13.7	17	NA	182	3.58	4.86	
-HS0012	#004	RBGK	K001451899	Hordeum	spontaneum	10/04/1949	10	4	1949	Cyprus	Northern Cyprus	Kyrenia	Kyrenia	35.34	33.32	Town level		4.7	3.29	NA	182	7.76	12	
-HS0013	#004	RBGK	K001451898	Hordeum	spontaneum	22/04/1956	22	4	1956	Cyprus	SouthCyprus	Limassol	Asomatos	34.64	32.96	Town level		10.5	42	NA	181	6.8	11	
-HS0014	#004	RBGK	K001451897	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		6.5	3.78	NA	186	10.2	14	
-HS0015	#004	RBGK	K001451896	Hordeum	spontaneum	02/05/1982	2	5	1982	Cyprus	SouthCyprus	Nicosia	Agrokipia	35.04	33.15	Town level		9.8	68	NA	192	15.8	28	
-HS0016	#004	RBGK	K001451895	Hordeum	spontaneum	27/03/1957	27	3	1957	Cyprus	Northern Cyprus	Lefke	Evrychoqu	35.08	32.88	Town level		6.4	15	NA	188	24	33	
-HS0017	#004	RBGK	K001411326	Hordeum	spontaneum	2015	NA	NA	2015	Cyprus	Nicosia	Agia Marina	NA	35.05	33.05	GPS		10.2	81	NA	191	11.9	20	
-HS0018	#004	RBGK	K001451906	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		6.8	5.2	NA	178	10.2	17	
-HS0019	#004	RBGK	K001451905	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		7.7	24	NA	185	9.22	14	
-HS0020	#004	RBGK	K001451904	Hordeum	spontaneum	27/03/1936	27	3	1936	Cyprus	SouthCyprus	Aronas	Athalassa	35.13	33.41	Town level		11.3	28	NA	185	9.32	13	
-HS0001	#006	RBGK	K001451894	Hordeum	spontaneum	24/05/1957	24	5	1957	Turkey	Mardin	Savur	Savur	37.56	40.68	Town level		8.8	41	NA	188	13.8	39	
-HS0003	#006	RBGK	K001451893	Hordeum	spontaneum	26/04/1965	26	4	1965	Turkey	Izmir	Cesme	Şifne	38.32	26.41	Town level		9.5	28	NA	192	16.2	44	
-HS0004	#006	RBGK	K001451892	Hordeum	spontaneum	06/05/1969	6	5	1969	Turkey	Canakkale	Canakkale	Canakkale	40.15	26.41	Town level		9.7	12	NA	187	17.3	41	
-HS0005	#006	RBGK	K001451890	Hordeum	spontaneum	02/05/1966	2	5	1966	Turkey	Mardin	Savur	Savur	37.56	40.68	Town level		7.6	37	NA	190	16.6	45	
-HS0006	#006	RBGK	K001451889	Hordeum	spontaneum	02/05/1966	2	5	1966	Turkey	Şanlıurfa	Ceylanpınar	Viransehir	37.04	39.92	Town level		6.2	6.8	NA	187	15.2	27	
-HS0008	#006	RBGK	K001451887	Hordeum	spontaneum	11/05/1988	11	5	1988	Turkey	Adiyaman	Kahta	Kahta	37.87	38.68	Town level		7.1	10	NA	191	25.9	45	
-HS0009	#006	RBGK	K001451886	Hordeum	spontaneum	11/05/1988	11	5	1988	Turkey	Diyarbakir	Diyarbakir	Kahta	37.9	40.03	Town level		3.3	1.63	NA	186	8.55	15	
-HS0010	#006	RBGK	K001451901	Hordeum	spontaneum	06/04/1955	6	4	1955	Cyprus	Northern Cyprus	Kyrenia	Kyrenia	35.34	33.32	Town level		6.7	27	NA	181	16.9	29	
-HS0036	#006	RBGK	K001451941	Hordeum	spontaneum	14/05/1994	14	5	1994	Israel	Northern District	GolanHeights	GIvatYoav	32.8	35.67	Town level		7.1	13	NA	188	16.6	35	
-HS0037	#006	RBGK	K001451940	Hordeum	spontaneum	11/05/1994	11	5	1994	Israel	SouthernDistrict	NegevDesert	Her Ramon	30.5	34.6	Town level		8	19	NA	186	25.2	48	
-HV0001	#010	RBGK	K001451021	Hordeum	vulgare	07/09/1927	7	9	1927	UK	England	EastLondon	Dagenham	51.54	0.14	Town level		6.6	11	NA	182	22.9	25	
-HV0002	#010	RBGK	K001451022	Hordeum	vulgare	08/07/1923	8	7	1923	UK	England	Essex	Colchester	51.9	0.9	Town level		8.3	2.73	NA	182	12.6	16	
-HV0003	#010	RBGK	K001451023	Hordeum	vulgare	10/10/1931	10	10	1931	UK	England	Hertfordshire	Hitchin	51.95	-0.28	Town level		9.3	11	NA	189	18.2	29	
-HV0004	#010	RBGK	K001451024	Hordeum	vulgare	20/10/1935	20	10	1935	UK	England	Uxbridge	Hillingdon	51.53	-0.45	Town level		4.4	4.96	1.2	185	22.5	29	
-HV0007	#010	RBGK	K001451006	Hordeum	vulgare	20/08/1925	20	8	1925	UK	IsleWight	Newport	Newport	50.7	-1.29	Town level		5.6	5.3	NA	181	26.2	27	
-HV0008	#010	RBGK	K001451007	Hordeum	vulgare	01/06/1934	1	6	1934	UK	IsleWight	Cowes	Floating Bridge	50.76	-1.29	Town level		3.4	2.93	NA	184	19.2	22	
-HV0009	#010	RBGK	K001451016	Hordeum	vulgare	12/07/1936	12	7	1936	UK	England	WestKent	High Brooms	51.15	0.28	Town level		6.3	9.5	NA	192	19	23	
-HV0010	#010	RBGK	K001451012	Hordeum	vulgare	05/07/1936	5	7	1936	UK	London	Bromley	Green Street Green	51.35	0.09	Town level		3.4	2.42	NA	188	20.6	29	
-HV0021	#010	RBGK	K001451041	Hordeum	vulgare	29/05/1927	29	5	1927	UK	Wales	Cardiff	Cardiff	51.48	-3.18	Town level		5.8	8	NA	177	1.38	3.45	
-HV0022	#010	RBGK	K001451040	Hordeum	vulgare	23/09/1926	23	9	1926	UK	Wales	Cardiff	Cardiff	51.48	-3.18	Town level		7.1	3.36	NA	177	1.53	2.29	
-HV0005	#011	RBGK	K001451028	Hordeum	vulgare	13/08/1944	13	8	1944	UK	England	Oxfordshire	Kidlington	51.82	-1.29	Town level		7.2	4.12	NA	183	16.5	18	
-HV0006	#011	RBGK	K001451005	Hordeum	vulgare	01/08/1943	1	8	1943	UK	Cornwall	Devon	South Molton	51.02	-3.83	Town level		5.3	1.15	NA	180	6.71	8.7	
-HV0029	#011	RBGK	K001451049	Hordeum	vulgare	16/07/1956	16	7	1956	Luxembourg	Luxembourg	Lorentzweiler	Bofferdange	49.68	6.13	Town level		4.8	7.9	NA	184	17.4	20	
-HV0035	#011	RBGK	K001453038	Hordeum	vulgare	13/06/1937	13	6	1937	Cyprus	SouthCyprus	Limassol	Krios river	34.68	33.04	District level		5	5.8	NA	187	11.1	12	
-HV0036	#011	RBGK	K001453037	Hordeum	vulgare	11/04/1937	11	4	1937	Cyprus	NA	NA	NA	35	33	Country level		2.9	2.39	NA	183	13.3	17	
-HV0044	#011	RBGK	K001453042	Hordeum	vulgare	12/04/1932	12	4	1932	Iraq	Baghdad	NA	NA	33.3	44.39	Province level		7.3	0.128	NA	184	1.74	2.96	
-HV0045	#011	RBGK	K001453041	Hordeum	vulgare	28/04/1947	28	4	1947	Iraq	Sulaymaniyah	Sulaymaniyah	Bakrajo	35.55	45.36	Town level		3.4	3.66	NA	183	18.2	16	
-HV0046	#011	RBGK	K001453040	Hordeum	vulgare	24/03/1947	24	3	1947	Iraq	Al Anbar	Hit	Hit	33.65	42.83	Town level		6.5	5.8	NA	184	17.5	25	
-HV0047	#011	RBGK	K001453048	Hordeum	vulgare	16/03/1947	16	3	1947	Iraq	Qwasit	AL Kut	Kut al-Imara	32.51	45.82	Town level		6.2	3.98	NA	184	14.6	20	
-HV0050	#011	RBGK	K001453044	Hordeum	vulgare	29/03/1947	29	3	1947	Iraq	AL Anbar	Rawa	NA	34.47	41.92	District level		5.7	8.6	NA	183	8.37	15	
-HV0023	#012	RBGK	K001451042	Hordeum	vulgare	27/08/1862	27	8	1862	UK	Wales	Gwynedd	Llanberis	53.12	4.13	Town level		3.6	0.949	NA	179	1.21	1.45	
-HV0025	#012	RBGK	K001451046	Hordeum	vulgare	01/07/1866	1	7	1866	NA	NA	NA	NA	NA	NA	NA		10.2	4.45	NA	179	9.82	8.9	
-HV0027	#012	RBGK	K001451048	Hordeum	vulgare	04/07/1882	4	7	1882	Switzerland	Vaud	NA	NA	46.62	6.55	Province level		4.4	0.989	NA	180	8.93	8.2	
-HV0040	#013	RBGK	K001453035	Hordeum	vulgare	1873	NA	NA	1873	Palestine	NA	NA	NA	32	35.25	Country level		9.8	1.82	NA	180	0.22	0.431	
-HV0042	#013	RBGK	K001453033	Hordeum	vulgare	15/01/1886	15	1	1886	Palestine	Jennin	Jennin	NA	32.46	35.3	District level		11.8	1.5	NA	177	0.148	0.292	
-HV0043	#013	RBGK	K001453032	Hordeum	vulgare	15/01/1886	15	1	1886	Palestine	Jennin	Jennin	NA	32.46	35.3	District level		10.8	0.314	NA	184	0.311	0.471	
-HV0048	#013	RBGK	K001453047	Hordeum	vulgare	22/05/1883	22	5	1883	Turkey	Canakkale	Canakkale	NA	40.12	26.43	Province level		6.7	1.27	NA	177	0.126	0.204	
-HV0059	#013	RBGK	K001453063	Hordeum	vulgare	25/04/1982	25	4	1892	Iran	Kerman	Kerman	Kerman	30.29	57.07	Town level		7.9	1.28	NA	184	0.85	0.985	
-HV0052	#022	RBGK	K001453050	Hordeum	vulgare	15/05/1947	15	5	1947	Iraq	Erbil	Soran	Rawanduz	36.61	44.52	Town level		5.6	0.0841	NA	187	4.54	3.3	
-HV0055	#022	RBGK	K001453054	Hordeum	vulgare	12/04/1947	12	4	1947	Iraq	Diyala	Kifri	NA	34.68	44.97	District level		6	0.587	NA	186	2.28	2.06	
-HV0056	#022	RBGK	K001453058	Hordeum	vulgare	24/05/1948	24	5	1948	Iraq	Nineveh	Sinjar	Sinjar	36.32	41.86	Town level		6	1.29	NA	192	7.74	5.5	
-HV0024	#032	RBGK	K001451044	Hordeum	vulgare	01/07/1927	1	7	1927	UK	Scotland	St. Kilda	St. Kilda	57.81	-8.57	Town level		7.5	0.0567	NA	175	2.21	1.89	
-HV0034	#032	RBGK	K001451059	Hordeum	vulgare	25/04/1934	25	4	1934	Greece	Fournoi	Fournoi	Alatonisi	37.53	26.42	Town level		7.9	0.386	NA	178	10.5	8.4	
-HV0037	#033	RBGK	K001453036	Hordeum	vulgare	11/03/1982	11	3	1982	Cyprus	SouthCyprus	Nicosia	Orounda	35.1	33.09	Town level		10.3	17	NA	180	4.33	5.2	
-HV0092	#033	RBGK	K001453778	Hordeum	vulgare	23/03/1970	23	3	1970	Libya	Tripolitania	Misrata	NA	31.5	14.5	District level		6.4	0.285	NA	183	9.47	8.6	
-HV0219	#033	RBGK	K001459690	Hordeum	vulgare	14/05/1991	14	5	1991	Peru	Otuzco	La Lbertad	Salpo	-7.97	-78.6	District level		5.1	1.16	NA	190	3.83	3.7	
-HV0028	#034	RBGK	K001451047	Hordeum	vulgare	29/08/1845	29	8	1845	Switzerland	Vaud	Aigle	Gryon	46.27	7.07	Town level		5.9	0.0245	NA	177	2.13	1.55	
-HV0038	#036	RBGK	K001453030	Hordeum	vulgare	09/08/1962	9	8	1962	Turkey	Erzurum	Askale	Mt.Kop	40.04	40.52	Town level		9.5	12	1.2	181	4.13	5.3	
-HV0039	#036	RBGK	K001453029	Hordeum	vulgare	1967	NA	NA	1967	Turkey	Sirnak	Gizre	Mt.Cudi	37.39	42.43	Town level		6.9	0.13	NA	180	2.21	1.79	
-HV0074	#036	RBGK	K001453085	Hordeum	vulgare	15/01/1966	15	15	1966	Bahrain	Bahrain	Bahrain	NA	26.07	50.5	District level		9.6	1.59	NA	NA	NA	0.154	
-HV0095	#036	RBGK	K001453782	Hordeum	vulgare	01/04/1963	1	4	1963	Libya	Cyernaica	Marj	Zorda	32.47	20.83	Town level		5	0.136	NA	181	1	1.05	
-HS0021	#005	RBGK	K001451903	Hordeum	spontaneum	27/03/1936	27	3	1936	Cyprus	SouthCyprus	Aronas	Athalassa	35.13	33.41	Town level		9.4	24	NA	150	1.21	2.17	
-HS0022	#005	RBGK	K001451902	Hordeum	spontaneum	27/03/1936	27	3	1936	Cyprus	SouthCyprus	Aronas	Athalassa	35.13	33.41	Town level		5.9	23	NA	168	1.28	2.09	
-HS0023	#005	RBGK	K001434524	Hordeum	spontaneum	14/06/2017	14	6	2017	Armenia	Syunik	NA	Road	38.91	46.38	GPS		6.2	6.2	NA	181	0.04	0.418	
-HS0024	#005	RBGK	K001434528	Hordeum	spontaneum	14/06/2017	14	6	2017	Armenia	Syunik	NA	Kerchevan	38.9	46.18	GPS		6.4	3.35	NA	190	1.49	2.01	
-HS0039	#008	RBGK	K001451933	Hordeum	spontaneum	05/05/1994	5	5	1994	Israel	Jerusalem	Jerusalem	Avizohas	31.78	35.23	Town level		4.6	0.425	NA	179	0.567	0.596	
-HS0040	#008	RBGK	K001451932	Hordeum	spontaneum	06/05/1994	6	5	1994	Israel	Northern District	Upper Galilee	Rosh-Pina	32.95	35.53	Town level		9.1	3.39	NA	195	1.56	1.65	
-HS0041	#008	RBGK	K001451931	Hordeum	spontaneum	09/05/1994	9	5	1994	Israel	SouthernDistrict	Shephelah	Revadim	31.77	34.82	Town level		5.3	2.7	NA	189	6.64	5.5	
-HS0042	#008	RBGK	K001451934	Hordeum	spontaneum	14/05/1994	14	5	1994	Israel	NorthIsrael	Gilboa	EinHarod	32.56	35.39	Town level		2.1	0.976	NA	186	7	5.7	
-HS0043	#008	RBGK	K001451925	Hordeum	spontaneum	08/05/1994	8	5	1994	Israel	NorthIsrael	Haifa	Damon	32.73	35.04	Town level		8	1.11	NA	191	4.23	3.45	
-HS0047	#008	RBGK	K001451923	Hordeum	spontaneum	07/05/1973	7	5	1973	Israel	Northern District	Upper Galilee	Rosh-Pina	32.97	35.54	Town level		5.9	31	NA	191	6.27	7	
-HS0050	#008	RBGK	K001451920	Hordeum	spontaneum	10/05/1994	10	5	1994	Israel	Jerusalem	Judean Hills	Motza	31.8	35.17	Town level		5.5	1.17	NA	186	0.385	0.574	
-HS0051	#008	RBGK	K001451919	Hordeum	spontaneum	13/04/1969	13	4	1969	Israel	NorthIsrael	Haifa	Ara	32.51	35.08	Town level		5.5	2.47	NA	183	0.397	0.974	
-HS0096	#014	RBGK	K001451967	Hordeum	spontaneum	07/04/1958	7	4	1958	Iraq	Amarah	Amarah	Fakkeh	32.06	47.68	District level		6.5	0.73	NA	187	4.05	4.28	
-HS0097	#014	RBGK	K001451965	Hordeum	spontaneum	28/03/1957	28	3	1957	Iraq	Masyan	Kuwait	Jabal al Muafla	32.42	47.3	Town level		9	10	NA	182	3.03	4.69	
-HS0098	#014	RBGK	K001451964	Hordeum	spontaneum	21/04/1957	21	4	1957	Iraq	NA	NA	NA	33	44	Country level		5.4	12	NA	191	2.78	3.41	
-HS0099	#014	RBGK	K001451973	Hordeum	spontaneum	21/06/1957	21	6	1957	Iraq	Sulaymaniyah	Qopi Quaradagh	NA	35.28	45.34	District level		6	11	NA	168	0.451	1.79	
-HS0100	#014	RBGK	K001451972	Hordeum	spontaneum	04/06/1948	4	6	1948	Iraq	Nineveh	Gwiske	NA	36.78	43.95	District level		4.4	12	NA	165	0.0581	0.829	
-HS0052	#015	RBGK	K001451918	Hordeum	spontaneum	22/05/1932	22	5	1932	Palestine	West Bank	Dara	NA	32	35.35	District level		6.9	0.746	NA	183	0.686	0.56	
-HS0079	#015	RBGK	K001451947	Hordeum	spontaneum	18/04/1943	18	4	1943	Syria	Homs	Tadmur	Palmyra	34.56	38.27	District level		3.6	1.78	NA	190	7.55	4.98	
-HS0081	#015	RBGK	K001451945	Hordeum	spontaneum	15/04/1939	15	4	1939	Syria	Aleppo	Manbij	NA	36.09	37.93	District level		3.6	0.763	NA	193	6.19	3.79	
-HS0084	#015	RBGK	K001451952	Hordeum	spontaneum	26/04/1945	26	4	1945	Jordan	Zarqa	Zarqa	Jebel Al Turno	32.05	36.1	District level		4.7	3.71	NA	184	10.4	6.9	
-HS0085	#015	RBGK	K001451951	Hordeum	spontaneum	17/04/1945	17	4	1945	Jordan	Jerash	Jersash	NA	32.28	35.9	District level		2.7	1.12	NA	194	4.81	1.49	
-HS0054	#016	RBGK	K001451915	Hordeum	spontaneum	21/03/1967	21	3	1967	Israel	SouthernDistrict	Dimona	Negev	31.04	35.2	Town level		7	4.86	NA	178	2.92	3.7	
-HS0055	#016	RBGK	K001451914	Hordeum	spontaneum	20/03/1967	20	3	1967	Israel	SouthernDistrict	Dimona	Negev	31.04	35.2	Town level		3.5	6.9	NA	183	3.19	3.54	
-HS0056	#016	RBGK	K001451913	Hordeum	spontaneum	24/04/1969	24	4	1969	Israel	UpperGalilee	MeronNatureReserve	Mt.Meron	32.99	35.41	Town level		4.7	7.8	NA	183	5.09	6	
-HS0111	#016	RBGK	K001451986	Hordeum	spontaneum	12/04/1947	12	4	1947	Iraq	Diyala	Kifri	Kifri	34.68	44.97	Town level		3.2	2.17	NA	184	3.46	2.77	
-HS0112	#016	RBGK	K001451985	Hordeum	spontaneum	02/04/1947	2	4	1947	Iraq	Saladin	NA	Mt. Makhul	35.11	43.43	Town level		5.9	11	NA	182	4.27	5.2	
-HS0113	#016	RBGK	K001451984	Hordeum	spontaneum	15/05/1947	15	5	1947	Iraq	Erbil	Soran	Mt. Hadrayn	36.58	44.61	Town level		5.3	11	NA	180	3.31	4.1	
-HS0114	#016	RBGK	K001451983	Hordeum	spontaneum	31/03/1950	31	3	1950	Iraq	Diyala	Baladrooz	NA	33.67	45.41	District level		6.7	3.02	NA	187	2.71	2.36	
-HS0115	#016	RBGK	K001451982	Hordeum	spontaneum	31/03/1950	31	3	1950	Iraq	Diyala	Baladrooz	NA	33.67	45.41	District level		5.1	8.3	2.3	179	1.73	2.44	
-HS0116	#016	RBGK	K001451981	Hordeum	spontaneum	02/04/1948	2	4	1948	Iraq	Kirkuk	Al Hawija	Al Hawija	35.32	43.77	District level		10	29	NA	177	2.22	2.39	
-HS0117	#016	RBGK	K001451979	Hordeum	spontaneum	03/04/1962	3	4	1962	Iraq	Nineveh	Al Baaj	Al Baiyder	35.65	41.79	District level		3.2	2.75	NA	180	1.8	1.99	
-HS0002	#017	RBGK	K001451001	Hordeum	spontaneum	19/04/1914	19	4	1914	Greece	Crete	NA	Sitia	35.2	26.1	Town level		5.3	0.451	NA	194	2.79	2.54	
-HS0031	#017	RBGK	K001451991	Hordeum	spontaneum	06/05/1912	6	5	1914	Azerbaijan	Baku	Baku	NA	40.39	49.88	District level		3	1.15	NA	188	1.73	2.12	
-HS0046	#017	RBGK	K001451924	Hordeum	spontaneum	22/04/1933	22	4	1933	Palestine	West Bank	Dara	NA	32	35.35	District level		3.7	0.366	NA	197	0.511	0.923	
-HS0048	#017	RBGK	K001451922	Hordeum	spontaneum	19/04/2011	19	4	1911	Israel	West Bank	Bethelem	St. Theodosius Convent	31.72	35.28	Town level		5.1	0.244	NA	183	1.61	1.49	
-HS0049	#017	RBGK	K001451921	Hordeum	spontaneum	06/05/1935	6	5	1935	Israel	West Bank	Judean Hills	KfarEzion	31.65	35.12	Town level		4.1	0.453	NA	188	0.467	0.754	
-HS0053	#017	RBGK	K001451916	Hordeum	spontaneum	22/04/1911	22	4	1911	Egypt	Suez	Suez	Uyun Musa	29.87	32.65	Town level		5.4	1.48	NA	188	3.05	3.22	
-HS0057	#017	RBGK	K001451910	Hordeum	spontaneum	02/05/1911	2	5	1911	Palestine	West Bank	Jericho	Jabbok river	31.99	35.52	District level		8	1.9	NA	183	3.45	3.88	
-HS0058	#017	RBGK	K001451909	Hordeum	spontaneum	02/05/1911	2	5	1911	Palestine	West Bank	Jericho	Jabbok river	31.99	35.52	District level		6	0.0296	NA	187	0.208	0.351	
-HS0060	#017	RBGK	K001451907	Hordeum	spontaneum	19/04/1911	19	4	1911	Palestine	West Bank	Jericho	"St, Georges Convent"	31.84	35.42	Town level		3.9	0.837	NA	186	1.3	1.57	
-HS0082	#017	RBGK	K001451944	Hordeum	spontaneum	01/05/1911	1	5	1911	Syria	Hama	Hama	NA	34.94	36.75	District level		7.2	5.6	NA	183	4.09	4.47	
-HS0089	#018	RBGK	K001451963	Hordeum	spontaneum	1958	NA	NA	1958	Iraq	Sulaymaniyah	Halabja	Kuh I Bamu	35.08	45.99	Town level		4.8	3.94	NA	190	9.22	9.1	
-HS0104	#018	RBGK	K001451977	Hordeum	spontaneum	16/04/1975	16	4	1975	Iraq	Erbil	MGU	Darband	36.7	44.91	Town level		5	15	NA	192	6	6.4	
-HS0107	#018	RBGK	K001451974	Hordeum	spontaneum	26/04/1963	26	4	1963	Iraq	Sulaymaniyah	Darbandikhan	NA	35.05	45.67	District level		2.9	0.161	NA	194	2.03	1.64	
-HS0109	#018	RBGK	K001451988	Hordeum	spontaneum	30/04/1956	30	4	1956	Iraq	Duhok	Zawita	Zawita	36.91	43.14	Town level		5.6	18.5	NA	195	3.51	4.49	
-HS0130	#019	RBGK	K001453003	Hordeum	spontaneum	27/04/1963	27	4	1963	Iran	Lorestan	NA	NA	33.1	47.72	GPS		5.9	14	NA	191	0.0472	0.141	
-HS0131	#019	RBGK	K001453002	Hordeum	spontaneum	01/04/1953	1	4	1953	Iran	Fars	Larestan	Lar	27.66	54.32	Town level		6.5	18	NA	190	0.0239	0.12	
-HS0134	#019	RBGK	K001453025	Hordeum	spontaneum	10/05/1971	10	5	1971	Afghanistan	Baghlan	NA	Doshi	36.06	68.53	District level		7.8	27	NA	186	6.7	9.3	
-HS0135	#019	RBGK	K001453024	Hordeum	spontaneum	08/05/1976	8	5	1976	Afghanistan	Herat	Gulran	Gulran	35.1	61.67	Town level		5.8	3.63	NA	188	8.48	9.8	
-HS0142	#024	RBGK	K001453011	Hordeum	spontaneum	24/03/1993	24	3	1993	Saudi Arabia	Hail	Hail	JebelAja	27.47	41.47	Town level		7.3	12	NA	185	2.13	3.1	
-HS0143	#024	RBGK	K001453010	Hordeum	spontaneum	05/04/1989	5	4	1989	Saudi Arabia	ALMadinah	NA	Al Figrah	24.37	38.98	Town level		6.3	25	NA	185	2.26	4.66	
-HS0144	#024	RBGK	K001453009	Hordeum	spontaneum	08/03/1988	8	3	1988	Saudi Arabia	NorthernBorders	Turaif	Turaif	31.68	38.65	Town level		3.7	0.145	NA	190	1.46	1.38	
-HS0146	#024	RBGK	K001453014	Hordeum	spontaneum	19/03/1990	19	3	1990	Egypt	Marsa Matruh	Marsa Matruh	Marsa Matruh	31.35	27.24	Town level		7.1	0.385	NA	186	1.2	1.14	
-HS0153	#024	RBGK	K001453880	Hordeum	spontaneum	23/05/1994	23	5	1994	Turkmenistan	Ahal	Annau	Annau	37.88	58.53	GPS		8.6	0.333	NA	189	4.92	4.24	
-HS0162	#024	RBGK	K001375640	Hordeum	spontaneum	08/11/1986	8	11	1986	Syria	Aleppo	Aleppo	Aleppo	36.2	37.16	Town level		4.8	0.562	NA	197	1.31	1.31	
-HS0165	#024	RBGK	K001375643	Hordeum	spontaneum	24/05/1967	24	5	1967	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		7.8	0.945	NA	181	4.66	3.86	
-HS0170	#026	RBGK	K001375654	Hordeum	spontaneum	1961	NA	NA	1961	Afghanistan	NA	NA	NA	NA	NA	Glasshouse		4.3	11	NA	188	9.41	9.5	
-HS0172	#026	RBGK	K001375652	Hordeum	spontaneum	30/05/1970	30	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		5	2.25	NA	179	7.22	6.2	
-HS0174	#026	RBGK	K001375650	Hordeum	spontaneum	25/05/1970	25	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		7.8	0.0868	NA	181	2.85	2.6	
-HS0175	#026	RBGK	K001375649	Hordeum	spontaneum	09/06/1970	9	6	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		6.6	0.0657	NA	181	1	1.24	
-HS0176	#026	RBGK	K001375648	Hordeum	spontaneum	24/05/1970	24	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		5	0.19	NA	182	3.12	2.75	
-HS0121	#031	RBGK	K001451999	Hordeum	spontaneum	01/04/1868	1	4	1868	Iran	Fars	Kazerun	Kazerun	29.62	51.66	Town level		5.2	0.901	NA	173	4.26	4.01	
-HS0145	#031	RBGK	K001453015	Hordeum	spontaneum	29/04/1885	29	4	1885	Iran	Bushehr	Dashtestan	Dalaki	29.43	51.29	Town level		7.9	0.0435	NA	176	4.91	3.84	
-HS0160	#031	RBGK	K001459035	Hordeum	spontaneum	1867	NA	NA	1867	Pakistan	Balochistan	Quetta	NA	30.18	67	District level		14	3.99	NA	174	6.74	7.9	
-HS0155	#032	RBGK	K001453878	Hordeum	spontaneum	26/05/1900	26	5	1900	Turkmenistan	Ashgabat	Ashgabat	NA	37.94	58.38	DIstrict level		9.4	0.734	NA	182	9.05	6.8	
-HS0156	#032	RBGK	K001453877	Hordeum	spontaneum	10/06/1909	10	6	1909	Kyrgyzstan	NA	NA	Karasu	41	75	Country level		7	9.4	1	178	9.1	9.1	
-HS0158	#032	RBGK	K001453875	Hordeum	spontaneum	13/05/1895	13	5	1895	Kazakhstan	NA	NA	NA	NA	NA	NA		8.9	0.891	NA	181	3.79	3.19	
-HS0061	#033	RBGK	K001451942	Hordeum	spontaneum	07/05/1994	7	5	1994	Israel	SouthernDistrict	Netivot	NA	31.41	34.61	District level		5.1	0.562	NA	189	6.01	5.5	
-HS0025	#005	RBGK	K001434527	Hordeum	spontaneum	21/06/2017	21	6	2017	Armenia	Tavush	Road	Road	41.18	44.89	GPS		7.4	8.6	NA	190	16.1	16	
-HS0026	#005	RBGK	K001434526	Hordeum	spontaneum	23/06/2017	23	6	2017	Armenia	Yerevan	Yerevan	NorNorq/Erebuni	40.15	44.54	GPS		1.9	43	NA	191	10.1	13	
-HS0027	#005	RBGK	K001434525	Hordeum	spontaneum	23/06/2017	23	6	2017	Armenia	Yerevan	Yerevan	Hrazdan	40.18	44.5	GPS		11.1	12	NA	191	14.3	9.3	
-HS0029	#005	RBGK	K001451990	Hordeum	spontaneum	1956	NA	NA	1956	Azerbaijan	Baku	Baku	Baku	40.39	49.88	District level		6.7	41	NA	189	20.7	29	
-HS0030	#005	RBGK	K001451989	Hordeum	spontaneum	13/05/1912	13	5	1912	Azerbaijan	Baku	Baku	NA	40.39	49.88	District level		7.1	27	NA	183	11.5	13	
-HS0038	#008	RBGK	K001451935	Hordeum	spontaneum	07/05/1994	7	5	1994	Israel	NorthIsrael	Haifa	Binyamina	32.52	34.97	Town level		7.7	6.7	NA	189	7.04	7	
-HS0044	#008	RBGK	K001451926	Hordeum	spontaneum	20/04/1999	20	4	1999	Israel	UpperGalilee	Jazreel Valley	Bethlehem	32.74	35.19	Town level		7.7	35	-	187	14.4	13	
-HS0091	#014	RBGK	K001451961	Hordeum	spontaneum	25/03/1980	25	3	1980	Iraq	Diyala	Balad Ruz	Mandali	33.92	45.4	Town level		6.8	10	1.6	184	13.4	12	
-HS0092	#014	RBGK	K001451960	Hordeum	spontaneum	01/04/1962	1	4	1962	Iraq	Saladin	NA	Baiji/Haditha	34.58	42.99	District level		8.2	5.7	NA	183	13.5	11	
-HS0093	#014	RBGK	K001451959	Hordeum	spontaneum	02/05/1974	2	5	1974	Iraq	Nineveh	NA	Nimrud	36.1	43.33	Town level		12	13	NA	184	17.5	21	
-HS0094	#014	RBGK	K001451958	Hordeum	spontaneum	30/03/1962	30	3	1962	Iraq	AL Anbar	Rutba	Wadi Hawran	33.14	40.42	District level		5.2	5.5	NA	179	17.2	20	
-HS0095	#014	RBGK	K001451968	Hordeum	spontaneum	21/05/1948	21	5	1948	Iraq	Nineveh	Mosul	NA	36.36	43.13	District level		4.9	3.47	NA	189	9.09	9.7	
-HS0080	#015	RBGK	K001451946	Hordeum	spontaneum	16/04/1940	16	4	1940	Syria	NA	NA	NA	35	38	Country level		7	12	1.6	189	13.8	12	
-HS0086	#015	RBGK	K001451950	Hordeum	spontaneum	19/04/1945	19	4	1945	Jordan	Maan	Wadi Musa	NA	30.21	35.47	District level		6.9	4.01	NA	187	13.7	10	
-HS0101	#015	RBGK	K001451971	Hordeum	spontaneum	31/05/1948	31	5	1948	Iraq	Duhok	Akre	NA	36.73	43.88	District level		7.5	6.6	NA	189	12	9.1	
-HS0102	#015	RBGK	K001451970	Hordeum	spontaneum	08/05/1947	8	5	1947	Iraq	Duhok	Bedhair	NA	37.1	42.53	District level		4.9	11	NA	186	10.1	9.5	
-HS0103	#015	RBGK	K001451969	Hordeum	spontaneum	08/05/1932	8	5	1932	Iraq	NA	NA	NA	33	44	Country level		4.9	4.99	1.1	187	12.9	11	
-HS0088	#018	RBGK	K001451955	Hordeum	spontaneum	16/04/1963	16	4	1963	Jordan	EastJordan	Zarqa	Azraq	31.798	36.6	GPS		3.3	15	NA	193	10.1	12	
-HS0090	#018	RBGK	K001451962	Hordeum	spontaneum	08/07/1954	8	7	1954	Iraq	Diyala	NA	Jazira	34	44.94	Town level		4.3	4.19	NA	187	11.2	12	
-HS0105	#018	RBGK	K001451976	Hordeum	spontaneum	27/05/1970	27	5	1970	Iraq	Sulaymaniyah	Sulaymaniyah	NA	35.47	45.43	District level		6.7	21	NA	185	11.2	16	
-HS0106	#018	RBGK	K001451975	Hordeum	spontaneum	29/03/1960	29	3	1960	Iraq	Sulaymaniyah	Darbandikhan	NA	35.05	45.67	District level		5.4	8.7	NA	190	13.9	16	
-HS0108	#018	RBGK	K001451978	Hordeum	spontaneum	08/05/1963	8	5	1963	Iraq	Erbil	Erbil	Salaheddin	36.21	44	Town level		4.1	0.801	NA	190	11.5	12	
-HS0110	#018	RBGK	K001451987	Hordeum	spontaneum	08/05/1967	8	5	1967	Iraq	AL Anbar	Ar Rutba	NA	32.08	40.24	District level		6.8	3.87	NA	190	12.1	10	
-HS0132	#019	RBGK	K001453001	Hordeum	spontaneum	10/04/1960	10	4	1960	Iran	Lorestan	Khorramabad	Khorramabad	33.49	48.36	Town level		6	13	NA	NA	NA	13	
-HS0133	#019	RBGK	K001453026	Hordeum	spontaneum	15/04/1970	15	4	1970	Afghanistan	Bādghīs	NA	NA	35	63.75	Province level		3.5	3.53	NA	184	11.1	12	
-HS0136	#019	RBGK	K001453023	Hordeum	spontaneum	26/09/1976	26	9	1976	Afghanistan	IBB	Kitab	Jebel Sumara	14.18	44.28	Town level		6.4	22	NA	185	6.69	10	
-HS0137	#019	RBGK	K001453022	Hordeum	spontaneum	14/04/1970	14	4	1970	Afghanistan	Herat	Herat	Herat	34.34	62.2	Town level		5.8	9.1	NA	184	14.9	19	
-HS0138	#019	RBGK	K001453021	Hordeum	spontaneum	16/05/1964	16	5	1964	Afghanistan	Baghlan	Baghlan	NA	35.98	68.77	District level		9	22	NA	183	7.82	11	
-HS0083	#020	RBGK	K001451953	Hordeum	spontaneum	13/05/1976	13	5	1976	Jordan	Irbid	BaniKinanah	ALHemma	32.65	35.73	District level		3.7	3.15	NA	190	20.7	24	
-HS0087	#020	RBGK	K001451957	Hordeum	spontaneum	13/05/1976	13	5	1976	Jordan	Jerash	Jerash	NA	32.28	35.9	District level		6.6	12	NA	190	11.9	15	
-HS0122	#020	RBGK	K001451998	Hordeum	spontaneum	07/05/1963	7	5	1963	Iran	West Azerbeijan	Urmia	Urmia	37.54	45.06	Town level		3.9	6.2	NA	193	13.7	19	
-HS0123	#020	RBGK	K001451997	Hordeum	spontaneum	04/06/1964	4	6	1964	Iran	Hamadan	Hamadan	Hamadan	34.8	48.51	Town level		4.1	8.3	NA	193	18.4	20	
-HS0124	#020	RBGK	K001451996	Hordeum	spontaneum	21/05/1976	21	5	1976	Iran	Golestan	Maraveh Tappeh	Maraveh Tappeh	37.9	55.96	Town level		5.2	2	NA	193	9.08	11	
-HS0125	#020	RBGK	K001451995	Hordeum	spontaneum	14/05/1960	14	5	1960	Iran	Karmanshah	Karmanshah	NA	34.33	47.09	District level		8.4	17	NA	190	10.4	14	
-HS0126	#020	RBGK	K001451994	Hordeum	spontaneum	30/04/1961	30	4	1961	Iran	Fars	Fasa	NA	28.98	53.63	District level		3.9	3.69	NA	189	23.1	27	
-HS0127	#020	RBGK	K001453006	Hordeum	spontaneum	07/03/1946	7	3	1946	Iran	Khuzestan	Ahwaz	Ahwaz	31.3	48.68	Town level		4.1	6.9	NA	193	21.5	23	
-HS0128	#020	RBGK	K001453005	Hordeum	spontaneum	05/05/1958	5	5	1958	Iran	Golestan	Dashli Borun	Nārlidāq	37.7	55.23	Town level		5.3	0.482	NA	189	8.8	9	
-HS0129	#020	RBGK	K001453004	Hordeum	spontaneum	25/04/1929	25	4	1929	Iran	Qom	Qom	Qom	34.64	50.88	Town level		4.4	2.66	NA	183	18.3	20	
-HS0149	#024	RBGK	K001453774	Hordeum	spontaneum	18/04/1959	18	4	1959	Libya	Cyernaica	Marj	Al Marj	32.47	20.83	Town level		6	11	NA	190	17.8	18	
-HS0163	#024	RBGK	K001375641	Hordeum	spontaneum	02/11/1989	2	11	1989	Syria	Aleppo	Aleppo	Aleppo	36.2	37.16	Town level		6.7	8.8	NA	187	17	16	
-HS0164	#024	RBGK	K001375642	Hordeum	spontaneum	1989	NA	NA	1989	Israel	Northern District	Upper Galilee	Rosh-Pina	32.97	35.54	Town level		4	5.7	NA	188	22.7	17	
-HS0157	#026	RBGK	K001453876	Hordeum	spontaneum	04/06/1954	4	6	1954	Turkmenistan	Ashgabat	Ashgabat	Kopedag	37.94	58.38	Town level		9.8	16	NA	197	18.9	30	
-HS0166	#026	RBGK	K001375645	Hordeum	spontaneum	02/07/1958	2	7	1958	NA	NA	NA	NA	NA	NA	Glasshouse		7.8	18	NA	191	9.96	15	
-HS0171	#026	RBGK	K001375653	Hordeum	spontaneum	31/01/1961	31	1	1961	Afghanistan	NA	NA	NA	NA	NA	Glasshouse		5.2	18	NA	190	13.6	17	
-HS0173	#026	RBGK	K001375651	Hordeum	spontaneum	25/05/1970	25	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		8.3	1.76	NA	181	21.2	17	
-HS0007	#031	RBGK	K001451888	Hordeum	spontaneum	14/05/1883	14	5	1883	Turkey	Balikesir	NA	NA	39.63	27.88	Province level		9.9	11	1.2	175	7.62	10	
-HS0120	#031	RBGK	K001452000	Hordeum	spontaneum	01/05/1867	1	5	1867	NA	NA	NA	NA	NA	NA	NA		12	4.71	-	174	13.4	11	
-HS0140	#031	RBGK	K001453019	Hordeum	spontaneum	14/05/1885	14	5	1885	Afghanistan	Baghdad	NA	NA	35	63.75	Province level		10.4	1.15	NA	178	20.3	15	
-HS0141	#031	RBGK	K001453017	Hordeum	spontaneum	01/05/1822	1	5	1822	NA	NA	NA	NA	NA	NA	NA		6.1	3.46	NA	176	10.8	13	
-HS0151	#031	RBGK	K001453772	Hordeum	spontaneum	10/04/1887	10	4	1887	Libya	Cyernaica	Derna	Derna	32.76	22.64	Town level		6.5	2.1	NA	174	15.5	13	
-HS0168	#031	RBGK	K001375646	Hordeum	spontaneum	01/06/1885	1	6	1885	Germany	North Rhine-Westphalia	Bonn	Poppelsdorf	50.72	7.09	Town level		8.1	2.98	NA	173	12.4	12	
-HS0169	#031	RBGK	K001375647	Hordeum	spontaneum	1890	NA	NA	1890	Germany	North Rhine-Westphalia	Bonn	Poppelsdorf	50.72	7.09	Town level		7.7	1.71	NA	173	12.8	10	
-HS0147	#032	RBGK	K001453776	Hordeum	spontaneum	10/04/1933	10	4	1933	Libya	Cyernaica	Derna	Derna	32.76	22.64	Town level		3.9	1.33	NA	183	16.4	13	
-HS0148	#032	RBGK	K001453775	Hordeum	spontaneum	14/04/1939	14	4	1939	Libya	Cyernaica	Matj	Tolmeta	32.71	20.94	Town level		5.3	7.1	NA	181	12.6	13	
-HS0154	#032	RBGK	K001453879	Hordeum	spontaneum	07/05/1926	7	5	1926	Uzbekistan	Tashkent	NA	NA	41.3	69.3	Province level		8	8.1	-	179	12.2	12	
-HS0167	#032	RBGK	K001375644	Hordeum	spontaneum	24/05/1936	24	5	1936	NA	NA	NA	NA	NA	NA	Glasshouse		4.5	11	NA	177	8.42	9.4	
-HS0045	#033	RBGK	K001451928	Hordeum	spontaneum	10/05/1994	10	5	1994	Israel	Jerusalem	Jerusalem	BetShemesh	31.75	34.99	Town level		13.2	28	NA	193	20.9	22	
-HS0028	#005	RBGK	K001434268	Hordeum	vulgare	13/08/2015	13	8	2015	Armenia	Yerevan	Yerevan	Tokhmakh Cementary	40.15	44.53	GPS		5.7	34	NA	194	26.9	31	
-HV0031	#012	RBGK	K001451051	Hordeum	vulgare	17/05/1877	17	5	1877	France	Ile-de-France	Essonne	Milly-la-Foret	48.4	2.47	Town level		5.5	1.09	NA	182	13.6	12	
-HV0032	#012	RBGK	K001451050	Hordeum	vulgare	16/07/1876	16	7	1876	France	Ile-de-France	Paris	NA	48.86	2.35	Town level		5.9	1.87	NA	182	12.1	7.9	
-HV0053	#022	RBGK	K001453052	Hordeum	vulgare	13/04/1947	13	4	1947	Iraq	Kirkuk	Kirkuk	NA	35.47	44.32	District level		7.9	7.5	1.1	184	13.6	13	
-HV0054	#022	RBGK	K001453053	Hordeum	vulgare	13/04/1947	13	4	1947	Iraq	Kirkuk	Kirkuk	NA	35.47	44.32	District level		8.5	2.53	NA	180	17.9	16	
-HV0057	#022	RBGK	K001453057	Hordeum	vulgare	11/03/1960	11	3	1960	Iraq	Baghdad	NA	NA	33.3	44.39	Province level		8.5	11	NA	185	13.4	13	
-HV0058	#022	RBGK	K001453055	Hordeum	vulgare	12/04/1947	12	4	1947	Iraq	Diyala	Kifri	NA	34.68	44.97	District level		6.4	9.1	NA	184	24.2	22	
-HV0060	#022	RBGK	K001453064	Hordeum	vulgare	23/04/1842	23	4	1842	Iran	NA	NA	NA	NA	NA	NA		3.4	1.48	NA	182	26.5	22	
-HV0061	#022	RBGK	K001453071	Hordeum	vulgare	23/04/1842	23	4	1842	Iran	Fars	Marvdasht	Persepolis	29.93	52.87	Town level		6.5	6.6	1.5	185	16.1	15	
-HV0062	#022	RBGK	K001453062	Hordeum	vulgare	04/07/1948	4	7	1948	Iran	Alborz	NA	NA	35.93	50.9	Province level		9	15	NA	180	14	16	
-HV0026	#032	RBGK	K001451045	Hordeum	vulgare	1906	NA	NA	1906	NA	NA	NA	NA	NA	NA	NA		11.5	4.27	-	180	18.7	16	
-HV0065	#033	RBGK	K001453087	Hordeum	vulgare	17/04/1990	17	4	1990	Kuwait	Al Jahra	NA	NA	29.16	47.23	Road level		4.5	8.1	1.7	191	26.1	25	
-HV0073	#033	RBGK	K001453075	Hordeum	vulgare	06/04/1983	5	4	1983	Saudi Arabia	NorthernBorders	Turaif	Turaif	31.39	39.29	GPS		5	3.13	NA	187	27.2	25	
-HV0091	#033	RBGK	K001453779	Hordeum	vulgare	16/03/1970	16	3	1970	Libya	NA	Jabal al Gharbi	Jebel Nefoussa	31.81	12.13	District level		11.5	4.53	NA	184	25	30	
-HV0093	#033	RBGK	K001453777	Hordeum	vulgare	16/03/1970	16	3	1970	Libya	NA	Jabal al Gharbi	Jebel Nefoussa	31.38	12.44	District level		5.7	12	1.5	190	15.1	15	
-HV0094	#033	RBGK	K001453783	Hordeum	vulgare	15/03/1970	15	3	1970	Libya	NA	Jabal al Gharbi	Yefren	32.06	12.53	Town level		6.2	3.3	NA	185	28.2	28	
-HV0030	#034	RBGK	K001451052	Hordeum	vulgare	1827	NA	NA	1827	France	Auvergne-Rh�ne-Alpes	Chamonix 	Zarmatten	45.92	6.87	Town level		9.8	2.64	NA	182	18.3	10	
-HV0049	#034	RBGK	K001453045	Hordeum	vulgare	1867	NA	NA	1867	Iraq	Baghdad	NA	NA	33.3	44.39	Province level		15	5.8	NA	183	20.8	15	
-HV0075	#034	RBGK	K001453097	Hordeum	vulgare	1819	NA	NA	1819	Egypt	Alexandria	Alexandria	Alexandria	31.17	29.88	District level		10.8	0.357	NA	183	26.5	17	
-HV0076	#034	RBGK	K001453096	Hordeum	vulgare	1826	NA	NA	1826	Egypt	Alexandria	Alexandria	Alexandria	31.17	29.88	District level		14	0.27	NA	179	19.2	9.8	
-HV0080	#034	RBGK	K001453089	Hordeum	vulgare	1849	NA	NA	1849	Jordan	NA	NA	NA	30	35.25	Country level		9.8	1.17	NA	179	19.2	11	
-HV0081	#034	RBGK	K001453098	Hordeum	vulgare	1867	NA	NA	1867	India	Uttarakhand	Kumaon	NA	30.36	80.15	District level		7.6	12	1.6	183	15.9	15	
-HV0082	#034	RBGK	K001453100	Hordeum	vulgare	1867	NA	NA	1867	China	Lhasa	Dagzê	Kyunglung	31.03	80.58	Town level		5	2.56	NA	188	19.2	13	
-HV0083	#034	RBGK	K001453099	Hordeum	vulgare	1867	NA	NA	1867	Afghanistan	NA	NA	NA	34.5	69.25	Country level		8.1	2.16	NA	188	23.6	16	
-HV0085	#034	RBGK	K001453102	Hordeum	vulgare	1820	NA	NA	1820	NA	NA	NA	NA	NA	NA	NA		6.4	0.994	NA	179	19.7	12	
-HV0033	#036	RBGK	K001451058	Hordeum	vulgare	08/06/1986	8	6	1986	Spain	CastilleLeon	Burgos	Covanera	42.73	-3.8	Town level		7.9	12	NA	186	9.27	9.7	
-HV0069	#036	RBGK	K001453078	Hordeum	vulgare	28/10/1975	28	10	1975	Yemen	Ibb	Hubaysh	Yerim Hill	14.07	44.3	GPS		7.4	0.819	NA	185	13.1	12	
-HV0070	#036	RBGK	K001453077	Hordeum	vulgare	21/10/1975	21	10	1975	Yemen	Taiz	Taiz	Jebel Sabir	13.51	44.05	Town level		7.8	7.3	NA	183	18	17	
-HV0071	#036	RBGK	K001453076	Hordeum	vulgare	12/05/1977	12	5	1977	Yemen	Dhamar	Jahran	Mabar	14.79	44.29	Town level		11.9	9	NA	185	14.9	14	
-HV0072	#036	RBGK	K001453083	Hordeum	vulgare	26/04/1979	26	4	1979	Qatar	Zone71	Umm Salal	Umm Salal Muhammed	25.42	51.4	Town level		4.4	1.02	NA	182	18.6	17	
-HV0084	#036	RBGK	K001453101	Hordeum	vulgare	06/05/1971	6	5	1971	Afghanistan	Kandahar	Kandahar	Kandahar	31.62	65.72	Town level		5	6.3	NA	188	14.2	12	
-HRG0841	#001	RBGK	K000631581	Oryza	rufipogon	16/10/1928	16	10	1928	Thailand	Sa Kaeo	Aranyaprathet	Aranyaprathet	13.69	102.5	Town level		8.3	1.5	NA	178	5.62	11	
-HRG0842	#001	RBGK	K000631582	Oryza	rufipogon	16/10/1928	16	10	1928	Thailand	Sa Kaeo	Aranyaprathet	Aranyaprathet	13.69	102.5	Town level		6.2	1.01	NA	177	2.26	5.3	
-HRG0843	#001	RBGK	K000631585	Oryza	rufipogon	10/09/1930	10	9	1930	Thailand	Chonburi	NA	Utapao	12.67	100.99	Town level		11	9.9	1	184	14.1	32	
-HRG0844	#001	RBGK	K000631586	Oryza	rufipogon	28/12/1929	28	12	1929	Thailand	Ang Thong	NA	NA	14.59	100.46	Province level		9.1	5.1	1	183	18.3	40	
-HRG0845	#003	RBGK	K000631587	Oryza	rufipogon	28/12/1929	28	12	1929	Thailand	Ang Thong	NA	NA	14.59	100.46	Province level		9.7	2.75	NA	178	7.84	16	
-HRG0846	#003	RBGK	K000631588	Oryza	rufipogon	28/12/1929	28	12	1929	Thailand	Ang Thong	NA	NA	14.59	100.46	Province level		9.5	4.61	NA	182	4.67	11	
-HRG0847	#001	RBGK	K000631589	Oryza	rufipogon	22/11/1927	22	11	1927	Thailand	Chon Buri	Bang Lamung	Laem Chabang	13.08	100.89	Town level		14.5	11	NA	183	20.8	54	
-HRG0848	#001	RBGK	K000631590	Oryza	rufipogon	22/11/1927	22	11	1927	Thailand	Chon Buri	Bang Lamung	Laem Chabang	13.08	100.89	Town level		14.1	21	-	182	16.5	39	
-HRG0849	#003	RBGK	K000631592	Oryza	rufipogon	09/11/1926	9	11	1926	Thailand	Phetchaburi	NA	NA	13.11	99.94	Province level		8.5	2.19	NA	180	7.06	17	
-HRG0850	#001	RBGK	K000682204	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand	Nakhon Ratchasima	Chok Chai	Chok Chai	14.73	102.16	Town level		9.4	14	1.1	188	19.9	48	
-HRG0851	#001	RBGK	K000682205	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand	Nakhon Ratchasima	Chok Chai	Chok Chai	14.73	102.16	Town level		9.1	6.4	1.2	189	19.8	53	
-HRG0852	#001	RBGK	K000682206	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand	Buri Ram	Prakhon Chai	Pakhon	14.61	103.12	District level		8.2	8.4	1	194	19.2	44	
-HRG0853	#001	RBGK	K000682207	Oryza	rufipogon	26/11/1988	26	11	1988	Thailand	Surin	Mueang Surin	Nok Mueang	14.88	103.49	Town level		11.5	14	1	191	19.4	48	
-HRG0854	#003	RBGK	K000682210	Oryza	rufipogon	23/01/1955	23	1	1955	Thailand	Bangkok	Nonthan Buri	Bang Phlat	13.79	100.5	Town level		8.7	8	1.3	180	4.92	13	
-HRG0855	#003	RBGK	K000682212	Oryza	rufipogon	11/11/1961	11	11	1961	Thailand	Kanchanaburi	Mueang Kanchanaburi	Ban Kao	13.87	99.15	Town level		6.4	6.2	1.6	180	5.73	14	
-HRG0856	#003	RBGK	K000682213	Oryza	rufipogon	27/08/1972	27	8	1972	Thailand	Chanthaburi	Khao Khitchakut	Khao Pra bat	12.83	102.18	Town level		7	1.2	NA	187	4.15	9.7	
-HRG0857	#003	RBGK	K000682214	Oryza	rufipogon	14/11/1965	14	11	1965	Thailand	Bangkok	Phra Nakhon	Krungthep	13.76	100.5	Town level		9.7	0.525	NA	78	0.341	0.618	
-HRG0858	#003	RBGK	K000682218	Oryza	rufipogon	06/11/1984	6	11	1984	Thailand	Prachinburi	NA	NA	14.05	101.37	Province level		9.9	9.2	1.4	180	4.17	13	
-HRB0113	#027	NYBGUS	1758829	Oryza	latifolia	10/07/1937	10	7	1937	Mexico				15.322	-92.66		NA	9.1	0.619	NA	176	2.02	1.88	
-HRB0114	#027	NYBGUS	1758830	Oryza	latifolia	17/10/1960	17	10	1960	Mexico				21.15	-104.956		600	4.8	2.54	-	183	15.6	21	
-HRB0116	#027	NYBGUS	651828	Oryza	latifolia	03/03/1984	3	3	1984	Mexico				17.25	-94.58		100	7.4	0	NA	179	1.72	1.67	
-HRB0117	#027	NYBGUS	NA	Oryza	latifolia	30/07/1972	30	7	1972	Nicaragua				11.63	-84.81		NA	4.7	2.56	NA	186	22.3	22	
-HRB0118	#027	NYBGUS	NA	Oryza	latifolia	13/07/1971	13	7	1971	Panama				8.113	-77.701		NA	6.2	3.73	1.4	183	19.8	21	
-HRB0119	#027	NYBGUS	NA	Oryza	latifolia	07/06/1976	7	6	1976	Costa Rica				9.605	-82.795		30	8.1	5.7	1.4	181	15	15	
-HRB0120	#027	NYBGUS	1051527	Oryza	latifolia	03/04/1914	3	4	1914	Puerto Rico				18.2	-67.11		NA	7.2	0.862	NA	172	10.3	9.1	
-HRB0121	#027	NYBGUS	1604484	Oryza	latifolia	11/08/1903	11	8	1903	Haiti				19.812	-72.431		0m	4.3	1.57	-	183	24.6	22	
-HRB0122	#027	NYBGUS	651826	Oryza	latifolia	02/04/1957	2	4	1957	Brazil				-28.298	-48.88		2-10m	6.9	0.0347	NA	180	1.9	1.98	
-HRB0123	#027	NYBGUS	651825	Oryza	latifolia	17/04/1912	17	4	1912	Brazil				-24	-47		NA	5.4	1.95	1	182	23	20	
-HRB0124	#028	NYBGUS	2618203	Oryza	latifolia	27/02/1986	27	2	1986	Brazil				-0.892	-52.47		NA	6.8	7.2	NA	182	12.6	13	
-HRB0125	#028	NYBGUS	2618206	Oryza	latifolia	27/10/1987	27	10	1987	Brazil				3.434	-71.735		NA	9.1	0.128	NA	178	3.67	3.36	
-HRB0126	#028	NYBGUS	2618207	Oryza	latifolia	15/05/1929	15	5	1929	Brazil				-4.9	-56.36		NA	9	0.536	NA	173	3.35	2.78	
-HRB0127	#028	NYBGUS	2618209	Oryza	latifolia	18/10/1960	18	10	1960	Brazil				3.6	-51.4		NA	6.6	0.629	NA	179	6.24	5.1	
-HRB0128	#028	NYBGUS	2618212	Oryza	latifolia	31/03/1953	31	3	1953	Venezuela				2.94	-65.37		150m	8.6	3.29	1	184	17.4	14	
-HRB0129	#028	NYBGUS	NA	Oryza	latifolia	22/02/1962	22	2	1962	French Guiana				5.12	-52.66		NA	3.7	2.09	NA	183	19	17	
-HRB0130	#028	NYBGUS	NA	Oryza	latifolia	28/09/1992	28	9	1992	Guyana				2.75	-59.83		150-250m	2.4	3.55	NA	184	7.98	7.2	
-HRB0132	#028	NYBGUS	NA	Oryza	latifolia	23/10/1898	23	10	1898	Colombia				11.235	-74.114		250ft	6	0.717	NA	177	16.7	12	
-HRB0133	#028	NYBGUS	NA	Oryza	latifolia	15/01/1918	15	1	1918	Colombia				7	-74		110-120m	14.6	2.43	1.5	178	24.3	19	
-HRB0134	#028	NYBGUS	NA	Oryza	latifolia	20/12/1990	20	12	1990	Colombia				8.2	-76.6		NA	7.9	5.2	1	175	10.1	11	
-HRB0135	#029	NYBGUS	NA	Oryza	latifolia	06/05/1987	6	5	1987	Ecuador				-2.73	-79.95		0m	3.2	3.67	NA	188	11.4	13	
-HRB0136	#029	NYBGUS	NA	Oryza	latifolia	05/05/1988	5	5	1988	Ecuador				-1.06	-77.7		400m	4.6	3.85	NA	185	11	15	
-HRB0137	#029	NYBGUS	NA	Oryza	latifolia	15/05/1988	15	5	1988	Ecuador				0.8	-80.05		30m	3.7	3.92	NA	183	13	22	
-HRB0138	#029	NYBGUS	NA	Oryza	latifolia	03/01/1985	3	1	1985	Bolivia				-16.2	-62.1		500m	5.5	2.37	NA	184	16.2	24	
-HRB0140	#029	NYBGUS	NA	Oryza	latifolia	03/06/1982	3	6	1982	Bolivia				-11.08	-66.15		220m	4.5	2.93	NA	181	17.2	23	
-HRB0141	#029	NYBGUS	NA	Oryza	latifolia	10/11/1990	10	11	1990	Bolivia				-14.55	-62.66		NA	7.5	4.9	NA	179	15.2	19	
-HRB0142	#029	NYBGUS	NA	Oryza	latifolia	21/06/1963	21	6	1963	Trinidad				10.3	-61.07		NA	7.4	3.56	1.7	181	15.4	17	
-HRB0143	#029	NYBGUS	NA	Oryza	latifolia	14/05/1949	14	5	1949	Suriname				5.77	-56.63		MA	5.1	0.285	NA	177	5.49	5.4	
-HRB0144	#029	NYBGUS	NA	Oryza	latifolia	01/09/1966	1	9	1966	Venezuela				9.76	-66.51		NA	5.4	1.89	NA	181	21.9	26	
-HRB0145	#029	NYBGUS	NA	Oryza	latifolia	25/07/1988	25	7	1988	Peru				-3.69	-73.26		90m	7.1	5.2	1.3	181	13.6	26	
-HRB0181	#030	SIHUS	2205508	Oryza	grandiglumis	10/06/1952	10	6	1952	Brazil				-12.625	-63.12		NA	4.4	0.216	NA	179	2.03	1.84	
-HRB0182	#030	SIHUS	2769696	Oryza	grandiglumis	24/07/1973	24	7	1973	Brazil				-4.24	-69.94		NA	4	1.16	NA	184	23.9	30	
-HRB0183	#030	SIHUS	3142921 (00703435)	Oryza	grandiglumis	15/03/1987	15	3	1987	French Guiana				4.51	-52.05		NA	5.9	6.4	NA	186	13.8	23	
-HRB0184	#030	SIHUS	3010017	Oryza	grandiglumis	16/04/1971	16	4	1971	Brazil				-7.62	-72.85		NA	4.5	0.267	NA	179	0.0961	0.294	
-HRB0185	#030	SIHUS	2236299	Oryza	grandiglumis	14/04/1943	14	4	1943	Brazil				-3.64	-55.47		NA	10.3	2.94	NA	178	9.5	12	
-HRB0186	#030	SIHUS	2207138	Oryza	grandiglumis	20/11/1940	20	11	1940	Peru				-3.79	-73.25		NA	5.4	1.2	NA	175	2.05	1.86	
-HRB0187	#030	SIHUS	1982770	Oryza	grandiglumis	15/08/1948	15	8	1948	Peru				-5.46	-75.9		NA	5.7	0.679	NA	178	5.21	5.7	
-HRB0188	#030	SIHUS	1982669	Oryza	grandiglumis	01/03/1946	1	3	1946	Colombia				-3.76	-70.39		100m	4.4	0.0806	NA	183	0.057	0.238	
-HRB0189	#030	SIHUS	2631972	Oryza	grandiglumis	10/03/1966	10	3	1966	Bolivia				-14.83	-64.9		200m	4.9	0.456	NA	173	1.75	1.91	
-HRB0190	#030	SIHUS	2656087	Oryza	grandiglumis	15/12/1951	15	12	1951	Brazil				-6.23	-57.76		NA	6.4	0.0538	NA	176	1.18	1.05	
-HRG0034		NHMUK	BM013399248	Oryza	latifolia	20/08/1981	20	8	1981	Nicaragua				11.68	-85.985		NA			NA				
-HRG0035		NHMUK	BM013399249	Oryza	latifolia	21/08/1971	21	8	1971	Honduras				14.867	-89.093		NA			NA				
-HRG0036		NHMUK	BM013399250	Oryza	latifolia	NA	NA	NA	NA	Guatemala				15.25	-89.105		NA			NA				
-HRG0037		NHMUK	BM013399251	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				20.755	-77.033		NA			NA				
-HRG0038		NHMUK	BM013399252	Oryza	latifolia	13/02/2004	13	2	2004	El Salvador				13.8	-90.07		NA			NA				
-HRG0039		NHMUK	BM013399253	Oryza	latifolia	NA	NA	NA	NA	Panama				8.9	-80.3		NA			NA				
-HRG0040		NHMUK	BM013399254	Oryza	latifolia	18/12/1931	18	12	1931	Peru				-4.42	-77.649		200			NA				
-HRG0041		NHMUK	BM000895689	Oryza	latifolia	28/10/2005	28	10	2005	Belize				16.55	-88.71		NA			NA				
-HRG0042		NHMUK	BM000934341	Oryza	latifolia	23/01/2005	23	1	2005	Paraguay				-26.57527778	-58.04083333		NA			NA				
-HRG0043		NHMUK	BM000934145	Oryza	latifolia	01/02/2005	1	2	2005	Paraguay				-24.28	-58.555		NA			NA				
-HRG0044		HUHUS	NA	Oryza	latifolia	06/11/1968	6	11	1968	Nicaragua				13.393	-86.398		1000			NA				
-HRG0045		HUHUS	NA	Oryza	latifolia	30/07/1972	30	7	1972	Nicaragua				13.526	-85.923		NA			NA				
-HRG0046		HUHUS	NA	Oryza	latifolia	25/02/1922	25	2	1922	El Salvador				13.486	-88.157		110			NA				
-HRG0047		HUHUS	NA	Oryza	latifolia	01/07/1949	1	7	1949	Costa Rica				9.901	-84.627		30-100			NA				
-HRG0048		HUHUS	NA	Oryza	latifolia	10/03/1939	10	3	1939	Panama				9.003	-79.594		0-10			NA				
-HRG0049		HUHUS	NA	Oryza	latifolia	04/03/1942	4	3	1942	Belize				16.543	-88.548		NA			NA				
-HRG0050		HUHUS	NA	Oryza	latifolia	26/07/1939	26	7	1939	Mexico				18.262	-92.103		NA			NA				
-HRG0051		HUHUS	NA	Oryza	latifolia	26/08/1922	26	8	1922	Cuba				20.755	-77.033		NA			NA				
-HRG0052		HUHUS	NA	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				20.755	-77.033		NA			NA				
-HRG0053		HUHUS	NA	Oryza	latifolia	19/03/1961	19	3	1961	Argentina				-27.815	-58.653		NA			NA				
-HRG0054		HUHUS	NA	Oryza	latifolia	07/04/1967	7	4	1967	Argentina				-31.131	-59.92		NA			NA				
-HRG0055		HUHUS	NA	Oryza	latifolia	1890	NA	NA	1890	Paraguay				-22.474	-62.286		NA			NA				
-HRG0056		HUHUS	NA	Oryza	latifolia	1913	NA	NA	1913	Paraguay				-25.317	-57.229		NA			NA				
-HRG0057		HUHUS	NA	Oryza	latifolia	11/11/1920	11	11	1920	Venezuela				10.462	-68.288		10-100			NA				
-HRG0058		HUHUS	NA	Oryza	latifolia	18/12/1931	18	12	1931	Peru				-4.42	-77.649		200			NA				
-HRG0059		HUHUS	NA	Oryza	latifolia	25/07/1983	25	7	1983	Brazil				-3.39	-57.875		NA			NA				
-HRG0280		RBGK	K001280261	Oryza	latifolia	28/08/1922	28	8	1922	Cuba				20.94318557	-76.95955594		NA			NA				
-HRG0281		RBGK	K001280262	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				NA	NA		NA			NA				
-HRG0282		RBGK	K001280263	Oryza	latifolia	07/09/1925	7	9	1925	Haiti				19.80721632	-72.43491867		NA			NA				
-HRG0283		RBGK	NA	Oryza	latifolia	06/12/1976	6	12	1976	Trinidad				10.42475796	-61.0531481		NA			NA				
-HRG0284		RBGK	K001280265	Oryza	latifolia	01/09/1945	1	9	1945	Trinidad				NA	NA		NA			NA				
-HRG0285		RBGK	K001280267	Oryza	latifolia	14/02/1845	14	2	1845	Trinidad				NA	NA		NA			NA				
-HRG0286		RBGK	K001280268	Oryza	latifolia	21/06/1963	21	6	1963	Trinidad				10.33112578	-61.09933496		NA			NA				
-HRG0287		RBGK	K001280255	Oryza	latifolia	12/11/1920	12	11	1920	Cuba				21.89480485	-82.80154417		NA			NA				
-HRG0288		RBGK	K001280258	Oryza	latifolia	05/01/1940	5	1	1940	Cuba				22.35730976	-83.67053698		NA			NA				
-HRG0289		RBGK	K001268737	Oryza	rufipogon	01/09/1979	1	9	1979	Guyana				7.535121539	-58.7434789		2			NA				
-HRG0291		RBGK	K001268742	Oryza	rufipogon	03/09/1968	3	9	1968	Suriname				2.029949363	-56.1533472		255			NA				
-HRG0292		RBGK	K001055160	Oryza	rufipogon	22/11/1965	22	11	1965	Brazil				NA	NA		NA			NA				
-HRG0293		RBGK	K001055158	Oryza	rufipogon	02/05/1934	2	5	1934	Brazil				NA	NA		NA			NA				
-HRG0294		RBGK	K001055157	Oryza	rufipogon	11/06/1966	11	6	1966	Brazil				NA	NA		600-1000			NA				
-HRG0295		RBGK	K001268745	Oryza	latifolia	14/05/1949	14	5	1949	Suriname				5.761866005	-56.68273913		NA			NA				
-HRG0296		RBGK	K001268747	Oryza	latifolia	22/02/1962	22	2	1962	French Guiana				5.017	-52.65		NA			NA				
-HRG0297		RBGK	K001268750	Oryza	latifolia	10/10/1955	10	10	1955	French Guiana				5.017	-52.65		NA			NA				
-HRG0298		RBGK	K001268752	Oryza	latifolia	01/09/1948	1	9	1948	Guyana				3.021516792	-59.52368223		NA			NA				
-HRG0299		RBGK	K001268753	Oryza	latifolia	01/09/1979	1	9	1979	Guyana				NA	NA		2			NA				
-HRG0300		RBGK	K001268755	Oryza	latifolia	11/10/1937	11	10	1937	Guyana				3.7511	-59.3118		NA			NA				
-HRG0301		RBGK	K001055161	Oryza	rufipogon	08/01/1945	8	1	1945	Brazil				-0.978226535	-62.91045299		NA			NA				
-HRG0302		RBGK	K001055163	Oryza	rufipogon	17/06/1937	17	6	1937	Brazil				NA	NA		142			NA				
-HRG0303		RBGK	K001055164	Oryza	rufipogon	24/03/1998	24	3	1998	Brazil				-4.766667	-42.116667		125			NA				
-HRG0304		RBGK	K001055153	Oryza	rufipogon	08/07/1983	8	7	1983	Brazil				-4.166667	-58.683333		NA			NA				
-HRG0305		RBGK	K001055162	Oryza	rufipogon	08/01/1945	8	1	1945	Brazil				-0.978226535	-62.91045299		NA			NA				
-HRG0306		RBGK	K000001133	Oryza	latifolia	08/03/1983	8	3	1983	Brazil				-15.666667	-39.05		NA			NA				
-HRG0307		RBGK	K001055055	Oryza	latifolia	01/06/1944	1	6	1944	Brazil				-3.499007838	-45.26194511		NA			NA				
-HRG0308		RBGK	K001055061	Oryza	latifolia	27/10/1987	27	10	1987	Brazil				3.433333	-61.733333		NA			NA				
-HRG0309		RBGK	K001055059	Oryza	latifolia	17/04/1912	17	4	1912	Brazil				NA	NA		NA			NA				
-HRG0310		RBGK	K001055060	Oryza	latifolia	11/11/2002	11	11	2002	Brazil				-23.75558355	-53.85284329		NA			NA				
-HRG0311		RBGK	K001055058	Oryza	latifolia	06/11/1985	6	11	1985	Brazil				-4.816667	-52.516664		NA			NA				
-HRG0312		RBGK	K001268757	Oryza	latifolia	26/02/1950	26	2	1950	Paraguay				NA	NA		NA			NA				
-HRG0349		NHMFR	MNHN-P-P02235711	Oryza	latifolia	1878	NA	NA	1878	Brazil				-2.97351	-68.84465		NA			NA				
-HRG0350		NHMFR	MNHN-P-P02235714	Oryza	latifolia	1901	NA	NA	1901	Colombia				11.24036	-74.21102		NA			NA				
-HRG0351		NHMFR	MNHN-P-P02235715	Oryza	latifolia	1899	NA	NA	1899	Colombia				11.24036	-74.21102		NA			NA				
-HRG0352		NHMFR	MNHN-P-P02235718	Oryza	latifolia	26/02/1950	26	2	1950	Paraguay				-22.28601	-57.94182		NA			NA				
-HRG0354		NHMFR	MNHN-P-P02235720	Oryza	latifolia	19/03/1961	19	3	1961	Argentina				-35.58695	-70.75166		NA			NA				
-HRG0355		NHMFR	MNHN-P-P02235722	Oryza	latifolia	15/06/1883	15	6	1883	Paraguay				-25.58215	-57.09464		NA			NA				
-HRG0356		NHMFR	MNHN-P-P02235723	Oryza	latifolia	11/10/1937	11	10	1937	Guyana				3.75	-59.3		NA			NA				
-HRG0357		NHMFR	MNHN-P-P02235724	Oryza	latifolia	27/09/1939	27	9	1939	Ecuador				-0.9963	-77.81361		NA			NA				
-HRG0358		NHMFR	MNHN-P-P02235725	Oryza	latifolia	19/03/1876	19	3	1876	Paraguay				-25.5667	-56.29229		NA			NA				
-HRG0359		NHMFR	MNHN-P-P02235727	Oryza	latifolia	14/04/1955	14	4	1955	French Guiana				5.11313	-52.64258		NA			NA				
-HRG0361		NHMFR	MNHN-P-P02235729	Oryza	latifolia	15/05/3701	15	5	1801	Colombia				4.7835	-74.7879		NA			NA				
-HRG0362		NHMFR	MNHN-P-P02235730	Oryza	latifolia	NA	NA	NA	NA	Puerto Rico				18.22042	-66.59007		NA			NA				
-HRG0363		NHMFR	MNHN-P-P02235732	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				20.7563	-77.03054		NA			NA				
-HRG0364		NHMFR	MNHN-P-P02235734	Oryza	latifolia	1797	NA	NA	1797	Puerto Rico				18.22083	-66.59015		NA			NA				
-HRG0365		NHMFR	MNHN-P-P02235735	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.33809	-64.8941		NA			NA				
-HRG0366		NHMFR	MNHN-P-P02235736	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.33792	-64.89302		NA			NA				
-HRG0367		NHMFR	MNHN-P-P02235737	Oryza	latifolia	1869	NA	NA	1869	Nicaragua				11.9344	-85.956		NA			NA				
-HRG0368		NHMFR	MNHN-P-P02235739	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.33792	-64.89302		NA			NA				
-HRG0369		NHMFR	MNHN-P-P02235741	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.3381	-64.8941		NA			NA				
-HRG0370		NHMFR	MNHN-P-P02235742	Oryza	grandiglumis	15/05/1953	15	5	1953	Brazil				-3.20893308	-59.95893286		NA			NA				
-HRG0371		NHMFR	MNHN-P-P02235743	Oryza	grandiglumis	16/04/1971	16	4	1971	Brazil				-7.5856	-72.9104		NA			NA				
-HRG0372		NHMFR	MNHN-P-P02235744	Oryza	grandiglumis	13/05/1981	13	5	1981	Brazil				-3.08333	-59.91666		NA			NA				
-HRG0373		NHMFR	MNHN-P-P02235745	Oryza	grandiglumis	04/05/1988	4	5	1988	Peru				-4.91667	-73.66666		120			NA				
-HRG0374		NHMFR	MNHN-P-P02235747	Oryza	grandiglumis	NA	NA	NA	NA	Brazil				-15.79423	-47.88216		NA			NA				
-HRG0375		NHMFR	MNHN-P-P02235748	Oryza	grandiglumis	15/05/1953	15	5	1953	Brazil				-3.20893308	-59.95893286		NA			NA				
-HRG0378		NHMFR	MNHN-P-P02235756	Oryza	alta	26/04/1952	26	4	1952	Brazil				-0.820772994	-49.14993492		NA			NA				
-HRG0379		NHMFR	MNHN-P-P02235757	Oryza	alta	04/06/1952	4	6	1952	Brazil				-10.736	-65.33312		NA			NA				
-HRG0392		SIHUS	1614042	Oryza	alta	19/07/1934	19	7	1934	Brazil				-1.900271753	-55.52910437		NA			NA				
-HRG0393		SIHUS	1645889	Oryza	alta	20/07/1934	20	7	1934	Brazil				-1.900271753	-55.52910437		NA			NA				
-HRG0394		SIHUS	3262161	Oryza	grandiglumis	25/11/1986	25	11	1986	Bolivia				-16.1333	-62.0833		500			NA				
-HRG0395		SIHUS	2205576	Oryza	grandiglumis	04/11/1954	4	11	1954	French Guiana				4.496691	-52.056793		NA			NA				
-HRG0396		SIHUS	3456030	Oryza	grandiglumis	22/02/2002	22	2	2002	French Guiana				4.433	-52.083		2			NA				
-HRG0397		SIHUS	3456056	Oryza	grandiglumis	17/06/1999	17	6	1999	French Guiana				4.43	-52.12		NA			NA				
-HRG0398		SIHUS	3455909	Oryza	grandiglumis	16/02/2000	16	2	2000	French Guiana				4.4418	-52.067		NA			NA				
-HRG0399		SIHUS	3652877	Oryza	grandiglumis	14/05/1985	14	5	1985	Bolivia				-16.48	-61.63		450			NA				
-HRG0402		SIHUS	1614040	Oryza	grandiglumis	19/07/1934	19	7	1934	Brazil				-1.900887946	-55.53387771		NA			NA				
-HRG0403		SIHUS	1646031	Oryza	grandiglumis	20/07/1934	20	7	1934	Brazil				-1.900887946	-55.53387771		NA			NA				
-HRG0404		SIHUS	2463756	Oryza	grandiglumis	14/05/1956	14	5	1956	Brazil				-3.11	-60.03		NA			NA				
-HRG0405		SIHUS	2205746	Oryza	grandiglumis	19/11/1952	19	11	1952	Brazil				NA	NA		NA			NA				
-HRG0406		SIHUS	1869226	Oryza	grandiglumis	14/04/1943	14	4	1943	Brazil				-3.797972331	-55.51670549		NA			NA				
-HRG0407		SIHUS	3095730	Oryza	grandiglumis	24/07/1973	24	7	1973	Brazil				NA	NA		NA			NA				
-HRG0408		SIHUS	1935502	Oryza	grandiglumis	08/05/1948	8	5	1948	Peru				-3.72429316	-73.21394019		NA			NA				
-HRG0409		SIHUS	1471224	Oryza	grandiglumis	29/03/1930	29	3	1930	Peru				-3.706873152	-73.24089776		120			NA				
-HRG0410		SIHUS	2904570	Oryza	grandiglumis	20/07/1976	20	7	1976	Peru				-3.734888255	-73.22554665		NA			NA				
-HRG0411		SIHUS	3350546	Oryza	grandiglumis	20/07/1994	20	7	1994	Peru				NA	NA		90			NA				
-HRG0412		SIHUS	3346561	Oryza	grandiglumis	20/07/1994	20	7	1994	Peru				NA	NA		90			NA				
-HRG0414		SIHUS	2042776	Oryza	grandiglumis	05/11/1949	5	11	1949	Peru				NA	NA		45			NA				
-HRG0415		SIHUS	1646033	Oryza	grandiglumis	19/07/1934	19	7	1934	Brazil				-1.900887946	-55.53387771		NA			NA				
-HRG0417		SIHUS	2208873	Oryza	grandiglumis	21/07/1944	21	7	1944	Brazil				-1.454387078	-48.43838601		NA			NA				
-HRG0419		SIHUS	1647653	Oryza	latifolia	19/03/1936	19	3	1936	Mexico				17.85	-93.3833		NA			NA				
-HRG0420		SIHUS	1865646	Oryza	latifolia	25/07/1939	25	7	1939	Mexico				18.25	-92.0833		NA			NA				
-HRG0421		SIHUS	2380589	Oryza	latifolia	28/10/1960	28	10	1960	Mexico				15.4333	-93		NA			NA				
-HRG0422		SIHUS	1721987	Oryza	latifolia	10/07/1937	10	7	1937	Mexico				15.3333	-92.6333		NA			NA				
-HRG0423		SIHUS	1274728	Oryza	latifolia	27/12/1925	27	12	1925	Mexico				15.1833	-92.6167		NA			NA				
-HRG0424		SIHUS	2306820	Oryza	latifolia	15/07/1959	15	7	1959	Mexico				16.536167	-94.606956		50			NA				
-HRG0425		SIHUS	2432374	Oryza	latifolia	21/09/1960	21	9	1960	Mexico				21.159767	-105.119921		60 - 90			NA				
-HRG0426		SIHUS	2432341	Oryza	latifolia	17/09/1960	17	9	1960	Mexico				21.15	-104.98		600			NA				
-HRG0427		SIHUS	3291796	Oryza	latifolia	04/11/1991	4	11	1991	Mexico				19.4	-104.983		50			NA				
-HRG0428		SIHUS	3291797	Oryza	latifolia	02/11/1991	2	11	1991	Mexico				19.6333	-105.183		NA			NA				
-HRG0429		SIHUS	3134076	Oryza	latifolia	15/07/1987	15	7	1987	Bolivia				-17.7667	-63.0667		375			NA				
-HRG0430		SIHUS	3159202	Oryza	latifolia	24/04/1956	24	4	1956	Suriname				NA	NA		NA			NA				
-HRG0431		SIHUS	601331	Oryza	latifolia	1845	NA	NA	1845	Suriname				NA	NA		NA			NA				
-HRG0432		SIHUS	3083773	Oryza	latifolia	21/12/1960	21	12	1960	Suriname				5.852504	-55.10592		NA			NA				
-HRG0433		SIHUS	725714	Oryza	latifolia	1913	NA	NA	1913	Suriname				5.887923	-55.091008		NA			NA				
-HRG0434		SIHUS	725713	Oryza	latifolia	1913	NA	NA	1913	Suriname				5.852504	-55.10592		NA			NA				
-HRG0435		SIHUS	2205575	Oryza	latifolia	30/10/1954	30	10	1954	French Guiana				5.05	-52.6		NA			NA				
-HRG0436		SIHUS	1914564	Oryza	latifolia	01/10/1914	1	10	1914	Suriname				5.60381	-55.15159		NA			NA				
-HRG0437		SIHUS	1763255	Oryza	latifolia	11/10/1937	11	10	1937	Guyana				3.75	-59.3		NA			NA				
-HRG0438		SIHUS	732137	Oryza	latifolia	07/01/1914	7	1	1914	Puerto Rico				18.16636	-67.16559		NA			NA				
-HRG0439		SIHUS	725712	Oryza	latifolia	15/01/1914	15	1	1914	Puerto Rico				18.26904	-67.15183		NA			NA				
-HRG0440		SIHUS	2116123	Oryza	latifolia	31/03/1953	31	3	1953	Venezuela				NA	NA		150			NA				
-HRG0441		SIHUS	3748635	Oryza	latifolia	27/02/1989	27	2	1989	Panama				9.217678	-82.204434		5-80			NA				
-HRG0442		SIHUS	3310460	Oryza	latifolia	26/09/1984	26	9	1984	Nicaragua				12.15	-86.75		5			NA				
-HRG0443		SIHUS	1136914	Oryza	latifolia	25/02/1922	25	2	1922	El Salvador				NA	NA		110			NA				
-HRG0444		SIHUS	1386952	Oryza	latifolia	1928	NA	NA	1928	Honduras				15.73977062	-87.45628103		20 - 600			NA				
-HRG0445		SIHUS	979377	Oryza	latifolia	04/01/1913	4	1	1913	Costa Rica				10.35247	-85.17273		50			NA				
-HRG0446		SIHUS	979374	Oryza	latifolia	10/01/1907	10	1	1907	Guatemala				14.52486708	-91.68731212		NA			NA				
-HRG0447		SIHUS	2306227	Oryza	latifolia	09/09/1950	9	9	1950	Belize				NA	NA		NA			NA				
-HRG0448		SIHUS	3627429	Oryza	latifolia	12/10/1968	12	10	1968	Colombia				NA	NA		NA			NA				
-HRG0449		SIHUS	3576473	Oryza	latifolia	04/08/1940	4	8	1940	Panama				8.595770534	-80.11498871		NA			NA				
-HRG0450		SIHUS	1250943	Oryza	latifolia	28/12/1923	28	12	1923	Panama				9.380723298	-79.88327357		NA			NA				
-HRG0451		SIHUS	715782	Oryza	latifolia	01/02/1912	1	2	1912	Panama				NA	NA		NA			NA				
-HRG0452		SIHUS	979382	Oryza	latifolia	29/08/1911	29	8	1911	Panama				9.311665	-79.900783		NA			NA				
-HRG0453		SIHUS	1137994	Oryza	latifolia	23/03/1922	23	3	1922	El Salvador				13.678565	-89.753522		135			NA				
-HRG0454		SIHUS	1139805	Oryza	latifolia	20/05/1922	20	5	1922	Guatemala				15.2689082	-89.0438651		75 - 225			NA				
-HRG0455		SIHUS	1136784	Oryza	latifolia	18/02/1922	18	2	1922	El Salvador				13.26827836	-87.91461074		60			NA				
-HRG0456		SIHUS	1387099	Oryza	latifolia	1928	NA	NA	1928	Honduras				15.74110128	-87.45591532		20 - 600			NA				
-HRG0457		SIHUS	2306260	Oryza	latifolia	07/01/1953	7	1	1953	Belize				NA	NA		NA			NA				
-HRG0458		SIHUS	2844998	Oryza	latifolia	11/09/1977	11	9	1977	Nicaragua				11.1495134	-85.79575982		95			NA				
-HRG0459		SIHUS	2042205	Oryza	latifolia	14/11/1950	14	11	1950	Costa Rica				10.00672473	-83.05316393		6			NA				
-HRG0460		SIHUS	823144	Oryza	latifolia	01/02/1895	1	2	1895	Costa Rica				9.58	-82.95		100			NA				
-HRG0461		SIHUS	3578345	Oryza	latifolia	26/06/1968	26	6	1968	Costa Rica				10.11366138	-85.26808017		5			NA				
-HRG0462		SIHUS	979378	Oryza	latifolia	30/12/1912	30	12	1912	Costa Rica				10.35247	-85.17273		50			NA				
-HRG0463		SIHUS	2565371	Oryza	latifolia	08/03/1966	8	3	1966	Costa Rica				10.68820244	-83.69359975		10			NA				
-HRG0465		SIHUS	979376	Oryza	latifolia	20/10/1911	20	10	1911	Costa Rica				9.991799843	-83.04252166		NA			NA				
-HRG0466		SIHUS	3054831	Oryza	latifolia	23/10/1968	23	10	1968	Costa Rica				10.94978164	-85.62116947		300			NA				
-HRG0467		SIHUS	823146	Oryza	latifolia	01/02/1893	1	2	1893	Costa Rica				9.650353286	-82.75669078		NA			NA				
-HRG0468		SIHUS	3040028	Oryza	latifolia	10/03/1966	10	3	1966	Costa Rica				10.681826	-83.690839		10			NA				
-HRG0471		SIHUS	3691166	Oryza	latifolia	13/08/1994	13	8	1994	Paraguay				-24.9281	-58.1783		NA			NA				
-HRG0472		SIHUS	979384	Oryza	latifolia	30/12/1912	30	12	1912	Trinidad				10.65903478	-61.41759782		NA			NA				
-HRG0473		SIHUS	2383517	Oryza	latifolia	21/06/1963	21	6	1963	Trinidad				10.31815173	-61.10422438		NA			NA				
-HRG0475		SIHUS	2908218	Oryza	latifolia	14/01/1980	14	1	1980	Argentina				NA	NA		NA			NA				
-HRG0476		SIHUS	3032170	Oryza	latifolia	25/07/1983	25	7	1983	Brazil				-3.42	-57.92		NA			NA				
-HRG0477		SIHUS	822618	Oryza	latifolia	01/05/1892	1	5	1892	Ecuador				-2.861937877	-80.14756852		NA			NA				
-HRG0478		SIHUS	1816207	Oryza	latifolia	1852	NA	NA	1852	Ecuador				-2.861937877	-80.14756852		NA			NA				
-HRG0479		SIHUS	1912767	Oryza	latifolia	13/07/1939	13	7	1939	Ecuador				-2.089767	-79.887447		NA			NA				
-HRG0480		SIHUS	2075125	Oryza	latifolia	26/09/1950	26	9	1950	Ecuador				1.086797152	-78.98592814		10			NA				
-HRG0481		SIHUS	1163853	Oryza	latifolia	22/06/1923	22	6	1923	Ecuador				NA	NA		100			NA				
-HRG0482		SIHUS	2383000	Oryza	latifolia	1901	NA	NA	1901	Colombia				NA	NA		NA			NA				
-HRG0483		SIHUS	2381061	Oryza	latifolia	18/10/1960	18	10	1960	Brazil				3.460278	-51.309444		NA			NA				
-HRG0484		SIHUS	2205396	Oryza	latifolia	23/08/1951	23	8	1951	Brazil				2.492333433	-60.90720413		NA			NA				
-HRG0485		SIHUS	2725289	Oryza	latifolia	23/03/1972	23	3	1972	Brazil				-23.05169822	-43.54413317		40 - 50			NA				
-HRG0486		SIHUS	2463358	Oryza	latifolia	22/06/1952	22	6	1952	Brazil				-12.50712239	-63.54822805		NA			NA				
-HRG0487		SIHUS	4184824	Oryza	latifolia	28/09/1945	28	9	1945	Colombia				NA	NA		300 - 400			NA				
-HRG0488		SIHUS	1912577	Oryza	latifolia	13/04/1939	13	4	1939	Ecuador				-2.202483014	-79.9532422		NA			NA				
-HRG0489		SIHUS	2116547	Oryza	latifolia	26/02/1950	26	2	1950	Argentina				NA	NA		NA			NA				
-HRG0490		SIHUS	979391	Oryza	latifolia	01/05/1909	1	5	1909	Argentina				NA	NA		NA			NA				
-HRG0491		SIHUS	2770443	Oryza	latifolia	12/03/1969	12	3	1969	Brazil				-27.45598528	-48.44687014		10			NA				
-HRG0492		SIHUS	1691302	Oryza	latifolia	28/05/1935	28	5	1935	Colombia				NA	NA		100 - 700			NA				
-HRG0493		SIHUS	2011857	Oryza	latifolia	1950	NA	NA	1950	Peru				NA	NA		NA			NA				
-HRG0494		SIHUS	2205352	Oryza	latifolia	28/10/1950	28	10	1950	Brazil				-2.460550343	-54.79390688		NA			NA				
-HRG0495		SIHUS	1561813	Oryza	latifolia	1808	NA	NA	1808	Colombia				NA	NA		NA			NA				
-HRG0496		SIHUS	1539367	Oryza	latifolia	18/12/1931	18	12	1931	Peru				NA	NA		200			NA				
-HRG0497		SIHUS	1044902	Oryza	latifolia	15/01/1918	15	1	1918	Colombia				7.209164411	-73.91930789		110 - 120			NA				
-HRG0498		SIHUS	1344867	Oryza	latifolia	15/01/1928	15	1	1928	Colombia				NA	NA		NA			NA				
-HRG0499		SIHUS	1043151	Oryza	latifolia	05/03/1918	5	3	1918	Colombia				8.013843	-76.192864		70 - 150			NA				
-HRG0500		SIHUS	1387791	Oryza	latifolia	30/12/1928	30	12	1928	Venezuela				10.42246288	-68.55278428		120 - 160			NA				
-HRG0501		SIHUS	600798	Oryza	latifolia	1899	NA	NA	1899	Colombia				NA	NA		NA			NA				
-HRG0502		SIHUS	1911034	Oryza	latifolia	08/03/1944	8	3	1944	Colombia				NA	NA		45056			NA				
-HRG0503		SIHUS	2883866	Oryza	latifolia	19/04/1975	19	4	1975	Argentina				-27.55491644	-58.74967999		NA			NA				
-HRG0504		SIHUS	1067300	Oryza	latifolia	11/11/1920	11	11	1920	Venezuela				NA	NA		NA			NA				
-HRG0505		SIHUS	2546143	Oryza	latifolia	01/09/1966	1	9	1966	Venezuela				9.83	-66.39		NA			NA				
-HRG0506		SIHUS	1447502	Oryza	latifolia	10/05/1926	10	5	1926	Colombia				6.038723032	-73.97890641		NA			NA				
-HRG0507		SIHUS	3083445	Oryza	latifolia	25/03/1962	25	3	1962	Brazil				-22.65110989	-43.64603904		1.5 - 2			NA				
-HRG0508		SIHUS	1866832	Oryza	latifolia	03/06/1944	3	6	1944	Brazil				-0.717948	-49.172979		NA			NA				
-HRG0509		SIHUS	2238106	Oryza	latifolia	26/04/1952	26	4	1952	Brazil				-0.820772994	-49.14993492		NA			NA				
-HRG0510		SIHUS	1797788	Oryza	latifolia	30/10/1938	30	10	1938	Colombia				NA	NA		120			NA				
-HRG0511		SIHUS	1797789	Oryza	latifolia	30/10/1938	30	10	1938	Colombia				NA	NA		120			NA				
-HRG0512		SIHUS	1037386	Oryza	latifolia	01/05/1913	1	5	1913	Paraguay				NA	NA		NA			NA				
-HRG0513		SIHUS	3337900	Oryza	latifolia	14/12/1985	14	12	1985	Ecuador				-1.05	-77.67		450			NA				
-HRG0514		SIHUS	3246566	Oryza	latifolia	06/09/1984	6	9	1984	Bolivia				-13.08	-67.25		180			NA				
-HRG0515		SIHUS	2725290	Oryza	latifolia	23/03/1972	23	3	1972	Brazil				NA	NA		40 - 50			NA				
-HRG0516		SIHUS	2770449	Oryza	latifolia	12/03/1969	12	3	1969	Brazil				-27.45598528	-48.44687014		10			NA				
-HRG0517		SIHUS	3136651	Oryza	latifolia	17/01/1969	17	1	1969	Colombia				NA	NA		340			NA				
-HRG0518		SIHUS	3136650	Oryza	latifolia	17/01/1969	17	1	1969	Colombia				NA	NA		340			NA				
-HRG0519		SIHUS	2433919	Oryza	latifolia	02/04/1957	2	4	1957	Brazil				-28.3417	-48.8197		2-10			NA				
-HRG0520		SIHUS	3239647	Oryza	rufipogon	15/01/1990	15	1	1990	French Guiana				5.667665347	-53.77568269		5			NA				
-HRG0521		SIHUS	3256170	Oryza	rufipogon	28/05/1986	28	5	1986	Bolivia				-16.1667	-62		500			NA				
-HRG0522		SIHUS	3255903	Oryza	rufipogon	02/04/1986	2	4	1986	Bolivia				-16.0333	-62.0833		490			NA				
-HRG0523		SIHUS	3412948	Oryza	rufipogon	21/02/1958	21	2	1958	French Guiana				5.026341479	-52.48562304		NA			NA				
-HRG0524		SIHUS	3412949	Oryza	rufipogon	14/04/1956	14	4	1956	French Guiana				5.026341479	-52.48562304		NA			NA				
-HRG0527		SIHUS	3158939	Oryza	rufipogon	14/04/1956	14	4	1956	French Guiana				5.026341479	-52.48562304		NA			NA				
-HRG0528		SIHUS	3158940	Oryza	rufipogon	21/02/1958	21	2	1958	French Guiana				5.026341479	-52.48562304		NA			NA				
-HRG0529		SIHUS	3159169	Oryza	rufipogon	28/03/1956	28	3	1956	Suriname				5.5	-55.2		NA			NA				
-HRG0531		SIHUS	3190681	Oryza	rufipogon	13/04/1989	13	4	1989	French Guiana				5.66	-53.78		10			NA				
-HRG0532		SIHUS	2305755	Oryza	rufipogon	29/08/1955	29	8	1955	Guyana				NA	NA		3			NA				
-HRG0535		SIHUS	2913937	Oryza	rufipogon	31/01/1974	31	1	1974	French Guiana				4.68	-52.26		NA			NA				
-HRG0536		SIHUS	2913936	Oryza	rufipogon	31/01/1974	31	1	1974	French Guiana				4.68	-52.26		NA			NA				
-HRG0540		SIHUS	1039400	Oryza	rufipogon	01/05/1909	1	5	1909	Guyana				NA	NA		NA			NA				
-HRG0541		SIHUS	1194231	Oryza	rufipogon	18/07/1923	18	7	1923	Guyana				5.95	-59.9		NA			NA				
-HRG0542		SIHUS	3083774	Oryza	rufipogon	20/03/1956	20	3	1956	Suriname				5.5	-55.2		NA			NA				
-HRG0543		SIHUS	3450044	Oryza	rufipogon	26/02/1978	26	2	1978	French Guiana				4.69	-52.26		NA			NA				
-HRG0544		SIHUS	2858630	Oryza	rufipogon	10/11/1971	10	11	1971	Venezuela				8.726463356	-67.3131674		70			NA				
-HRG0548		SIHUS	1502102	Oryza	rufipogon	13/08/1929	13	8	1929	Dominican Republic				18.55483227	-69.69665041		NA			NA				
-HRG0552		SIHUS	1538629	Oryza	rufipogon	13/08/1929	13	8	1929	Dominican Republic				18.55483227	-69.69665041		NA			NA				
-HRG0553		SIHUS	3516578	Oryza	rufipogon	01/12/1981	1	12	1981	Venezuela				8.376300425	-66.67966727		60			NA				
-HRG0554		SIHUS	3135711	Oryza	rufipogon	01/12/1981	1	12	1981	Venezuela				8.05833292	-66.83626647		40 - 60			NA				
-HRG0555		SIHUS	2564883	Oryza	rufipogon	02/08/1968	2	8	1968	Brazil				-0.728654816	-48.5170644		NA			NA				
-HRG0556		SIHUS	2237855	Oryza	rufipogon	04/07/1951	4	7	1951	Brazil				NA	NA		NA			NA				
-HRG0557		SIHUS	2543675	Oryza	rufipogon	10/08/1962	10	8	1962	Brazil				1.75	-50.97		NA			NA				
-HRG0559		SIHUS	3175779	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand				14.76300856	102.1766714		185			NA				
-HRG0560		SIHUS	3175736	Oryza	rufipogon	13/11/1989	13	11	1989	India				22.57791769	86.16426655		250			NA				
-HRG0564		SIHUS	3175732	Oryza	rufipogon	12/09/1988	12	9	1988	Bangladesh				23.05326192	88.96006986		-10			NA				
-HRG0570		SIHUS	1385374	Oryza	rufipogon	17/03/1927	17	3	1927	Sri Lanka				8.340700788	80.4012492		NA			NA				
-HRG0571		SIHUS	1105581	Oryza	rufipogon	27/10/1921	27	10	1921	China				23.42620047	113.8856927		NA			NA				
-HRG0574		SIHUS	2896311	Oryza	rufipogon	30/05/1966	30	5	1966	Papua New Guinea				NA	NA		46			NA				
-HRG0575		SIHUS	3175766	Oryza	rufipogon	24/08/1990	24	8	1990	Papua New Guinea				-7.009614346	141.4955611		NA			NA				
-HRG0577		MBG	MO - (BC:MO-1289735/A:2696248)	Oryza	alta	NA	NA	NA	NA	Venezuela				8.866103	-61.487985		NA			NA				
-HRG0578		MBG	MO - (BC:MO-1289738/A:847680)	Oryza	alta	NA	NA	NA	1913	Paraguay				-25.33	-57.35		NA			NA				
-HRG0579		MBG	MO - (BC:MO-1302969/A:04873972)	Oryza	alta	28/10/1998	28	10	1998	Bolivia				-18.93583	-57.87333		60			NA				
-HRG0580		MBG	MO - (BC:MO-1289763/A:3750538)	Oryza	grandiglumis	02/08/1989	2	8	1989	Colombia				-3.75	-70.25		100			NA				
-HRG0581		MBG	MO - (BC:MO-1334920/A:4567408)	Oryza	latifolia	16/11/1993	16	11	1993	Costa Rica				9.85	-84.63333333		90			NA				
-HRG0582		MBG	MO - (BC:MO-1207736/A:04873977)	Oryza	latifolia	28/02/1998	28	2	1998	Costa Rica				10.43138	-84.00361		100			NA				
-HRG0584		MBG	MO - (BC:MO-1299050/A:04833757)	Oryza	latifolia	01/09/1995	1	9	1995	Costa Rica				9.770647336	-84.93589129		0-200			NA				
-HRG0585		MBG	"MO - (BC:MO-1309041/A:3502509), (BC:MO-210288/A:3502508)"	Oryza	latifolia	01/10/1986	1	10	1986	Colombia				8.73857	-76.577747		NA			NA				
-HRG0586		MBG	MO - (BC:MO-1309042/A:3502518)	Oryza	latifolia	02/10/1986	2	10	1986	Colombia				8.005436	-76.640526		10			NA				
-HRG0587		MBG	MO - (BC:MO-1309043/A:04569727)	Oryza	latifolia	20/12/1990	20	12	1990	Colombia				8.06666	-76.33333		0			NA				
-HRG0588		MBG	MO - (BC:MO-1309044/A:04628586)	Oryza	latifolia	19/05/1993	19	5	1993	Colombia				9	-74.08333333		70			NA				
-HRG0589		MBG	MO - (BC:MO-1309045/A:2732351)	Oryza	latifolia	07/04/1979	7	4	1979	Colombia				4.66666	-76.91666		NA			NA				
-HRG0590		MBG	MO - (BC:MO-1330217/A:2097537)	Oryza	latifolia	1890	NA	NA	1890	Paraguay				-22.475727	-62.28156		NA			NA				
-HRG0591		MBG	MO - (BC:MO-1330219/A:5388430)	Oryza	latifolia	18/05/1967	18	5	1967	Colombia				7.135982	-77.233543		NA			NA				
-HRG0592		MBG	MO - (BC:MO-1334884/A:3827874)	Oryza	latifolia	01/07/1989	1	7	1989	Costa Rica				9.5	-82.95		70-150			NA				
-HRG0593		MBG	MO - (BC:MO-1334886/A:4946947)	Oryza	latifolia	17/07/1992	17	7	1992	Costa Rica				10.65	-85.63333333		100			NA				
-HRG0594		MBG	MO - (BC:MO-1334887/A:3501058)	Oryza	latifolia	20/03/1987	20	3	1987	Costa Rica				45301	-83.6		45384			NA				
-HRG0595		MBG	MO - (BC:MO-1334899/A:3214097)	Oryza	latifolia	26/08/1984	26	8	1984	Costa Rica				10.81666667	-85.56666667		0-320			NA				
-HRG0596		MBG	MO - (BC:MO-1334900/A:5728944)	Oryza	latifolia	15/03/2002	15	3	2002	El Salvador				13.8752778	-88.9602778		470			NA				
-HRG0597		MBG	MO - (BC:MO-1334901/A:5668675)	Oryza	latifolia	02/06/1997	2	6	1997	Nicaragua				14.06666667	-84.56666667		200-220			NA				
-HRG0600		MBG	MO - (BC:MO-1621367/A:04853928)	Oryza	latifolia	16/08/2003	16	8	2003	Costa Rica				10.89916	-85.64972		200			NA				
-HRG0601		MBG	MO - (BC:MO-1748978/A:5988805)	Oryza	latifolia	22/10/1985	22	10	1985	Colombia				5.723987	-76.67808		50			NA				
-HRG0602		MBG	MO - (BC:MO-2220872/A:6218702)	Oryza	latifolia	16/12/2004	16	12	2004	Costa Rica				10.3491649	-85.2783924		10			NA				
-HRG0603		MBG	MO - (BC:MO-2234869/A:6266170)	Oryza	latifolia	21/08/2003	21	8	2003	Costa Rica				10.83	-85.61		290			NA				
-HRG0604		MBG	MO - (BC:MO-2234874/A:6266169)	Oryza	latifolia	21/06/2004	21	6	2004	Costa Rica				10.8833333	-85.6166667		200			NA				
-HRG0605		MBG	"MO - (BC:MO-2388399/A:6191994), (BC:MO-2935578/A:6708613)"	Oryza	latifolia	09/09/1999	9	9	1999	Costa Rica				10.35	-85.3666667		20			NA				
-HRG0606		MBG	MO - (BC:MO-2503173/A:6413904)	Oryza	latifolia	18/10/2006	18	10	2006	Costa Rica				10.389722	-83.97139		80			NA				
-HRG0607		MBG	MO - (BC:MO-2504377/A:6425773)	Oryza	latifolia	04/12/2006	4	12	2006	Costa Rica				10.0008333	-84.8280556		20			NA				
-HRG0608		MBG	MO - (BC:MO-2631439/A:6459133)	Oryza	latifolia	02/11/2011	2	11	2011	Nicaragua				11.9213889	-85.4261111		50			NA				
-HRG0609		MBG	MO - (BC:MO-2631917/A:3001367)	Oryza	latifolia	03/11/1981	3	11	1981	Mexico				16.1208334	-93.0136111		650			NA				
-HRG0610		MBG	MO - (BC:MO-2631918/A:2991186)	Oryza	latifolia	31/10/1981	31	10	1981	Mexico				15.9383333	-93.8177778		3			NA				
-HRG0611		MBG	MO - (BC:MO-2631922/A:3230208)	Oryza	latifolia	13/11/1984	13	11	1984	Mexico				17.5	-93.1		25			NA				
-HRG0612		MBG	MO - (BC:MO-2935399/A:6701249)	Oryza	latifolia	17/05/2000	17	5	2000	Costa Rica				8.65	-83.4666667		20			NA				
-HRG0613		MBG	MO - (BC:MO-2935509/A:6711055)	Oryza	latifolia	06/11/1999	6	11	1999	Costa Rica				10.95	-85.6166667		270			NA				
-HRG0614		MBG	MO - (BC:MO-365534/A:2583562)	Oryza	latifolia	27/08/1975	27	8	1975	Honduras				14.86444	-89.10611		600			NA				
-HRG0615		MBG	MO - (BC:MO-365536/A:1084971)	Oryza	latifolia	27/07/1934	27	7	1934	Honduras				15.7363889	-87.4530556		27			NA				
-HRG0616		MBG	MO - (BC:MO-365539/A:3323329)	Oryza	latifolia	06/09/1984	6	9	1984	Costa Rica				10.33333	-85.26111		20			NA				
-HRG0617		MBG	MO - (BC:MO-367564/A:3415941)	Oryza	latifolia	06/02/1983	6	2	1983	Costa Rica				10.43138	-84.00361		100			NA				
-HRG0618		MBG	MO - (BC:MO-367568/A:3717263)	Oryza	latifolia	01/08/1987	1	8	1987	Costa Rica				10.35	-85.35		10			NA				
-HRG0619		MBG	MO - (BC:MO-368908/A:5165940)	Oryza	latifolia	02/12/1997	2	12	1997	Costa Rica				8.566666667	-83.51666667		200			NA				
-HRG0620		MBG	MO - (BC:MO-1302957/A:04833754)	Oryza	rufipogon	03/04/1993	3	4	1993	Argentina				NA	NA		NA			NA				
-HRG0621		MBG	MO - (BC:MO-208018/A:2667038)	Oryza	rufipogon	09/11/1978	9	11	1978	Brazil				NA	NA		NA			NA				
-HRG0713		MBG	MO - (BC:MO-1299048/A:04873983)	Oryza	alta	02/11/1998	2	11	1998	Mexico				18.28444	-92.58916		NA			NA				
-HRG0714		MBG	MO - (BC:MO-1289734/A:2993760)	Oryza	alta	01/12/1981	1	12	1981	Venezuela				8.83333	-67.36666		40			NA				
-HRG0715		MBG	MO - (BC:MO-1289736/A:3500447)	Oryza	alta	23/09/1987	23	9	1987	Venezuela				7.5	-64.5		1483			NA				
-HRG0716		MBG	MO - (BC:MO-367557/A:2108271)	Oryza	alta	21/12/1972	21	12	1972	Mexico				18.511659	-91.101909		NA			NA				
-HRG0717		MBG	MO - (BC:MO-367558/A:5746416)	Oryza	alta	04/12/2002	4	12	2002	Mexico				18.43555	-92.635		200			NA				
-HRG0718		MBG	MO - (BC:MO-2631916/A:2991387)	Oryza	alta	10/11/1981	10	11	1981	Mexico				17.4913889	-92.1325		30-40			NA				
-HRG0719		MBG	MO - (BC:MO-208002/A:3696791)	Oryza	rufipogon	21/06/1966	21	6	1966	Papua New Guinea				-4.2167	142.8167		45			NA				
-HRG0724		NHMFR	P00661292	Oryza	latifolia	1813	NA	NA	1813	Puerto Rico				NA	NA		NA			NA				
-HRG0861		RBGK	K000433412	Oryza	rufipogon	NA	NA	NA	NA	Suriname				NA	NA		NA			NA				
-HRG0862		RBGK	K000433413	Oryza	grandiglumis	NA	NA	NA	NA	Brazil				NA	NA		NA			NA				
+Sample	Sample_ID	Batch_no	Herbarium	Barcode	Genus	Species	Collection_date	Collection_day	Collection_month	Collection_year	Country	Province	District	Town_Village	Latitude_DD	Longitude_DD	Accuracy	Altitude_m	Tissue_weight_mg	DNA_concentration_QUANTUS_ng_ul	gDNA_DIN	Peak_size	LIB_concentration_tapestation_ng_ul	LIB_concentration_QUANTUS_ng_ul
+3308632_AB_64891_S1	HV0011	#002	RBGK	K001451010	Hordeum	vulgare	26/09/1939	26	9	1939	UK	England	WestKent	Turnbridge	51.13	0.26	Town level		10.9	0.83	NA	182	7.82	23
+3308633_AB_64892_S2	HV0012	#002	RBGK	K001451017	Hordeum	vulgare	01/08/1926	1	8	1926	UK	England	Kent	Gravesent	51.44	0.36	Town level		10.9	7.2	1	179	8.43	24
+3308634_AB_64872_S3	HV0013	#002	RBGK	K001451036	Hordeum	vulgare	30/05/1932	30	5	1932	UK	England	Bristol 	Avonmouth	51.5	-2.7	Town level		8.6	1.54	NA	181	7.76	19
+3308635_AB_64886_S4	HV0014	#002	RBGK	K001451034	Hordeum	vulgare	10/06/1954	10	6	1954	UK	England	Gloucestershire	Sharpness	51.72	-2.48	Town level		12.8	30	1.1	183	5.88	24
+3308636_AB_64900_S5	HV0015	#002	RBGK	K001451033	Hordeum	vulgare	02/09/1936	2	9	1936	UK	England	Bristol	Sneyd Park	51.47	-2.63	Town level		2.2	0.314	NA	180	1.26	4.34
+3308637_AB_64864_S6	HV0016	#002	RBGK	K001451037	Hordeum	vulgare	17/07/1942	17	7	1942	UK	England	Warwickshire	Cranhill	52.19	-1.83	Town level		6.4	17	NA	183	17.2	54
+3308638_AB_64877_S7	HV0017	#002	RBGK	K001451038	Hordeum	vulgare	13/08/1918	13	8	1918	UK	England	Warwickshire	Warwick	52.28	-1.59	Town level		8.2	1.93	NA	181	3.18	9.5
+3308639_AB_64901_S8	HV0018	#002	RBGK	K001451027	Hordeum	vulgare	11/06/1946	11	6	1946	UK	England	Oxfordshire	Oxford	51.75	-1.26	Town level		6.8	1.52	NA	182	6.57	17
+3308640_AB_64910_S9	HV0019	#002	RBGK	K001451029	Hordeum	vulgare	12/08/1934	12	8	1934	UK	England	Norfolk	Grimston	52.77	0.55	Town level		7.2	0.782	NA	187	1.88	5.2
+3308641_AB_64865_S10	HV0020	#002	RBGK	K001451039	Hordeum	vulgare	09/09/1937	9	9	1937	UK	England	Staffordshire	Burton-upon-Trent	52.8	-1.64	Town level		9.6	44	NA	175	5.47	21
+3308642_AB_64893_S11	HS0011	#004	RBGK	K001451900	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		13.7	17	NA	182	3.58	4.86
+3308643_AB_64906_S12	HS0012	#004	RBGK	K001451899	Hordeum	spontaneum	10/04/1949	10	4	1949	Cyprus	Northern Cyprus	Kyrenia	Kyrenia	35.34	33.32	Town level		4.7	3.29	NA	182	7.76	12
+3308644_AB_64873_S13	HS0013	#004	RBGK	K001451898	Hordeum	spontaneum	22/04/1956	22	4	1956	Cyprus	SouthCyprus	Limassol	Asomatos	34.64	32.96	Town level		10.5	42	NA	181	6.8	11
+3308645_AB_64874_S14	HS0014	#004	RBGK	K001451897	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		6.5	3.78	NA	186	10.2	14
+3308646_AB_64887_S15	HS0015	#004	RBGK	K001451896	Hordeum	spontaneum	02/05/1982	2	5	1982	Cyprus	SouthCyprus	Nicosia	Agrokipia	35.04	33.15	Town level		9.8	68	NA	192	15.8	28
+3308647_AB_64878_S16	HS0016	#004	RBGK	K001451895	Hordeum	spontaneum	27/03/1957	27	3	1957	Cyprus	Northern Cyprus	Lefke	Evrychoqu	35.08	32.88	Town level		6.4	15	NA	188	24	33
+3308648_AB_64888_S17	HS0017	#004	RBGK	K001411326	Hordeum	spontaneum	2015	NA	NA	2015	Cyprus	Nicosia	Agia Marina	NA	35.05	33.05	GPS		10.2	81	NA	191	11.9	20
+3308649_AB_64902_S18	HS0018	#004	RBGK	K001451906	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		6.8	5.2	NA	178	10.2	17
+3308650_AB_64907_S19	HS0019	#004	RBGK	K001451905	Hordeum	spontaneum	01/08/1970	1	8	1970	Germany	Saxony-Anhalt	Salzlandkreis	Gatersleben	51.82	11.27	Town level		7.7	24	NA	185	9.22	14
+3308651_AB_64908_S20	HS0020	#004	RBGK	K001451904	Hordeum	spontaneum	27/03/1936	27	3	1936	Cyprus	SouthCyprus	Aronas	Athalassa	35.13	33.41	Town level		11.3	28	NA	185	9.32	13
+3308652_AB_64879_S21	HS0001	#006	RBGK	K001451894	Hordeum	spontaneum	24/05/1957	24	5	1957	Turkey	Mardin	Savur	Savur	37.56	40.68	Town level		8.8	41	NA	188	13.8	39
+3308653_AB_64911_S22	HS0003	#006	RBGK	K001451893	Hordeum	spontaneum	26/04/1965	26	4	1965	Turkey	Izmir	Cesme	Şifne	38.32	26.41	Town level		9.5	28	NA	192	16.2	44
+3308654_AB_64875_S23	HS0004	#006	RBGK	K001451892	Hordeum	spontaneum	06/05/1969	6	5	1969	Turkey	Canakkale	Canakkale	Canakkale	40.15	26.41	Town level		9.7	12	NA	187	17.3	41
+3308655_AB_64880_S24	HS0005	#006	RBGK	K001451890	Hordeum	spontaneum	02/05/1966	2	5	1966	Turkey	Mardin	Savur	Savur	37.56	40.68	Town level		7.6	37	NA	190	16.6	45
+3308656_AB_64881_S25	HS0006	#006	RBGK	K001451889	Hordeum	spontaneum	02/05/1966	2	5	1966	Turkey	Şanlıurfa	Ceylanpınar	Viransehir	37.04	39.92	Town level		6.2	6.8	NA	187	15.2	27
+3308657_AB_64866_S26	HS0008	#006	RBGK	K001451887	Hordeum	spontaneum	11/05/1988	11	5	1988	Turkey	Adiyaman	Kahta	Kahta	37.87	38.68	Town level		7.1	10	NA	191	25.9	45
+3308658_AB_64882_S27	HS0009	#006	RBGK	K001451886	Hordeum	spontaneum	11/05/1988	11	5	1988	Turkey	Diyarbakir	Diyarbakir	Kahta	37.9	40.03	Town level		3.3	1.63	NA	186	8.55	15
+3308659_AB_64903_S28	HS0010	#006	RBGK	K001451901	Hordeum	spontaneum	06/04/1955	6	4	1955	Cyprus	Northern Cyprus	Kyrenia	Kyrenia	35.34	33.32	Town level		6.7	27	NA	181	16.9	29
+3308660_AB_64904_S29	HS0036	#006	RBGK	K001451941	Hordeum	spontaneum	14/05/1994	14	5	1994	Israel	Northern District	GolanHeights	GIvatYoav	32.8	35.67	Town level		7.1	13	NA	188	16.6	35
+3308661_AB_64889_S30	HS0037	#006	RBGK	K001451940	Hordeum	spontaneum	11/05/1994	11	5	1994	Israel	SouthernDistrict	NegevDesert	Her Ramon	30.5	34.6	Town level		8	19	NA	186	25.2	48
+3308662_AB_64894_S31	HV0001	#010	RBGK	K001451021	Hordeum	vulgare	07/09/1927	7	9	1927	UK	England	EastLondon	Dagenham	51.54	0.14	Town level		6.6	11	NA	182	22.9	25
+3308663_AB_64912_S32	HV0002	#010	RBGK	K001451022	Hordeum	vulgare	08/07/1923	8	7	1923	UK	England	Essex	Colchester	51.9	0.9	Town level		8.3	2.73	NA	182	12.6	16
+3308664_AB_64867_S33	HV0003	#010	RBGK	K001451023	Hordeum	vulgare	10/10/1931	10	10	1931	UK	England	Hertfordshire	Hitchin	51.95	-0.28	Town level		9.3	11	NA	189	18.2	29
+3308665_AB_64868_S34	HV0004	#010	RBGK	K001451024	Hordeum	vulgare	20/10/1935	20	10	1935	UK	England	Uxbridge	Hillingdon	51.53	-0.45	Town level		4.4	4.96	1.2	185	22.5	29
+3308666_AB_64905_S35	HV0007	#010	RBGK	K001451006	Hordeum	vulgare	20/08/1925	20	8	1925	UK	IsleWight	Newport	Newport	50.7	-1.29	Town level		5.6	5.3	NA	181	26.2	27
+3308667_AB_64895_S36	HV0008	#010	RBGK	K001451007	Hordeum	vulgare	01/06/1934	1	6	1934	UK	IsleWight	Cowes	Floating Bridge	50.76	-1.29	Town level		3.4	2.93	NA	184	19.2	22
+3308668_AB_64890_S37	HV0009	#010	RBGK	K001451016	Hordeum	vulgare	12/07/1936	12	7	1936	UK	England	WestKent	High Brooms	51.15	0.28	Town level		6.3	9.5	NA	192	19	23
+3308669_AB_64913_S38	HV0010	#010	RBGK	K001451012	Hordeum	vulgare	05/07/1936	5	7	1936	UK	London	Bromley	Green Street Green	51.35	0.09	Town level		3.4	2.42	NA	188	20.6	29
+3308670_AB_64899_S39	HV0021	#010	RBGK	K001451041	Hordeum	vulgare	29/05/1927	29	5	1927	UK	Wales	Cardiff	Cardiff	51.48	-3.18	Town level		5.8	8	NA	177	1.38	3.45
+3308671_AB_64884_S40	HV0022	#010	RBGK	K001451040	Hordeum	vulgare	23/09/1926	23	9	1926	UK	Wales	Cardiff	Cardiff	51.48	-3.18	Town level		7.1	3.36	NA	177	1.53	2.29
+3308672_AB_64869_S41	HV0005	#011	RBGK	K001451028	Hordeum	vulgare	13/08/1944	13	8	1944	UK	England	Oxfordshire	Kidlington	51.82	-1.29	Town level		7.2	4.12	NA	183	16.5	18
+3308673_AB_64885_S42	HV0006	#011	RBGK	K001451005	Hordeum	vulgare	01/08/1943	1	8	1943	UK	Cornwall	Devon	South Molton	51.02	-3.83	Town level		5.3	1.15	NA	180	6.71	8.7
+3308674_AB_64876_S43	HV0029	#011	RBGK	K001451049	Hordeum	vulgare	16/07/1956	16	7	1956	Luxembourg	Luxembourg	Lorentzweiler	Bofferdange	49.68	6.13	Town level		4.8	7.9	NA	184	17.4	20
+3308675_AB_64896_S44	HV0035	#011	RBGK	K001453038	Hordeum	vulgare	13/06/1937	13	6	1937	Cyprus	SouthCyprus	Limassol	Krios river	34.68	33.04	District level		5	5.8	NA	187	11.1	12
+3308676_AB_64897_S45	HV0036	#011	RBGK	K001453037	Hordeum	vulgare	11/04/1937	11	4	1937	Cyprus	NA	NA	NA	35	33	Country level		2.9	2.39	NA	183	13.3	17
+3308677_AB_64898_S46	HV0044	#011	RBGK	K001453042	Hordeum	vulgare	12/04/1932	12	4	1932	Iraq	Baghdad	NA	NA	33.3	44.39	Province level		7.3	0.128	NA	184	1.74	2.96
+3308678_AB_64883_S47	HV0045	#011	RBGK	K001453041	Hordeum	vulgare	28/04/1947	28	4	1947	Iraq	Sulaymaniyah	Sulaymaniyah	Bakrajo	35.55	45.36	Town level		3.4	3.66	NA	183	18.2	16
+3308679_AB_64870_S48	HV0046	#011	RBGK	K001453040	Hordeum	vulgare	24/03/1947	24	3	1947	Iraq	Al Anbar	Hit	Hit	33.65	42.83	Town level		6.5	5.8	NA	184	17.5	25
+3308680_AB_64909_S49	HV0047	#011	RBGK	K001453048	Hordeum	vulgare	16/03/1947	16	3	1947	Iraq	Qwasit	AL Kut	Kut al-Imara	32.51	45.82	Town level		6.2	3.98	NA	184	14.6	20
+3308681_AB_64871_S50	HV0050	#011	RBGK	K001453044	Hordeum	vulgare	29/03/1947	29	3	1947	Iraq	AL Anbar	Rawa	NA	34.47	41.92	District level		5.7	8.6	NA	183	8.37	15
+3359146_AB_65276_S139	HV0023	#012	RBGK	K001451042	Hordeum	vulgare	27/08/1862	27	8	1862	UK	Wales	Gwynedd	Llanberis	53.12	4.13	Town level		3.6	0.949	NA	179	1.21	1.45
+3359147_AB_65160_S140	HV0025	#012	RBGK	K001451046	Hordeum	vulgare	01/07/1866	1	7	1866	NA	NA	NA	NA	NA	NA	NA		10.2	4.45	NA	179	9.82	8.9
+3359148_AB_65277_S141	HV0027	#012	RBGK	K001451048	Hordeum	vulgare	04/07/1882	4	7	1882	Switzerland	Vaud	NA	NA	46.62	6.55	Province level		4.4	0.989	NA	180	8.93	8.2
+3359149_AB_65196_S142	HV0040	#013	RBGK	K001453035	Hordeum	vulgare	1873	NA	NA	1873	Palestine	NA	NA	NA	32	35.25	Country level		9.8	1.82	NA	180	0.22	0.431
+3359150_AB_65162_S143	HV0042	#013	RBGK	K001453033	Hordeum	vulgare	15/01/1886	15	1	1886	Palestine	Jennin	Jennin	NA	32.46	35.3	District level		11.8	1.5	NA	177	0.148	0.292
+3359151_AB_65197_S144	HV0043	#013	RBGK	K001453032	Hordeum	vulgare	15/01/1886	15	1	1886	Palestine	Jennin	Jennin	NA	32.46	35.3	District level		10.8	0.314	NA	184	0.311	0.471
+3359152_AB_65294_S145	HV0048	#013	RBGK	K001453047	Hordeum	vulgare	22/05/1883	22	5	1883	Turkey	Canakkale	Canakkale	NA	40.12	26.43	Province level		6.7	1.27	NA	177	0.126	0.204
+3359153_AB_65296_S146	HV0059	#013	RBGK	K001453063	Hordeum	vulgare	25/04/1982	25	4	1892	Iran	Kerman	Kerman	Kerman	30.29	57.07	Town level		7.9	1.28	NA	184	0.85	0.985
+3359192_AB_65252_S185	HV0052	#022	RBGK	K001453050	Hordeum	vulgare	15/05/1947	15	5	1947	Iraq	Erbil	Soran	Rawanduz	36.61	44.52	Town level		5.6	0.0841	NA	187	4.54	3.3
+3359193_AB_65180_S186	HV0055	#022	RBGK	K001453054	Hordeum	vulgare	12/04/1947	12	4	1947	Iraq	Diyala	Kifri	NA	34.68	44.97	District level		6	0.587	NA	186	2.28	2.06
+3359194_AB_65163_S187	HV0056	#022	RBGK	K001453058	Hordeum	vulgare	24/05/1948	24	5	1948	Iraq	Nineveh	Sinjar	Sinjar	36.32	41.86	Town level		6	1.29	NA	192	7.74	5.5
+3359213_AB_65250_S206	HV0024	#032	RBGK	K001451044	Hordeum	vulgare	01/07/1927	1	7	1927	UK	Scotland	St. Kilda	St. Kilda	57.81	-8.57	Town level		7.5	0.0567	NA	175	2.21	1.89
+3359214_AB_65278_S207	HV0034	#032	RBGK	K001451059	Hordeum	vulgare	25/04/1934	25	4	1934	Greece	Fournoi	Fournoi	Alatonisi	37.53	26.42	Town level		7.9	0.386	NA	178	10.5	8.4
+3359216_AB_65316_S209	HV0037	#033	RBGK	K001453036	Hordeum	vulgare	11/03/1982	11	3	1982	Cyprus	SouthCyprus	Nicosia	Orounda	35.1	33.09	Town level		10.3	17	NA	180	4.33	5.2
+3359217_AB_65202_S210	HV0092	#033	RBGK	K001453778	Hordeum	vulgare	23/03/1970	23	3	1970	Libya	Tripolitania	Misrata	NA	31.5	14.5	District level		6.4	0.285	NA	183	9.47	8.6
+3359218_AB_65225_S211	HV0219	#033	RBGK	K001459690	Hordeum	vulgare	14/05/1991	14	5	1991	Peru	Otuzco	La Lbertad	Salpo	-7.97	-78.6	District level		5.1	1.16	NA	190	3.83	3.7
+3359219_AB_65292_S212	HV0028	#034	RBGK	K001451047	Hordeum	vulgare	29/08/1845	29	8	1845	Switzerland	Vaud	Aigle	Gryon	46.27	7.07	Town level		5.9	0.0245	NA	177	2.13	1.55
+3359220_AB_65220_S213	HV0038	#036	RBGK	K001453030	Hordeum	vulgare	09/08/1962	9	8	1962	Turkey	Erzurum	Askale	Mt.Kop	40.04	40.52	Town level		9.5	12	1.2	181	4.13	5.3
+3359221_AB_65195_S214	HV0039	#036	RBGK	K001453029	Hordeum	vulgare	1967	NA	NA	1967	Turkey	Sirnak	Gizre	Mt.Cudi	37.39	42.43	Town level		6.9	0.13	NA	180	2.21	1.79
+3359222_AB_65297_S215	HV0074	#036	RBGK	K001453085	Hordeum	vulgare	15/01/1966	15	15	1966	Bahrain	Bahrain	Bahrain	NA	26.07	50.5	District level		9.6	1.59	NA	NA	NA	0.154
+3359223_AB_65203_S216	HV0095	#036	RBGK	K001453782	Hordeum	vulgare	01/04/1963	1	4	1963	Libya	Cyernaica	Marj	Zorda	32.47	20.83	Town level		5	0.136	NA	181	1	1.05
+3359134_AB_65299_S127	HS0021	#005	RBGK	K001451903	Hordeum	spontaneum	27/03/1936	27	3	1936	Cyprus	SouthCyprus	Aronas	Athalassa	35.13	33.41	Town level		9.4	24	NA	150	1.21	2.17
+3359135_AB_65259_S128	HS0022	#005	RBGK	K001451902	Hordeum	spontaneum	27/03/1936	27	3	1936	Cyprus	SouthCyprus	Aronas	Athalassa	35.13	33.41	Town level		5.9	23	NA	168	1.28	2.09
+3359136_AB_65141_S129	HS0023	#005	RBGK	K001434524	Hordeum	spontaneum	14/06/2017	14	6	2017	Armenia	Syunik	NA	Road	38.91	46.38	GPS		6.2	6.2	NA	181	0.04	0.418
+3359137_AB_65300_S130	HS0024	#005	RBGK	K001434528	Hordeum	spontaneum	14/06/2017	14	6	2017	Armenia	Syunik	NA	Kerchevan	38.9	46.18	GPS		6.4	3.35	NA	190	1.49	2.01
+3359138_AB_65182_S131	HS0039	#008	RBGK	K001451933	Hordeum	spontaneum	05/05/1994	5	5	1994	Israel	Jerusalem	Jerusalem	Avizohas	31.78	35.23	Town level		4.6	0.425	NA	179	0.567	0.596
+3359139_AB_65302_S132	HS0040	#008	RBGK	K001451932	Hordeum	spontaneum	06/05/1994	6	5	1994	Israel	Northern District	Upper Galilee	Rosh-Pina	32.95	35.53	Town level		9.1	3.39	NA	195	1.56	1.65
+3359140_AB_65281_S133	HS0041	#008	RBGK	K001451931	Hordeum	spontaneum	09/05/1994	9	5	1994	Israel	SouthernDistrict	Shephelah	Revadim	31.77	34.82	Town level		5.3	2.7	NA	189	6.64	5.5
+3359141_AB_65260_S134	HS0042	#008	RBGK	K001451934	Hordeum	spontaneum	14/05/1994	14	5	1994	Israel	NorthIsrael	Gilboa	EinHarod	32.56	35.39	Town level		2.1	0.976	NA	186	7	5.7
+3359142_AB_65142_S135	HS0043	#008	RBGK	K001451925	Hordeum	spontaneum	08/05/1994	8	5	1994	Israel	NorthIsrael	Haifa	Damon	32.73	35.04	Town level		8	1.11	NA	191	4.23	3.45
+3359143_AB_65144_S136	HS0047	#008	RBGK	K001451923	Hordeum	spontaneum	07/05/1973	7	5	1973	Israel	Northern District	Upper Galilee	Rosh-Pina	32.97	35.54	Town level		5.9	31	NA	191	6.27	7
+3359144_AB_65183_S137	HS0050	#008	RBGK	K001451920	Hordeum	spontaneum	10/05/1994	10	5	1994	Israel	Jerusalem	Judean Hills	Motza	31.8	35.17	Town level		5.5	1.17	NA	186	0.385	0.574
+3359145_AB_65205_S138	HS0051	#008	RBGK	K001451919	Hordeum	spontaneum	13/04/1969	13	4	1969	Israel	NorthIsrael	Haifa	Ara	32.51	35.08	Town level		5.5	2.47	NA	183	0.397	0.974
+3359154_AB_65237_S147	HS0096	#014	RBGK	K001451967	Hordeum	spontaneum	07/04/1958	7	4	1958	Iraq	Amarah	Amarah	Fakkeh	32.06	47.68	District level		6.5	0.73	NA	187	4.05	4.28
+3359155_AB_65209_S148	HS0097	#014	RBGK	K001451965	Hordeum	spontaneum	28/03/1957	28	3	1957	Iraq	Masyan	Kuwait	Jabal al Muafla	32.42	47.3	Town level		9	10	NA	182	3.03	4.69
+3359156_AB_65186_S149	HS0098	#014	RBGK	K001451964	Hordeum	spontaneum	21/04/1957	21	4	1957	Iraq	NA	NA	NA	33	44	Country level		5.4	12	NA	191	2.78	3.41
+3359157_AB_65210_S150	HS0099	#014	RBGK	K001451973	Hordeum	spontaneum	21/06/1957	21	6	1957	Iraq	Sulaymaniyah	Qopi Quaradagh	NA	35.28	45.34	District level		6	11	NA	168	0.451	1.79
+3359158_AB_65211_S151	HS0100	#014	RBGK	K001451972	Hordeum	spontaneum	04/06/1948	4	6	1948	Iraq	Nineveh	Gwiske	NA	36.78	43.95	District level		4.4	12	NA	165	0.0581	0.829
+3359159_AB_65282_S152	HS0052	#015	RBGK	K001451918	Hordeum	spontaneum	22/05/1932	22	5	1932	Palestine	West Bank	Dara	NA	32	35.35	District level		6.9	0.746	NA	183	0.686	0.56
+3359160_AB_65262_S153	HS0079	#015	RBGK	K001451947	Hordeum	spontaneum	18/04/1943	18	4	1943	Syria	Homs	Tadmur	Palmyra	34.56	38.27	District level		3.6	1.78	NA	190	7.55	4.98
+3359161_AB_65264_S154	HS0081	#015	RBGK	K001451945	Hordeum	spontaneum	15/04/1939	15	4	1939	Syria	Aleppo	Manbij	NA	36.09	37.93	District level		3.6	0.763	NA	193	6.19	3.79
+3359162_AB_65265_S155	HS0084	#015	RBGK	K001451952	Hordeum	spontaneum	26/04/1945	26	4	1945	Jordan	Zarqa	Zarqa	Jebel Al Turno	32.05	36.1	District level		4.7	3.71	NA	184	10.4	6.9
+3359163_AB_65184_S156	HS0085	#015	RBGK	K001451951	Hordeum	spontaneum	17/04/1945	17	4	1945	Jordan	Jerash	Jersash	NA	32.28	35.9	District level		2.7	1.12	NA	194	4.81	1.49
+3359164_AB_65232_S157	HS0054	#016	RBGK	K001451915	Hordeum	spontaneum	21/03/1967	21	3	1967	Israel	SouthernDistrict	Dimona	Negev	31.04	35.2	Town level		7	4.86	NA	178	2.92	3.7
+3359165_AB_65261_S158	HS0055	#016	RBGK	K001451914	Hordeum	spontaneum	20/03/1967	20	3	1967	Israel	SouthernDistrict	Dimona	Negev	31.04	35.2	Town level		3.5	6.9	NA	183	3.19	3.54
+3359166_AB_65170_S159	HS0056	#016	RBGK	K001451913	Hordeum	spontaneum	24/04/1969	24	4	1969	Israel	UpperGalilee	MeronNatureReserve	Mt.Meron	32.99	35.41	Town level		4.7	7.8	NA	183	5.09	6
+3359167_AB_65152_S160	HS0111	#016	RBGK	K001451986	Hordeum	spontaneum	12/04/1947	12	4	1947	Iraq	Diyala	Kifri	Kifri	34.68	44.97	Town level		3.2	2.17	NA	184	3.46	2.77
+3359168_AB_65283_S161	HS0112	#016	RBGK	K001451985	Hordeum	spontaneum	02/04/1947	2	4	1947	Iraq	Saladin	NA	Mt. Makhul	35.11	43.43	Town level		5.9	11	NA	182	4.27	5.2
+3359169_AB_65172_S162	HS0113	#016	RBGK	K001451984	Hordeum	spontaneum	15/05/1947	15	5	1947	Iraq	Erbil	Soran	Mt. Hadrayn	36.58	44.61	Town level		5.3	11	NA	180	3.31	4.1
+3359170_AB_65239_S163	HS0114	#016	RBGK	K001451983	Hordeum	spontaneum	31/03/1950	31	3	1950	Iraq	Diyala	Baladrooz	NA	33.67	45.41	District level		6.7	3.02	NA	187	2.71	2.36
+3359171_AB_65240_S164	HS0115	#016	RBGK	K001451982	Hordeum	spontaneum	31/03/1950	31	3	1950	Iraq	Diyala	Baladrooz	NA	33.67	45.41	District level		5.1	8.3	2.3	179	1.73	2.44
+3359172_AB_65173_S165	HS0116	#016	RBGK	K001451981	Hordeum	spontaneum	02/04/1948	2	4	1948	Iraq	Kirkuk	Al Hawija	Al Hawija	35.32	43.77	District level		10	29	NA	177	2.22	2.39
+3359173_AB_65187_S166	HS0117	#016	RBGK	K001451979	Hordeum	spontaneum	03/04/1962	3	4	1962	Iraq	Nineveh	Al Baaj	Al Baiyder	35.65	41.79	District level		3.2	2.75	NA	180	1.8	1.99
+3359174_AB_65258_S167	HS0002	#017	RBGK	K001451001	Hordeum	spontaneum	19/04/1914	19	4	1914	Greece	Crete	NA	Sitia	35.2	26.1	Town level		5.3	0.451	NA	194	2.79	2.54
+3359175_AB_65228_S168	HS0031	#017	RBGK	K001451991	Hordeum	spontaneum	06/05/1912	6	5	1914	Azerbaijan	Baku	Baku	NA	40.39	49.88	District level		3	1.15	NA	188	1.73	2.12
+3359176_AB_65143_S169	HS0046	#017	RBGK	K001451924	Hordeum	spontaneum	22/04/1933	22	4	1933	Palestine	West Bank	Dara	NA	32	35.35	District level		3.7	0.366	NA	197	0.511	0.923
+3359177_AB_65169_S170	HS0048	#017	RBGK	K001451922	Hordeum	spontaneum	19/04/2011	19	4	1911	Israel	West Bank	Bethelem	St. Theodosius Convent	31.72	35.28	Town level		5.1	0.244	NA	183	1.61	1.49
+3359178_AB_65145_S171	HS0049	#017	RBGK	K001451921	Hordeum	spontaneum	06/05/1935	6	5	1935	Israel	West Bank	Judean Hills	KfarEzion	31.65	35.12	Town level		4.1	0.453	NA	188	0.467	0.754
+3359179_AB_65231_S172	HS0053	#017	RBGK	K001451916	Hordeum	spontaneum	22/04/1911	22	4	1911	Egypt	Suez	Suez	Uyun Musa	29.87	32.65	Town level		5.4	1.48	NA	188	3.05	3.22
+3359180_AB_65233_S173	HS0057	#017	RBGK	K001451910	Hordeum	spontaneum	02/05/1911	2	5	1911	Palestine	West Bank	Jericho	Jabbok river	31.99	35.52	District level		8	1.9	NA	183	3.45	3.88
+3359181_AB_65234_S174	HS0058	#017	RBGK	K001451909	Hordeum	spontaneum	02/05/1911	2	5	1911	Palestine	West Bank	Jericho	Jabbok river	31.99	35.52	District level		6	0.0296	NA	187	0.208	0.351
+3359182_AB_65235_S175	HS0060	#017	RBGK	K001451907	Hordeum	spontaneum	19/04/1911	19	4	1911	Palestine	West Bank	Jericho	"St, Georges Convent"	31.84	35.42	Town level		3.9	0.837	NA	186	1.3	1.57
+3359183_AB_65206_S176	HS0082	#017	RBGK	K001451944	Hordeum	spontaneum	01/05/1911	1	5	1911	Syria	Hama	Hama	NA	34.94	36.75	District level		7.2	5.6	NA	183	4.09	4.47
+3359184_AB_65266_S177	HS0089	#018	RBGK	K001451963	Hordeum	spontaneum	1958	NA	NA	1958	Iraq	Sulaymaniyah	Halabja	Kuh I Bamu	35.08	45.99	Town level		4.8	3.94	NA	190	9.22	9.1
+3359185_AB_65268_S178	HS0104	#018	RBGK	K001451977	Hordeum	spontaneum	16/04/1975	16	4	1975	Iraq	Erbil	MGU	Darband	36.7	44.91	Town level		5	15	NA	192	6	6.4
+3359186_AB_65213_S179	HS0107	#018	RBGK	K001451974	Hordeum	spontaneum	26/04/1963	26	4	1963	Iraq	Sulaymaniyah	Darbandikhan	NA	35.05	45.67	District level		2.9	0.161	NA	194	2.03	1.64
+3359187_AB_65151_S180	HS0109	#018	RBGK	K001451988	Hordeum	spontaneum	30/04/1956	30	4	1956	Iraq	Duhok	Zawita	Zawita	36.91	43.14	Town level		5.6	18.5	NA	195	3.51	4.49
+3359188_AB_65242_S181	HS0130	#019	RBGK	K001453003	Hordeum	spontaneum	27/04/1963	27	4	1963	Iran	Lorestan	NA	NA	33.1	47.72	GPS		5.9	14	NA	191	0.0472	0.141
+3359189_AB_65243_S182	HS0131	#019	RBGK	K001453002	Hordeum	spontaneum	01/04/1953	1	4	1953	Iran	Fars	Larestan	Lar	27.66	54.32	Town level		6.5	18	NA	190	0.0239	0.12
+3359190_AB_65245_S183	HS0134	#019	RBGK	K001453025	Hordeum	spontaneum	10/05/1971	10	5	1971	Afghanistan	Baghlan	NA	Doshi	36.06	68.53	District level		7.8	27	NA	186	6.7	9.3
+3359191_AB_65285_S184	HS0135	#019	RBGK	K001453024	Hordeum	spontaneum	08/05/1976	8	5	1976	Afghanistan	Herat	Gulran	Gulran	35.1	61.67	Town level		5.8	3.63	NA	188	8.48	9.8
+3359195_AB_65272_S188	HS0142	#024	RBGK	K001453011	Hordeum	spontaneum	24/03/1993	24	3	1993	Saudi Arabia	Hail	Hail	JebelAja	27.47	41.47	Town level		7.3	12	NA	185	2.13	3.1
+3359196_AB_65273_S189	HS0143	#024	RBGK	K001453010	Hordeum	spontaneum	05/04/1989	5	4	1989	Saudi Arabia	ALMadinah	NA	Al Figrah	24.37	38.98	Town level		6.3	25	NA	185	2.26	4.66
+3359197_AB_65190_S190	HS0144	#024	RBGK	K001453009	Hordeum	spontaneum	08/03/1988	8	3	1988	Saudi Arabia	NorthernBorders	Turaif	Turaif	31.68	38.65	Town level		3.7	0.145	NA	190	1.46	1.38
+3359198_AB_65246_S191	HS0146	#024	RBGK	K001453014	Hordeum	spontaneum	19/03/1990	19	3	1990	Egypt	Marsa Matruh	Marsa Matruh	Marsa Matruh	31.35	27.24	Town level		7.1	0.385	NA	186	1.2	1.14
+3359199_AB_65289_S192	HS0153	#024	RBGK	K001453880	Hordeum	spontaneum	23/05/1994	23	5	1994	Turkmenistan	Ahal	Annau	Annau	37.88	58.53	GPS		8.6	0.333	NA	189	4.92	4.24
+3359200_AB_65313_S193	HS0162	#024	RBGK	K001375640	Hordeum	spontaneum	08/11/1986	8	11	1986	Syria	Aleppo	Aleppo	Aleppo	36.2	37.16	Town level		4.8	0.562	NA	197	1.31	1.31
+3359201_AB_65314_S194	HS0165	#024	RBGK	K001375643	Hordeum	spontaneum	24/05/1967	24	5	1967	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		7.8	0.945	NA	181	4.66	3.86
+3359202_AB_65290_S195	HS0170	#026	RBGK	K001375654	Hordeum	spontaneum	1961	NA	NA	1961	Afghanistan	NA	NA	NA	NA	NA	Glasshouse		4.3	11	NA	188	9.41	9.5
+3359203_AB_65194_S196	HS0172	#026	RBGK	K001375652	Hordeum	spontaneum	30/05/1970	30	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		5	2.25	NA	179	7.22	6.2
+3359204_AB_65315_S197	HS0174	#026	RBGK	K001375650	Hordeum	spontaneum	25/05/1970	25	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		7.8	0.0868	NA	181	2.85	2.6
+3359205_AB_65159_S198	HS0175	#026	RBGK	K001375649	Hordeum	spontaneum	09/06/1970	9	6	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		6.6	0.0657	NA	181	1	1.24
+3359206_AB_65275_S199	HS0176	#026	RBGK	K001375648	Hordeum	spontaneum	24/05/1970	24	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		5	0.19	NA	182	3.12	2.75
+3359207_AB_65241_S200	HS0121	#031	RBGK	K001451999	Hordeum	spontaneum	01/04/1868	1	4	1868	Iran	Fars	Kazerun	Kazerun	29.62	51.66	Town level		5.2	0.901	NA	173	4.26	4.01
+3359208_AB_65287_S201	HS0145	#031	RBGK	K001453015	Hordeum	spontaneum	29/04/1885	29	4	1885	Iran	Bushehr	Dashtestan	Dalaki	29.43	51.29	Town level		7.9	0.0435	NA	176	4.91	3.84
+3359209_AB_65193_S202	HS0160	#031	RBGK	K001459035	Hordeum	spontaneum	1867	NA	NA	1867	Pakistan	Balochistan	Quetta	NA	30.18	67	District level		14	3.99	NA	174	6.74	7.9
+3359210_AB_65191_S203	HS0155	#032	RBGK	K001453878	Hordeum	spontaneum	26/05/1900	26	5	1900	Turkmenistan	Ashgabat	Ashgabat	NA	37.94	58.38	DIstrict level		9.4	0.734	NA	182	9.05	6.8
+3359211_AB_65274_S204	HS0156	#032	RBGK	K001453877	Hordeum	spontaneum	10/06/1909	10	6	1909	Kyrgyzstan	NA	NA	Karasu	41	75	Country level		7	9.4	1	178	9.1	9.1
+3359212_AB_65192_S205	HS0158	#032	RBGK	K001453875	Hordeum	spontaneum	13/05/1895	13	5	1895	Kazakhstan	NA	NA	NA	NA	NA	NA		8.9	0.891	NA	181	3.79	3.19
+3359215_AB_65146_S208	HS0061	#033	RBGK	K001451942	Hordeum	spontaneum	07/05/1994	7	5	1994	Israel	SouthernDistrict	Netivot	NA	31.41	34.61	District level		5.1	0.562	NA	189	6.01	5.5
+3359002_AB_65280_S1	HS0025	#005	RBGK	K001434527	Hordeum	spontaneum	21/06/2017	21	6	2017	Armenia	Tavush	Road	Road	41.18	44.89	GPS		7.4	8.6	NA	190	16.1	16
+3359003_AB_65167_S2	HS0026	#005	RBGK	K001434526	Hordeum	spontaneum	23/06/2017	23	6	2017	Armenia	Yerevan	Yerevan	NorNorq/Erebuni	40.15	44.54	GPS		1.9	43	NA	191	10.1	13
+3359004_AB_65301_S3	HS0027	#005	RBGK	K001434525	Hordeum	spontaneum	23/06/2017	23	6	2017	Armenia	Yerevan	Yerevan	Hrazdan	40.18	44.5	GPS		11.1	12	NA	191	14.3	9.3
+3359006_AB_65227_S5	HS0029	#005	RBGK	K001451990	Hordeum	spontaneum	1956	NA	NA	1956	Azerbaijan	Baku	Baku	Baku	40.39	49.88	District level		6.7	41	NA	189	20.7	29
+3359007_AB_65204_S6	HS0030	#005	RBGK	K001451989	Hordeum	spontaneum	13/05/1912	13	5	1912	Azerbaijan	Baku	Baku	NA	40.39	49.88	District level		7.1	27	NA	183	11.5	13
+3359010_AB_65229_S9	HS0038	#008	RBGK	K001451935	Hordeum	spontaneum	07/05/1994	7	5	1994	Israel	NorthIsrael	Haifa	Binyamina	32.52	34.97	Town level		7.7	6.7	NA	189	7.04	7
+3359011_AB_65303_S10	HS0044	#008	RBGK	K001451926	Hordeum	spontaneum	20/04/1999	20	4	1999	Israel	UpperGalilee	Jazreel Valley	Bethlehem	32.74	35.19	Town level		7.7	35	-	187	14.4	13
+3359020_AB_65208_S19	HS0091	#014	RBGK	K001451961	Hordeum	spontaneum	25/03/1980	25	3	1980	Iraq	Diyala	Balad Ruz	Mandali	33.92	45.4	Town level		6.8	10	1.6	184	13.4	12
+3359021_AB_65304_S20	HS0092	#014	RBGK	K001451960	Hordeum	spontaneum	01/04/1962	1	4	1962	Iraq	Saladin	NA	Baiji/Haditha	34.58	42.99	District level		8.2	5.7	NA	183	13.5	11
+3359022_AB_65149_S21	HS0093	#014	RBGK	K001451959	Hordeum	spontaneum	02/05/1974	2	5	1974	Iraq	Nineveh	NA	Nimrud	36.1	43.33	Town level		12	13	NA	184	17.5	21
+3359023_AB_65267_S22	HS0094	#014	RBGK	K001451958	Hordeum	spontaneum	30/03/1962	30	3	1962	Iraq	AL Anbar	Rutba	Wadi Hawran	33.14	40.42	District level		5.2	5.5	NA	179	17.2	20
+3359024_AB_65171_S23	HS0095	#014	RBGK	K001451968	Hordeum	spontaneum	21/05/1948	21	5	1948	Iraq	Nineveh	Mosul	NA	36.36	43.13	District level		4.9	3.47	NA	189	9.09	9.7
+3359027_AB_65263_S26	HS0080	#015	RBGK	K001451946	Hordeum	spontaneum	16/04/1940	16	4	1940	Syria	NA	NA	NA	35	38	Country level		7	12	1.6	189	13.8	12
+3359028_AB_65236_S27	HS0086	#015	RBGK	K001451950	Hordeum	spontaneum	19/04/1945	19	4	1945	Jordan	Maan	Wadi Musa	NA	30.21	35.47	District level		6.9	4.01	NA	187	13.7	10
+3359029_AB_65305_S28	HS0101	#015	RBGK	K001451971	Hordeum	spontaneum	31/05/1948	31	5	1948	Iraq	Duhok	Akre	NA	36.73	43.88	District level		7.5	6.6	NA	189	12	9.1
+3359030_AB_65212_S29	HS0102	#015	RBGK	K001451970	Hordeum	spontaneum	08/05/1947	8	5	1947	Iraq	Duhok	Bedhair	NA	37.1	42.53	District level		4.9	11	NA	186	10.1	9.5
+3359031_AB_65238_S30	HS0103	#015	RBGK	K001451969	Hordeum	spontaneum	08/05/1932	8	5	1932	Iraq	NA	NA	NA	33	44	Country level		4.9	4.99	1.1	187	12.9	11
+3359038_AB_65185_S37	HS0088	#018	RBGK	K001451955	Hordeum	spontaneum	16/04/1963	16	4	1963	Jordan	EastJordan	Zarqa	Azraq	31.798	36.6	GPS		3.3	15	NA	193	10.1	12
+3359039_AB_65148_S38	HS0090	#018	RBGK	K001451962	Hordeum	spontaneum	08/07/1954	8	7	1954	Iraq	Diyala	NA	Jazira	34	44.94	Town level		4.3	4.19	NA	187	11.2	12
+3359040_AB_65269_S39	HS0105	#018	RBGK	K001451976	Hordeum	spontaneum	27/05/1970	27	5	1970	Iraq	Sulaymaniyah	Sulaymaniyah	NA	35.47	45.43	District level		6.7	21	NA	185	11.2	16
+3359041_AB_65150_S40	HS0106	#018	RBGK	K001451975	Hordeum	spontaneum	29/03/1960	29	3	1960	Iraq	Sulaymaniyah	Darbandikhan	NA	35.05	45.67	District level		5.4	8.7	NA	190	13.9	16
+3359042_AB_65306_S41	HS0108	#018	RBGK	K001451978	Hordeum	spontaneum	08/05/1963	8	5	1963	Iraq	Erbil	Erbil	Salaheddin	36.21	44	Town level		4.1	0.801	NA	190	11.5	12
+3359043_AB_65307_S42	HS0110	#018	RBGK	K001451987	Hordeum	spontaneum	08/05/1967	8	5	1967	Iraq	AL Anbar	Ar Rutba	NA	32.08	40.24	District level		6.8	3.87	NA	190	12.1	10
+3359046_AB_65309_S45	HS0132	#019	RBGK	K001453001	Hordeum	spontaneum	10/04/1960	10	4	1960	Iran	Lorestan	Khorramabad	Khorramabad	33.49	48.36	Town level		6	13	NA	NA	NA	13
+3359047_AB_65244_S46	HS0133	#019	RBGK	K001453026	Hordeum	spontaneum	15/04/1970	15	4	1970	Afghanistan	Bādghīs	NA	NA	35	63.75	Province level		3.5	3.53	NA	184	11.1	12
+3359048_AB_65286_S47	HS0136	#019	RBGK	K001453023	Hordeum	spontaneum	26/09/1976	26	9	1976	Afghanistan	IBB	Kitab	Jebel Sumara	14.18	44.28	Town level		6.4	22	NA	185	6.69	10
+3359049_AB_65156_S48	HS0137	#019	RBGK	K001453022	Hordeum	spontaneum	14/04/1970	14	4	1970	Afghanistan	Herat	Herat	Herat	34.34	62.2	Town level		5.8	9.1	NA	184	14.9	19
+3359050_AB_65214_S49	HS0138	#019	RBGK	K001453021	Hordeum	spontaneum	16/05/1964	16	5	1964	Afghanistan	Baghlan	Baghlan	NA	35.98	68.77	District level		9	22	NA	183	7.82	11
+3359054_AB_65207_S52	HS0083	#020	RBGK	K001451953	Hordeum	spontaneum	13/05/1976	13	5	1976	Jordan	Irbid	BaniKinanah	ALHemma	32.65	35.73	District level		3.7	3.15	NA	190	20.7	24
+3359055_AB_65147_S53	HS0087	#020	RBGK	K001451957	Hordeum	spontaneum	13/05/1976	13	5	1976	Jordan	Jerash	Jerash	NA	32.28	35.9	District level		6.6	12	NA	190	11.9	15
+3359056_AB_65174_S54	HS0122	#020	RBGK	K001451998	Hordeum	spontaneum	07/05/1963	7	5	1963	Iran	West Azerbeijan	Urmia	Urmia	37.54	45.06	Town level		3.9	6.2	NA	193	13.7	19
+3359057_AB_65270_S55	HS0123	#020	RBGK	K001451997	Hordeum	spontaneum	04/06/1964	4	6	1964	Iran	Hamadan	Hamadan	Hamadan	34.8	48.51	Town level		4.1	8.3	NA	193	18.4	20
+3359058_AB_65154_S56	HS0124	#020	RBGK	K001451996	Hordeum	spontaneum	21/05/1976	21	5	1976	Iran	Golestan	Maraveh Tappeh	Maraveh Tappeh	37.9	55.96	Town level		5.2	2	NA	193	9.08	11
+3359059_AB_65271_S57	HS0125	#020	RBGK	K001451995	Hordeum	spontaneum	14/05/1960	14	5	1960	Iran	Karmanshah	Karmanshah	NA	34.33	47.09	District level		8.4	17	NA	190	10.4	14
+3359060_AB_65308_S58	HS0126	#020	RBGK	K001451994	Hordeum	spontaneum	30/04/1961	30	4	1961	Iran	Fars	Fasa	NA	28.98	53.63	District level		3.9	3.69	NA	189	23.1	27
+3359061_AB_65284_S59	HS0127	#020	RBGK	K001453006	Hordeum	spontaneum	07/03/1946	7	3	1946	Iran	Khuzestan	Ahwaz	Ahwaz	31.3	48.68	Town level		4.1	6.9	NA	193	21.5	23
+3359062_AB_65155_S60	HS0128	#020	RBGK	K001453005	Hordeum	spontaneum	05/05/1958	5	5	1958	Iran	Golestan	Dashli Borun	Nārlidāq	37.7	55.23	Town level		5.3	0.482	NA	189	8.8	9
+3359063_AB_65188_S61	HS0129	#020	RBGK	K001453004	Hordeum	spontaneum	25/04/1929	25	4	1929	Iran	Qom	Qom	Qom	34.64	50.88	Town level		4.4	2.66	NA	183	18.3	20
+3359075_AB_65288_S73	HS0149	#024	RBGK	K001453774	Hordeum	spontaneum	18/04/1959	18	4	1959	Libya	Cyernaica	Marj	Al Marj	32.47	20.83	Town level		6	11	NA	190	17.8	18
+3359076_AB_65176_S74	HS0163	#024	RBGK	K001375641	Hordeum	spontaneum	02/11/1989	2	11	1989	Syria	Aleppo	Aleppo	Aleppo	36.2	37.16	Town level		6.7	8.8	NA	187	17	16
+3359077_AB_65177_S75	HS0164	#024	RBGK	K001375642	Hordeum	spontaneum	1989	NA	NA	1989	Israel	Northern District	Upper Galilee	Rosh-Pina	32.97	35.54	Town level		4	5.7	NA	188	22.7	17
+3359081_AB_65216_S78	HS0157	#026	RBGK	K001453876	Hordeum	spontaneum	04/06/1954	4	6	1954	Turkmenistan	Ashgabat	Ashgabat	Kopedag	37.94	58.38	Town level		9.8	16	NA	197	18.9	30
+3359082_AB_65248_S79	HS0166	#026	RBGK	K001375645	Hordeum	spontaneum	02/07/1958	2	7	1958	NA	NA	NA	NA	NA	NA	Glasshouse		7.8	18	NA	191	9.96	15
+3359083_AB_65249_S80	HS0171	#026	RBGK	K001375653	Hordeum	spontaneum	31/01/1961	31	1	1961	Afghanistan	NA	NA	NA	NA	NA	Glasshouse		5.2	18	NA	190	13.6	17
+3359084_AB_65291_S81	HS0173	#026	RBGK	K001375651	Hordeum	spontaneum	25/05/1970	25	5	1970	Japan	Shizouka	Mishima	Mishima	35.12	138.92	Town level		8.3	1.76	NA	181	21.2	17
+3359087_AB_65226_S84	HS0007	#031	RBGK	K001451888	Hordeum	spontaneum	14/05/1883	14	5	1883	Turkey	Balikesir	NA	NA	39.63	27.88	Province level		9.9	11	1.2	175	7.62	10
+3359088_AB_65153_S85	HS0120	#031	RBGK	K001452000	Hordeum	spontaneum	01/05/1867	1	5	1867	NA	NA	NA	NA	NA	NA	NA		12	4.71	-	174	13.4	11
+3359089_AB_65310_S86	HS0140	#031	RBGK	K001453019	Hordeum	spontaneum	14/05/1885	14	5	1885	Afghanistan	Baghdad	NA	NA	35	63.75	Province level		10.4	1.15	NA	178	20.3	15
+3359090_AB_65189_S87	HS0141	#031	RBGK	K001453017	Hordeum	spontaneum	01/05/1822	1	5	1822	NA	NA	NA	NA	NA	NA	NA		6.1	3.46	NA	176	10.8	13
+3359091_AB_65311_S88	HS0151	#031	RBGK	K001453772	Hordeum	spontaneum	10/04/1887	10	4	1887	Libya	Cyernaica	Derna	Derna	32.76	22.64	Town level		6.5	2.1	NA	174	15.5	13
+3359092_AB_65217_S89	HS0168	#031	RBGK	K001375646	Hordeum	spontaneum	01/06/1885	1	6	1885	Germany	North Rhine-Westphalia	Bonn	Poppelsdorf	50.72	7.09	Town level		8.1	2.98	NA	173	12.4	12
+3359093_AB_65158_S90	HS0169	#031	RBGK	K001375647	Hordeum	spontaneum	1890	NA	NA	1890	Germany	North Rhine-Westphalia	Bonn	Poppelsdorf	50.72	7.09	Town level		7.7	1.71	NA	173	12.8	10
+3359096_AB_65175_S93	HS0147	#032	RBGK	K001453776	Hordeum	spontaneum	10/04/1933	10	4	1933	Libya	Cyernaica	Derna	Derna	32.76	22.64	Town level		3.9	1.33	NA	183	16.4	13
+3359097_AB_65157_S94	HS0148	#032	RBGK	K001453775	Hordeum	spontaneum	14/04/1939	14	4	1939	Libya	Cyernaica	Matj	Tolmeta	32.71	20.94	Town level		5.3	7.1	NA	181	12.6	13
+3359098_AB_65312_S95	HS0154	#032	RBGK	K001453879	Hordeum	spontaneum	07/05/1926	7	5	1926	Uzbekistan	Tashkent	NA	NA	41.3	69.3	Province level		8	8.1	-	179	12.2	12
+3359099_AB_65178_S96	HS0167	#032	RBGK	K001375644	Hordeum	spontaneum	24/05/1936	24	5	1936	NA	NA	NA	NA	NA	NA	Glasshouse		4.5	11	NA	177	8.42	9.4
+3359103_AB_65230_S100	HS0045	#033	RBGK	K001451928	Hordeum	spontaneum	10/05/1994	10	5	1994	Israel	Jerusalem	Jerusalem	BetShemesh	31.75	34.99	Town level		13.2	28	NA	193	20.9	22
+3359005_AB_65168_S4	HS0028	#005	RBGK	K001434268	Hordeum	vulgare	13/08/2015	13	8	2015	Armenia	Yerevan	Yerevan	Tokhmakh Cementary	40.15	44.53	GPS		5.7	34	NA	194	26.9	31
+3359014_AB_65218_S13	HV0031	#012	RBGK	K001451051	Hordeum	vulgare	17/05/1877	17	5	1877	France	Ile-de-France	Essonne	Milly-la-Foret	48.4	2.47	Town level		5.5	1.09	NA	182	13.6	12
+3359015_AB_65219_S14	HV0032	#012	RBGK	K001451050	Hordeum	vulgare	16/07/1876	16	7	1876	France	Ile-de-France	Paris	NA	48.86	2.35	Town level		5.9	1.87	NA	182	12.1	7.9
+3359066_AB_65179_S64	HV0053	#022	RBGK	K001453052	Hordeum	vulgare	13/04/1947	13	4	1947	Iraq	Kirkuk	Kirkuk	NA	35.47	44.32	District level		7.9	7.5	1.1	184	13.6	13
+3359067_AB_65295_S65	HV0054	#022	RBGK	K001453053	Hordeum	vulgare	13/04/1947	13	4	1947	Iraq	Kirkuk	Kirkuk	NA	35.47	44.32	District level		8.5	2.53	NA	180	17.9	16
+3359068_AB_65279_S66	HV0057	#022	RBGK	K001453057	Hordeum	vulgare	11/03/1960	11	3	1960	Iraq	Baghdad	NA	NA	33.3	44.39	Province level		8.5	11	NA	185	13.4	13
+3359069_AB_65317_S67	HV0058	#022	RBGK	K001453055	Hordeum	vulgare	12/04/1947	12	4	1947	Iraq	Diyala	Kifri	NA	34.68	44.97	District level		6.4	9.1	NA	184	24.2	22
+3359070_AB_65198_S68	HV0060	#022	RBGK	K001453064	Hordeum	vulgare	23/04/1842	23	4	1842	Iran	NA	NA	NA	NA	NA	NA		3.4	1.48	NA	182	26.5	22
+3359071_AB_65181_S69	HV0061	#022	RBGK	K001453071	Hordeum	vulgare	23/04/1842	23	4	1842	Iran	Fars	Marvdasht	Persepolis	29.93	52.87	Town level		6.5	6.6	1.5	185	16.1	15
+3359072_AB_65318_S70	HV0062	#022	RBGK	K001453062	Hordeum	vulgare	04/07/1948	4	7	1948	Iran	Alborz	NA	NA	35.93	50.9	Province level		9	15	NA	180	14	16
+3359100_AB_65161_S97	HV0026	#032	RBGK	K001451045	Hordeum	vulgare	1906	NA	NA	1906	NA	NA	NA	NA	NA	NA	NA		11.5	4.27	-	180	18.7	16
+3359104_AB_65253_S101	HV0065	#033	RBGK	K001453087	Hordeum	vulgare	17/04/1990	17	4	1990	Kuwait	Al Jahra	NA	NA	29.16	47.23	Road level		4.5	8.1	1.7	191	26.1	25
+3359105_AB_65256_S102	HV0073	#033	RBGK	K001453075	Hordeum	vulgare	06/04/1983	5	4	1983	Saudi Arabia	NorthernBorders	Turaif	Turaif	31.39	39.29	GPS		5	3.13	NA	187	27.2	25
+3359106_AB_65257_S103	HV0091	#033	RBGK	K001453779	Hordeum	vulgare	16/03/1970	16	3	1970	Libya	NA	Jabal al Gharbi	Jebel Nefoussa	31.81	12.13	District level		11.5	4.53	NA	184	25	30
+3359107_AB_65166_S104	HV0093	#033	RBGK	K001453777	Hordeum	vulgare	16/03/1970	16	3	1970	Libya	NA	Jabal al Gharbi	Jebel Nefoussa	31.38	12.44	District level		5.7	12	1.5	190	15.1	15
+3359108_AB_65298_S105	HV0094	#033	RBGK	K001453783	Hordeum	vulgare	15/03/1970	15	3	1970	Libya	NA	Jabal al Gharbi	Yefren	32.06	12.53	Town level		6.2	3.3	NA	185	28.2	28
+3359111_AB_65251_S108	HV0030	#034	RBGK	K001451052	Hordeum	vulgare	1827	NA	NA	1827	France	Auvergne-Rh�ne-Alpes	Chamonix 	Zarmatten	45.92	6.87	Town level		9.8	2.64	NA	182	18.3	10
+3359112_AB_65221_S109	HV0049	#034	RBGK	K001453045	Hordeum	vulgare	1867	NA	NA	1867	Iraq	Baghdad	NA	NA	33.3	44.39	Province level		15	5.8	NA	183	20.8	15
+3359113_AB_65222_S110	HV0075	#034	RBGK	K001453097	Hordeum	vulgare	1819	NA	NA	1819	Egypt	Alexandria	Alexandria	Alexandria	31.17	29.88	District level		10.8	0.357	NA	183	26.5	17
+3359114_AB_65201_S111	HV0076	#034	RBGK	K001453096	Hordeum	vulgare	1826	NA	NA	1826	Egypt	Alexandria	Alexandria	Alexandria	31.17	29.88	District level		14	0.27	NA	179	19.2	9.8
+3359115_AB_65164_S112	HV0080	#034	RBGK	K001453089	Hordeum	vulgare	1849	NA	NA	1849	Jordan	NA	NA	NA	30	35.25	Country level		9.8	1.17	NA	179	19.2	11
+3359116_AB_65223_S113	HV0081	#034	RBGK	K001453098	Hordeum	vulgare	1867	NA	NA	1867	India	Uttarakhand	Kumaon	NA	30.36	80.15	District level		7.6	12	1.6	183	15.9	15
+3359117_AB_65165_S114	HV0082	#034	RBGK	K001453100	Hordeum	vulgare	1867	NA	NA	1867	China	Lhasa	Dagzê	Kyunglung	31.03	80.58	Town level		5	2.56	NA	188	19.2	13
+3359118_AB_65319_S115	HV0083	#034	RBGK	K001453099	Hordeum	vulgare	1867	NA	NA	1867	Afghanistan	NA	NA	NA	34.5	69.25	Country level		8.1	2.16	NA	188	23.6	16
+3359119_AB_65320_S116	HV0085	#034	RBGK	K001453102	Hordeum	vulgare	1820	NA	NA	1820	NA	NA	NA	NA	NA	NA	NA		6.4	0.994	NA	179	19.7	12
+3359122_AB_65293_S119	HV0033	#036	RBGK	K001451058	Hordeum	vulgare	08/06/1986	8	6	1986	Spain	CastilleLeon	Burgos	Covanera	42.73	-3.8	Town level		7.9	12	NA	186	9.27	9.7
+3359123_AB_65199_S120	HV0069	#036	RBGK	K001453078	Hordeum	vulgare	28/10/1975	28	10	1975	Yemen	Ibb	Hubaysh	Yerim Hill	14.07	44.3	GPS		7.4	0.819	NA	185	13.1	12
+3359124_AB_65254_S121	HV0070	#036	RBGK	K001453077	Hordeum	vulgare	21/10/1975	21	10	1975	Yemen	Taiz	Taiz	Jebel Sabir	13.51	44.05	Town level		7.8	7.3	NA	183	18	17
+3359125_AB_65255_S122	HV0071	#036	RBGK	K001453076	Hordeum	vulgare	12/05/1977	12	5	1977	Yemen	Dhamar	Jahran	Mabar	14.79	44.29	Town level		11.9	9	NA	185	14.9	14
+3359126_AB_65200_S123	HV0072	#036	RBGK	K001453083	Hordeum	vulgare	26/04/1979	26	4	1979	Qatar	Zone71	Umm Salal	Umm Salal Muhammed	25.42	51.4	Town level		4.4	1.02	NA	182	18.6	17
+3359127_AB_65224_S124	HV0084	#036	RBGK	K001453101	Hordeum	vulgare	06/05/1971	6	5	1971	Afghanistan	Kandahar	Kandahar	Kandahar	31.62	65.72	Town level		5	6.3	NA	188	14.2	12
+HRG0841	HRG0841	#001	RBGK	K000631581	Oryza	rufipogon	16/10/1928	16	10	1928	Thailand	Sa Kaeo	Aranyaprathet	Aranyaprathet	13.69	102.5	Town level		8.3	1.5	NA	178	5.62	11
+HRG0842	HRG0842	#001	RBGK	K000631582	Oryza	rufipogon	16/10/1928	16	10	1928	Thailand	Sa Kaeo	Aranyaprathet	Aranyaprathet	13.69	102.5	Town level		6.2	1.01	NA	177	2.26	5.3
+HRG0843	HRG0843	#001	RBGK	K000631585	Oryza	rufipogon	10/09/1930	10	9	1930	Thailand	Chonburi	NA	Utapao	12.67	100.99	Town level		11	9.9	1	184	14.1	32
+HRG0844	HRG0844	#001	RBGK	K000631586	Oryza	rufipogon	28/12/1929	28	12	1929	Thailand	Ang Thong	NA	NA	14.59	100.46	Province level		9.1	5.1	1	183	18.3	40
+HRG0845	HRG0845	#003	RBGK	K000631587	Oryza	rufipogon	28/12/1929	28	12	1929	Thailand	Ang Thong	NA	NA	14.59	100.46	Province level		9.7	2.75	NA	178	7.84	16
+HRG0846	HRG0846	#003	RBGK	K000631588	Oryza	rufipogon	28/12/1929	28	12	1929	Thailand	Ang Thong	NA	NA	14.59	100.46	Province level		9.5	4.61	NA	182	4.67	11
+HRG0847	HRG0847	#001	RBGK	K000631589	Oryza	rufipogon	22/11/1927	22	11	1927	Thailand	Chon Buri	Bang Lamung	Laem Chabang	13.08	100.89	Town level		14.5	11	NA	183	20.8	54
+HRG0848	HRG0848	#001	RBGK	K000631590	Oryza	rufipogon	22/11/1927	22	11	1927	Thailand	Chon Buri	Bang Lamung	Laem Chabang	13.08	100.89	Town level		14.1	21	-	182	16.5	39
+HRG0849	HRG0849	#003	RBGK	K000631592	Oryza	rufipogon	09/11/1926	9	11	1926	Thailand	Phetchaburi	NA	NA	13.11	99.94	Province level		8.5	2.19	NA	180	7.06	17
+HRG0850	HRG0850	#001	RBGK	K000682204	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand	Nakhon Ratchasima	Chok Chai	Chok Chai	14.73	102.16	Town level		9.4	14	1.1	188	19.9	48
+HRG0851	HRG0851	#001	RBGK	K000682205	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand	Nakhon Ratchasima	Chok Chai	Chok Chai	14.73	102.16	Town level		9.1	6.4	1.2	189	19.8	53
+HRG0852	HRG0852	#001	RBGK	K000682206	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand	Buri Ram	Prakhon Chai	Pakhon	14.61	103.12	District level		8.2	8.4	1	194	19.2	44
+HRG0853	HRG0853	#001	RBGK	K000682207	Oryza	rufipogon	26/11/1988	26	11	1988	Thailand	Surin	Mueang Surin	Nok Mueang	14.88	103.49	Town level		11.5	14	1	191	19.4	48
+HRG0854	HRG0854	#003	RBGK	K000682210	Oryza	rufipogon	23/01/1955	23	1	1955	Thailand	Bangkok	Nonthan Buri	Bang Phlat	13.79	100.5	Town level		8.7	8	1.3	180	4.92	13
+HRG0855	HRG0855	#003	RBGK	K000682212	Oryza	rufipogon	11/11/1961	11	11	1961	Thailand	Kanchanaburi	Mueang Kanchanaburi	Ban Kao	13.87	99.15	Town level		6.4	6.2	1.6	180	5.73	14
+HRG0856	HRG0856	#003	RBGK	K000682213	Oryza	rufipogon	27/08/1972	27	8	1972	Thailand	Chanthaburi	Khao Khitchakut	Khao Pra bat	12.83	102.18	Town level		7	1.2	NA	187	4.15	9.7
+HRG0857	HRG0857	#003	RBGK	K000682214	Oryza	rufipogon	14/11/1965	14	11	1965	Thailand	Bangkok	Phra Nakhon	Krungthep	13.76	100.5	Town level		9.7	0.525	NA	78	0.341	0.618
+HRG0858	HRG0858	#003	RBGK	K000682218	Oryza	rufipogon	06/11/1984	6	11	1984	Thailand	Prachinburi	NA	NA	14.05	101.37	Province level		9.9	9.2	1.4	180	4.17	13
+HRB0113	HRB0113	#027	NYBGUS	1758829	Oryza	latifolia	10/07/1937	10	7	1937	Mexico				15.322	-92.66		NA	9.1	0.619	NA	176	2.02	1.88
+HRB0114	HRB0114	#027	NYBGUS	1758830	Oryza	latifolia	17/10/1960	17	10	1960	Mexico				21.15	-104.956		600	4.8	2.54	-	183	15.6	21
+HRB0116	HRB0116	#027	NYBGUS	651828	Oryza	latifolia	03/03/1984	3	3	1984	Mexico				17.25	-94.58		100	7.4	0	NA	179	1.72	1.67
+HRB0117	HRB0117	#027	NYBGUS	NA	Oryza	latifolia	30/07/1972	30	7	1972	Nicaragua				11.63	-84.81		NA	4.7	2.56	NA	186	22.3	22
+HRB0118	HRB0118	#027	NYBGUS	NA	Oryza	latifolia	13/07/1971	13	7	1971	Panama				8.113	-77.701		NA	6.2	3.73	1.4	183	19.8	21
+HRB0119	HRB0119	#027	NYBGUS	NA	Oryza	latifolia	07/06/1976	7	6	1976	Costa Rica				9.605	-82.795		30	8.1	5.7	1.4	181	15	15
+HRB0120	HRB0120	#027	NYBGUS	1051527	Oryza	latifolia	03/04/1914	3	4	1914	Puerto Rico				18.2	-67.11		NA	7.2	0.862	NA	172	10.3	9.1
+HRB0121	HRB0121	#027	NYBGUS	1604484	Oryza	latifolia	11/08/1903	11	8	1903	Haiti				19.812	-72.431		0m	4.3	1.57	-	183	24.6	22
+HRB0122	HRB0122	#027	NYBGUS	651826	Oryza	latifolia	02/04/1957	2	4	1957	Brazil				-28.298	-48.88		2-10m	6.9	0.0347	NA	180	1.9	1.98
+HRB0123	HRB0123	#027	NYBGUS	651825	Oryza	latifolia	17/04/1912	17	4	1912	Brazil				-24	-47		NA	5.4	1.95	1	182	23	20
+HRB0124	HRB0124	#028	NYBGUS	2618203	Oryza	latifolia	27/02/1986	27	2	1986	Brazil				-0.892	-52.47		NA	6.8	7.2	NA	182	12.6	13
+HRB0125	HRB0125	#028	NYBGUS	2618206	Oryza	latifolia	27/10/1987	27	10	1987	Brazil				3.434	-71.735		NA	9.1	0.128	NA	178	3.67	3.36
+HRB0126	HRB0126	#028	NYBGUS	2618207	Oryza	latifolia	15/05/1929	15	5	1929	Brazil				-4.9	-56.36		NA	9	0.536	NA	173	3.35	2.78
+HRB0127	HRB0127	#028	NYBGUS	2618209	Oryza	latifolia	18/10/1960	18	10	1960	Brazil				3.6	-51.4		NA	6.6	0.629	NA	179	6.24	5.1
+HRB0128	HRB0128	#028	NYBGUS	2618212	Oryza	latifolia	31/03/1953	31	3	1953	Venezuela				2.94	-65.37		150m	8.6	3.29	1	184	17.4	14
+HRB0129	HRB0129	#028	NYBGUS	NA	Oryza	latifolia	22/02/1962	22	2	1962	French Guiana				5.12	-52.66		NA	3.7	2.09	NA	183	19	17
+HRB0130	HRB0130	#028	NYBGUS	NA	Oryza	latifolia	28/09/1992	28	9	1992	Guyana				2.75	-59.83		150-250m	2.4	3.55	NA	184	7.98	7.2
+HRB0132	HRB0132	#028	NYBGUS	NA	Oryza	latifolia	23/10/1898	23	10	1898	Colombia				11.235	-74.114		250ft	6	0.717	NA	177	16.7	12
+HRB0133	HRB0133	#028	NYBGUS	NA	Oryza	latifolia	15/01/1918	15	1	1918	Colombia				7	-74		110-120m	14.6	2.43	1.5	178	24.3	19
+HRB0134	HRB0134	#028	NYBGUS	NA	Oryza	latifolia	20/12/1990	20	12	1990	Colombia				8.2	-76.6		NA	7.9	5.2	1	175	10.1	11
+HRB0135	HRB0135	#029	NYBGUS	NA	Oryza	latifolia	06/05/1987	6	5	1987	Ecuador				-2.73	-79.95		0m	3.2	3.67	NA	188	11.4	13
+HRB0136	HRB0136	#029	NYBGUS	NA	Oryza	latifolia	05/05/1988	5	5	1988	Ecuador				-1.06	-77.7		400m	4.6	3.85	NA	185	11	15
+HRB0137	HRB0137	#029	NYBGUS	NA	Oryza	latifolia	15/05/1988	15	5	1988	Ecuador				0.8	-80.05		30m	3.7	3.92	NA	183	13	22
+HRB0138	HRB0138	#029	NYBGUS	NA	Oryza	latifolia	03/01/1985	3	1	1985	Bolivia				-16.2	-62.1		500m	5.5	2.37	NA	184	16.2	24
+HRB0140	HRB0140	#029	NYBGUS	NA	Oryza	latifolia	03/06/1982	3	6	1982	Bolivia				-11.08	-66.15		220m	4.5	2.93	NA	181	17.2	23
+HRB0141	HRB0141	#029	NYBGUS	NA	Oryza	latifolia	10/11/1990	10	11	1990	Bolivia				-14.55	-62.66		NA	7.5	4.9	NA	179	15.2	19
+HRB0142	HRB0142	#029	NYBGUS	NA	Oryza	latifolia	21/06/1963	21	6	1963	Trinidad				10.3	-61.07		NA	7.4	3.56	1.7	181	15.4	17
+HRB0143	HRB0143	#029	NYBGUS	NA	Oryza	latifolia	14/05/1949	14	5	1949	Suriname				5.77	-56.63		MA	5.1	0.285	NA	177	5.49	5.4
+HRB0144	HRB0144	#029	NYBGUS	NA	Oryza	latifolia	01/09/1966	1	9	1966	Venezuela				9.76	-66.51		NA	5.4	1.89	NA	181	21.9	26
+HRB0145	HRB0145	#029	NYBGUS	NA	Oryza	latifolia	25/07/1988	25	7	1988	Peru				-3.69	-73.26		90m	7.1	5.2	1.3	181	13.6	26
+HRB0181	HRB0181	#030	SIHUS	2205508	Oryza	grandiglumis	10/06/1952	10	6	1952	Brazil				-12.625	-63.12		NA	4.4	0.216	NA	179	2.03	1.84
+HRB0182	HRB0182	#030	SIHUS	2769696	Oryza	grandiglumis	24/07/1973	24	7	1973	Brazil				-4.24	-69.94		NA	4	1.16	NA	184	23.9	30
+HRB0183	HRB0183	#030	SIHUS	3142921 (00703435)	Oryza	grandiglumis	15/03/1987	15	3	1987	French Guiana				4.51	-52.05		NA	5.9	6.4	NA	186	13.8	23
+HRB0184	HRB0184	#030	SIHUS	3010017	Oryza	grandiglumis	16/04/1971	16	4	1971	Brazil				-7.62	-72.85		NA	4.5	0.267	NA	179	0.0961	0.294
+HRB0185	HRB0185	#030	SIHUS	2236299	Oryza	grandiglumis	14/04/1943	14	4	1943	Brazil				-3.64	-55.47		NA	10.3	2.94	NA	178	9.5	12
+HRB0186	HRB0186	#030	SIHUS	2207138	Oryza	grandiglumis	20/11/1940	20	11	1940	Peru				-3.79	-73.25		NA	5.4	1.2	NA	175	2.05	1.86
+HRB0187	HRB0187	#030	SIHUS	1982770	Oryza	grandiglumis	15/08/1948	15	8	1948	Peru				-5.46	-75.9		NA	5.7	0.679	NA	178	5.21	5.7
+HRB0188	HRB0188	#030	SIHUS	1982669	Oryza	grandiglumis	01/03/1946	1	3	1946	Colombia				-3.76	-70.39		100m	4.4	0.0806	NA	183	0.057	0.238
+HRB0189	HRB0189	#030	SIHUS	2631972	Oryza	grandiglumis	10/03/1966	10	3	1966	Bolivia				-14.83	-64.9		200m	4.9	0.456	NA	173	1.75	1.91
+HRB0190	HRB0190	#030	SIHUS	2656087	Oryza	grandiglumis	15/12/1951	15	12	1951	Brazil				-6.23	-57.76		NA	6.4	0.0538	NA	176	1.18	1.05
+HRG0034_S80	HRG0034		NHMUK	BM013399248	Oryza	latifolia	20/08/1981	20	8	1981	Nicaragua				11.68	-85.985		NA			NA			
+HRG0035_S75	HRG0035		NHMUK	BM013399249	Oryza	latifolia	21/08/1971	21	8	1971	Honduras				14.867	-89.093		NA			NA			
+HRG0036_S7	HRG0036		NHMUK	BM013399250	Oryza	latifolia	NA	NA	NA	NA	Guatemala				15.25	-89.105		NA			NA			
+HRG0037_S31	HRG0037		NHMUK	BM013399251	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				20.755	-77.033		NA			NA			
+HRG0038_S89	HRG0038		NHMUK	BM013399252	Oryza	latifolia	13/02/2004	13	2	2004	El Salvador				13.8	-90.07		NA			NA			
+HRG0039_S8	HRG0039		NHMUK	BM013399253	Oryza	latifolia	NA	NA	NA	NA	Panama				8.9	-80.3		NA			NA			
+HRG0040_S39	HRG0040		NHMUK	BM013399254	Oryza	latifolia	18/12/1931	18	12	1931	Peru				-4.42	-77.649		200			NA			
+HRG0041_S90	HRG0041		NHMUK	BM000895689	Oryza	latifolia	28/10/2005	28	10	2005	Belize				16.55	-88.71		NA			NA			
+HRG0042_S91	HRG0042		NHMUK	BM000934341	Oryza	latifolia	23/01/2005	23	1	2005	Paraguay				-26.57527778	-58.04083333		NA			NA			
+HRG0043_S92	HRG0043		NHMUK	BM000934145	Oryza	latifolia	01/02/2005	1	2	2005	Paraguay				-24.28	-58.555		NA			NA			
+HRG0044_S74	HRG0044		HUHUS	NA	Oryza	latifolia	06/11/1968	6	11	1968	Nicaragua				13.393	-86.398		1000			NA			
+HRG0045_S76	HRG0045		HUHUS	NA	Oryza	latifolia	30/07/1972	30	7	1972	Nicaragua				13.526	-85.923		NA			NA			
+HRG0046_S33	HRG0046		HUHUS	NA	Oryza	latifolia	25/02/1922	25	2	1922	El Salvador				13.486	-88.157		110			NA			
+HRG0047_S56	HRG0047		HUHUS	NA	Oryza	latifolia	01/07/1949	1	7	1949	Costa Rica				9.901	-84.627		30-100			NA			
+HRG0048_S45	HRG0048		HUHUS	NA	Oryza	latifolia	10/03/1939	10	3	1939	Panama				9.003	-79.594		0-10			NA			
+HRG0049_S50	HRG0049		HUHUS	NA	Oryza	latifolia	04/03/1942	4	3	1942	Belize				16.543	-88.548		NA			NA			
+HRG0050_S48	HRG0050		HUHUS	NA	Oryza	latifolia	26/07/1939	26	7	1939	Mexico				18.262	-92.103		NA			NA			
+HRG0051_S36	HRG0051		HUHUS	NA	Oryza	latifolia	26/08/1922	26	8	1922	Cuba				20.755	-77.033		NA			NA			
+HRG0052_S37	HRG0052		HUHUS	NA	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				20.755	-77.033		NA			NA			
+HRG0053_S65	HRG0053		HUHUS	NA	Oryza	latifolia	19/03/1961	19	3	1961	Argentina				-27.815	-58.653		NA			NA			
+HRG0054_S72	HRG0054		HUHUS	NA	Oryza	latifolia	07/04/1967	7	4	1967	Argentina				-31.131	-59.92		NA			NA			
+HRG0055_S18	HRG0055		HUHUS	NA	Oryza	latifolia	1890	NA	NA	1890	Paraguay				-22.474	-62.286		NA			NA			
+HRG0056_S25	HRG0056		HUHUS	NA	Oryza	latifolia	1913	NA	NA	1913	Paraguay				-25.317	-57.229		NA			NA			
+HRG0057_S28	HRG0057		HUHUS	NA	Oryza	latifolia	11/11/1920	11	11	1920	Venezuela				10.462	-68.288		10-100			NA			
+HRG0058_S40	HRG0058		HUHUS	NA	Oryza	latifolia	18/12/1931	18	12	1931	Peru				-4.42	-77.649		200			NA			
+HRG0059_S84	HRG0059		HUHUS	NA	Oryza	latifolia	25/07/1983	25	7	1983	Brazil				-3.39	-57.875		NA			NA			
+HRG0280_S29	HRG0280		RBGK	K001280261	Oryza	latifolia	28/08/1922	28	8	1922	Cuba				20.94318557	-76.95955594		NA			NA			
+HRG0281_S30	HRG0281		RBGK	K001280262	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				NA	NA		NA			NA			
+HRG0282_S38	HRG0282		RBGK	K001280263	Oryza	latifolia	07/09/1925	7	9	1925	Haiti				19.80721632	-72.43491867		NA			NA			
+HRG0283_S77	HRG0283		RBGK	NA	Oryza	latifolia	06/12/1976	6	12	1976	Trinidad				10.42475796	-61.0531481		NA			NA			
+HRG0284_S52	HRG0284		RBGK	K001280265	Oryza	latifolia	01/09/1945	1	9	1945	Trinidad				NA	NA		NA			NA			
+HRG0285_S13	HRG0285		RBGK	K001280267	Oryza	latifolia	14/02/1845	14	2	1845	Trinidad				NA	NA		NA			NA			
+HRG0286_S67	HRG0286		RBGK	K001280268	Oryza	latifolia	21/06/1963	21	6	1963	Trinidad				10.33112578	-61.09933496		NA			NA			
+HRG0287_S27	HRG0287		RBGK	K001280255	Oryza	latifolia	12/11/1920	12	11	1920	Cuba				21.89480485	-82.80154417		NA			NA			
+HRG0288_S49	HRG0288		RBGK	K001280258	Oryza	latifolia	05/01/1940	5	1	1940	Cuba				22.35730976	-83.67053698		NA			NA			
+HRG0289_S78	HRG0289		RBGK	K001268737	Oryza	rufipogon	01/09/1979	1	9	1979	Guyana				7.535121539	-58.7434789		2			NA			
+HRG0291_S73	HRG0291		RBGK	K001268742	Oryza	rufipogon	03/09/1968	3	9	1968	Suriname				2.029949363	-56.1533472		255			NA			
+HRG0292_S68	HRG0292		RBGK	K001055160	Oryza	rufipogon	22/11/1965	22	11	1965	Brazil				NA	NA		NA			NA			
+HRG0293_S41	HRG0293		RBGK	K001055158	Oryza	rufipogon	02/05/1934	2	5	1934	Brazil				NA	NA		NA			NA			
+HRG0294_S69	HRG0294		RBGK	K001055157	Oryza	rufipogon	11/06/1966	11	6	1966	Brazil				NA	NA		600-1000			NA			
+HRG0295_S55	HRG0295		RBGK	K001268745	Oryza	latifolia	14/05/1949	14	5	1949	Suriname				5.761866005	-56.68273913		NA			NA			
+HRG0296_S66	HRG0296		RBGK	K001268747	Oryza	latifolia	22/02/1962	22	2	1962	French Guiana				5.017	-52.65		NA			NA			
+HRG0297_S61	HRG0297		RBGK	K001268750	Oryza	latifolia	10/10/1955	10	10	1955	French Guiana				5.017	-52.65		NA			NA			
+HRG0298_S54	HRG0298		RBGK	K001268752	Oryza	latifolia	01/09/1948	1	9	1948	Guyana				3.021516792	-59.52368223		NA			NA			
+HRG0299_S79	HRG0299		RBGK	K001268753	Oryza	latifolia	01/09/1979	1	9	1979	Guyana				NA	NA		2			NA			
+HRG0300_S42	HRG0300		RBGK	K001268755	Oryza	latifolia	11/10/1937	11	10	1937	Guyana				3.7511	-59.3118		NA			NA			
+HRG0301_S53	HRG0301		RBGK	K001055161	Oryza	rufipogon	08/01/1945	8	1	1945	Brazil				-0.978226535	-62.91045299		NA			NA			
+HRG0302_S26	HRG0302		RBGK	K001055163	Oryza	rufipogon	17/06/1937	17	6	1937	Brazil				NA	NA		142			NA			
+HRG0303_S87	HRG0303		RBGK	K001055164	Oryza	rufipogon	24/03/1998	24	3	1998	Brazil				-4.766667	-42.116667		125			NA			
+HRG0304_S63	HRG0304		RBGK	K001055153	Oryza	rufipogon	08/07/1983	8	7	1983	Brazil				-4.166667	-58.683333		NA			NA			
+HRG0305_S6	HRG0305		RBGK	K001055162	Oryza	rufipogon	08/01/1945	8	1	1945	Brazil				-0.978226535	-62.91045299		NA			NA			
+HRG0306_S83	HRG0306		RBGK	K000001133	Oryza	latifolia	08/03/1983	8	3	1983	Brazil				-15.666667	-39.05		NA			NA			
+HRG0307_S51	HRG0307		RBGK	K001055055	Oryza	latifolia	01/06/1944	1	6	1944	Brazil				-3.499007838	-45.26194511		NA			NA			
+HRG0308_S86	HRG0308		RBGK	K001055061	Oryza	latifolia	27/10/1987	27	10	1987	Brazil				3.433333	-61.733333		NA			NA			
+HRG0309_S24	HRG0309		RBGK	K001055059	Oryza	latifolia	17/04/1912	17	4	1912	Brazil				NA	NA		NA			NA			
+HRG0310_S88	HRG0310		RBGK	K001055060	Oryza	latifolia	11/11/2002	11	11	2002	Brazil				-23.75558355	-53.85284329		NA			NA			
+HRG0311_S85	HRG0311		RBGK	K001055058	Oryza	latifolia	06/11/1985	6	11	1985	Brazil				-4.816667	-52.516664		NA			NA			
+HRG0312_S57	HRG0312		RBGK	K001268757	Oryza	latifolia	26/02/1950	26	2	1950	Paraguay				NA	NA		NA			NA			
+HRG0349_S16	HRG0349		NHMFR	MNHN-P-P02235711	Oryza	latifolia	1878	NA	NA	1878	Brazil				-2.97351	-68.84465		NA			NA			
+HRG0350_S20	HRG0350		NHMFR	MNHN-P-P02235714	Oryza	latifolia	1901	NA	NA	1901	Colombia				11.24036	-74.21102		NA			NA			
+HRG0351_S19	HRG0351		NHMFR	MNHN-P-P02235715	Oryza	latifolia	1899	NA	NA	1899	Colombia				11.24036	-74.21102		NA			NA			
+HRG0352_S60	HRG0352		NHMFR	MNHN-P-P02235718	Oryza	latifolia	26/02/1950	26	2	1950	Paraguay				-22.28601	-57.94182		NA			NA			
+HRG0354_S64	HRG0354		NHMFR	MNHN-P-P02235720	Oryza	latifolia	19/03/1961	19	3	1961	Argentina				-35.58695	-70.75166		NA			NA			
+HRG0355_S17	HRG0355		NHMFR	MNHN-P-P02235722	Oryza	latifolia	15/06/1883	15	6	1883	Paraguay				-25.58215	-57.09464		NA			NA			
+HRG0356_S43	HRG0356		NHMFR	MNHN-P-P02235723	Oryza	latifolia	11/10/1937	11	10	1937	Guyana				3.75	-59.3		NA			NA			
+HRG0357_S44	HRG0357		NHMFR	MNHN-P-P02235724	Oryza	latifolia	27/09/1939	27	9	1939	Ecuador				-0.9963	-77.81361		NA			NA			
+HRG0358_S15	HRG0358		NHMFR	MNHN-P-P02235725	Oryza	latifolia	19/03/1876	19	3	1876	Paraguay				-25.5667	-56.29229		NA			NA			
+HRG0359_S62	HRG0359		NHMFR	MNHN-P-P02235727	Oryza	latifolia	14/04/1955	14	4	1955	French Guiana				5.11313	-52.64258		NA			NA			
+HRG0361_S10	HRG0361		NHMFR	MNHN-P-P02235729	Oryza	latifolia	15/05/3701	15	5	1801	Colombia				4.7835	-74.7879		NA			NA			
+HRG0362_S1	HRG0362		NHMFR	MNHN-P-P02235730	Oryza	latifolia	NA	NA	NA	NA	Puerto Rico				18.22042	-66.59007		NA			NA			
+HRG0363_S32	HRG0363		NHMFR	MNHN-P-P02235732	Oryza	latifolia	01/09/1922	1	9	1922	Cuba				20.7563	-77.03054		NA			NA			
+HRG0364_S9	HRG0364		NHMFR	MNHN-P-P02235734	Oryza	latifolia	1797	NA	NA	1797	Puerto Rico				18.22083	-66.59015		NA			NA			
+HRG0365_S2	HRG0365		NHMFR	MNHN-P-P02235735	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.33809	-64.8941		NA			NA			
+HRG0366_S3	HRG0366		NHMFR	MNHN-P-P02235736	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.33792	-64.89302		NA			NA			
+HRG0367_S14	HRG0367		NHMFR	MNHN-P-P02235737	Oryza	latifolia	1869	NA	NA	1869	Nicaragua				11.9344	-85.956		NA			NA			
+HRG0368_S4	HRG0368		NHMFR	MNHN-P-P02235739	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.33792	-64.89302		NA			NA			
+HRG0369_S5	HRG0369		NHMFR	MNHN-P-P02235741	Oryza	latifolia	NA	NA	NA	NA	Virgin Islands				18.3381	-64.8941		NA			NA			
+HRG0370_S95	HRG0370		NHMFR	MNHN-P-P02235742	Oryza	grandiglumis	15/05/1953	15	5	1953	Brazil				-3.20893308	-59.95893286		NA			NA			
+HRG0371_S96	HRG0371		NHMFR	MNHN-P-P02235743	Oryza	grandiglumis	16/04/1971	16	4	1971	Brazil				-7.5856	-72.9104		NA			NA			
+HRG0372_S97	HRG0372		NHMFR	MNHN-P-P02235744	Oryza	grandiglumis	13/05/1981	13	5	1981	Brazil				-3.08333	-59.91666		NA			NA			
+HRG0373_S98	HRG0373		NHMFR	MNHN-P-P02235745	Oryza	grandiglumis	04/05/1988	4	5	1988	Peru				-4.91667	-73.66666		120			NA			
+HRG0374_S99	HRG0374		NHMFR	MNHN-P-P02235747	Oryza	grandiglumis	NA	NA	NA	NA	Brazil				-15.79423	-47.88216		NA			NA			
+HRG0375_S100	HRG0375		NHMFR	MNHN-P-P02235748	Oryza	grandiglumis	15/05/1953	15	5	1953	Brazil				-3.20893308	-59.95893286		NA			NA			
+HRG0378_S103	HRG0378		NHMFR	MNHN-P-P02235756	Oryza	alta	26/04/1952	26	4	1952	Brazil				-0.820772994	-49.14993492		NA			NA			
+HRG0379_S104	HRG0379		NHMFR	MNHN-P-P02235757	Oryza	alta	04/06/1952	4	6	1952	Brazil				-10.736	-65.33312		NA			NA			
+HRG0392_S57	HRG0392		SIHUS	1614042	Oryza	alta	19/07/1934	19	7	1934	Brazil				-1.900271753	-55.52910437		NA			NA			
+HRG0393_S5	HRG0393		SIHUS	1645889	Oryza	alta	20/07/1934	20	7	1934	Brazil				-1.900271753	-55.52910437		NA			NA			
+HRG0394_S25	HRG0394		SIHUS	3262161	Oryza	grandiglumis	25/11/1986	25	11	1986	Bolivia				-16.1333	-62.0833		500			NA			
+HRG0395_S15	HRG0395		SIHUS	2205576	Oryza	grandiglumis	04/11/1954	4	11	1954	French Guiana				4.496691	-52.056793		NA			NA			
+HRG0396_S37	HRG0396		SIHUS	3456030	Oryza	grandiglumis	22/02/2002	22	2	2002	French Guiana				4.433	-52.083		2			NA			
+HRG0397_S38	HRG0397		SIHUS	3456056	Oryza	grandiglumis	17/06/1999	17	6	1999	French Guiana				4.43	-52.12		NA			NA			
+HRG0398_S39	HRG0398		SIHUS	3455909	Oryza	grandiglumis	16/02/2000	16	2	2000	French Guiana				4.4418	-52.067		NA			NA			
+HRG0399_S13	HRG0399		SIHUS	3652877	Oryza	grandiglumis	14/05/1985	14	5	1985	Bolivia				-16.48	-61.63		450			NA			
+HRG0402_S6	HRG0402		SIHUS	1614040	Oryza	grandiglumis	19/07/1934	19	7	1934	Brazil				-1.900887946	-55.53387771		NA			NA			
+HRG0403_S7	HRG0403		SIHUS	1646031	Oryza	grandiglumis	20/07/1934	20	7	1934	Brazil				-1.900887946	-55.53387771		NA			NA			
+HRG0404_S1	HRG0404		SIHUS	2463756	Oryza	grandiglumis	14/05/1956	14	5	1956	Brazil				-3.11	-60.03		NA			NA			
+HRG0405_S16	HRG0405		SIHUS	2205746	Oryza	grandiglumis	19/11/1952	19	11	1952	Brazil				NA	NA		NA			NA			
+HRG0406_S8	HRG0406		SIHUS	1869226	Oryza	grandiglumis	14/04/1943	14	4	1943	Brazil				-3.797972331	-55.51670549		NA			NA			
+HRG0407_S2	HRG0407		SIHUS	3095730	Oryza	grandiglumis	24/07/1973	24	7	1973	Brazil				NA	NA		NA			NA			
+HRG0408_S17	HRG0408		SIHUS	1935502	Oryza	grandiglumis	08/05/1948	8	5	1948	Peru				-3.72429316	-73.21394019		NA			NA			
+HRG0409_S9	HRG0409		SIHUS	1471224	Oryza	grandiglumis	29/03/1930	29	3	1930	Peru				-3.706873152	-73.24089776		120			NA			
+HRG0410_S14	HRG0410		SIHUS	2904570	Oryza	grandiglumis	20/07/1976	20	7	1976	Peru				-3.734888255	-73.22554665		NA			NA			
+HRG0411_S26	HRG0411		SIHUS	3350546	Oryza	grandiglumis	20/07/1994	20	7	1994	Peru				NA	NA		90			NA			
+HRG0412_S27	HRG0412		SIHUS	3346561	Oryza	grandiglumis	20/07/1994	20	7	1994	Peru				NA	NA		90			NA			
+HRG0414_S18	HRG0414		SIHUS	2042776	Oryza	grandiglumis	05/11/1949	5	11	1949	Peru				NA	NA		45			NA			
+HRG0415_S10	HRG0415		SIHUS	1646033	Oryza	grandiglumis	19/07/1934	19	7	1934	Brazil				-1.900887946	-55.53387771		NA			NA			
+HRG0417_S73	HRG0417		SIHUS	2208873	Oryza	grandiglumis	21/07/1944	21	7	1944	Brazil				-1.454387078	-48.43838601		NA			NA			
+HRG0419_S49	HRG0419		SIHUS	1647653	Oryza	latifolia	19/03/1936	19	3	1936	Mexico				17.85	-93.3833		NA			NA			
+HRG0420_S37	HRG0420		SIHUS	1865646	Oryza	latifolia	25/07/1939	25	7	1939	Mexico				18.25	-92.0833		NA			NA			
+HRG0421_S49	HRG0421		SIHUS	2380589	Oryza	latifolia	28/10/1960	28	10	1960	Mexico				15.4333	-93		NA			NA			
+HRG0422_S50	HRG0422		SIHUS	1721987	Oryza	latifolia	10/07/1937	10	7	1937	Mexico				15.3333	-92.6333		NA			NA			
+HRG0423_S25	HRG0423		SIHUS	1274728	Oryza	latifolia	27/12/1925	27	12	1925	Mexico				15.1833	-92.6167		NA			NA			
+HRG0424_S50	HRG0424		SIHUS	2306820	Oryza	latifolia	15/07/1959	15	7	1959	Mexico				16.536167	-94.606956		50			NA			
+HRG0425_S51	HRG0425		SIHUS	2432374	Oryza	latifolia	21/09/1960	21	9	1960	Mexico				21.159767	-105.119921		60 - 90			NA			
+HRG0426_S52	HRG0426		SIHUS	2432341	Oryza	latifolia	17/09/1960	17	9	1960	Mexico				21.15	-104.98		600			NA			
+HRG0427_S45	HRG0427		SIHUS	3291796	Oryza	latifolia	04/11/1991	4	11	1991	Mexico				19.4	-104.983		50			NA			
+HRG0428_S46	HRG0428		SIHUS	3291797	Oryza	latifolia	02/11/1991	2	11	1991	Mexico				19.6333	-105.183		NA			NA			
+HRG0429_S73	HRG0429		SIHUS	3134076	Oryza	latifolia	15/07/1987	15	7	1987	Bolivia				-17.7667	-63.0667		375			NA			
+HRG0430_S61	HRG0430		SIHUS	3159202	Oryza	latifolia	24/04/1956	24	4	1956	Suriname				NA	NA		NA			NA			
+HRG0431_S1	HRG0431		SIHUS	601331	Oryza	latifolia	1845	NA	NA	1845	Suriname				NA	NA		NA			NA			
+HRG0432_S53	HRG0432		SIHUS	3083773	Oryza	latifolia	21/12/1960	21	12	1960	Suriname				5.852504	-55.10592		NA			NA			
+HRG0433_S21	HRG0433		SIHUS	725714	Oryza	latifolia	1913	NA	NA	1913	Suriname				5.887923	-55.091008		NA			NA			
+HRG0434_S22	HRG0434		SIHUS	725713	Oryza	latifolia	1913	NA	NA	1913	Suriname				5.852504	-55.10592		NA			NA			
+HRG0435_S62	HRG0435		SIHUS	2205575	Oryza	latifolia	30/10/1954	30	10	1954	French Guiana				5.05	-52.6		NA			NA			
+HRG0436_S23	HRG0436		SIHUS	1914564	Oryza	latifolia	01/10/1914	1	10	1914	Suriname				5.60381	-55.15159		NA			NA			
+HRG0437_S51	HRG0437		SIHUS	1763255	Oryza	latifolia	11/10/1937	11	10	1937	Guyana				3.75	-59.3		NA			NA			
+HRG0438_S24	HRG0438		SIHUS	732137	Oryza	latifolia	07/01/1914	7	1	1914	Puerto Rico				18.16636	-67.16559		NA			NA			
+HRG0439_S25	HRG0439		SIHUS	725712	Oryza	latifolia	15/01/1914	15	1	1914	Puerto Rico				18.26904	-67.15183		NA			NA			
+HRG0440_S63	HRG0440		SIHUS	2116123	Oryza	latifolia	31/03/1953	31	3	1953	Venezuela				NA	NA		150			NA			
+HRG0441_S47	HRG0441		SIHUS	3748635	Oryza	latifolia	27/02/1989	27	2	1989	Panama				9.217678	-82.204434		May-80			NA			
+HRG0442_S33	HRG0442		SIHUS	3310460	Oryza	latifolia	26/09/1984	26	9	1984	Nicaragua				12.15	-86.75		5			NA			
+HRG0443_S26	HRG0443		SIHUS	1136914	Oryza	latifolia	25/02/1922	25	2	1922	El Salvador				NA	NA		110			NA			
+HRG0444_S27	HRG0444		SIHUS	1386952	Oryza	latifolia	1928	NA	NA	1928	Honduras				15.73977062	-87.45628103		20 - 600			NA			
+HRG0445_S26	HRG0445		SIHUS	979377	Oryza	latifolia	04/01/1913	4	1	1913	Costa Rica				10.35247	-85.17273		50			NA			
+HRG0446_S1	HRG0446		SIHUS	979374	Oryza	latifolia	10/01/1907	10	1	1907	Guatemala				14.52486708	-91.68731212		NA			NA			
+HRG0447_S64	HRG0447		SIHUS	2306227	Oryza	latifolia	09/09/1950	9	9	1950	Belize				NA	NA		NA			NA			
+HRG0448_S73	HRG0448		SIHUS	3627429	Oryza	latifolia	12/10/1968	12	10	1968	Colombia				NA	NA		NA			NA			
+HRG0449_S38	HRG0449		SIHUS	3576473	Oryza	latifolia	04/08/1940	4	8	1940	Panama				8.595770534	-80.11498871		NA			NA			
+HRG0450_S28	HRG0450		SIHUS	1250943	Oryza	latifolia	28/12/1923	28	12	1923	Panama				9.380723298	-79.88327357		NA			NA			
+HRG0451_S11	HRG0451		SIHUS	715782	Oryza	latifolia	01/02/1912	1	2	1912	Panama				NA	NA		NA			NA			
+HRG0452_S3	HRG0452		SIHUS	979382	Oryza	latifolia	29/08/1911	29	8	1911	Panama				9.311665	-79.900783		NA			NA			
+HRG0453_S29	HRG0453		SIHUS	1137994	Oryza	latifolia	23/03/1922	23	3	1922	El Salvador				13.678565	-89.753522		135			NA			
+HRG0454_S30	HRG0454		SIHUS	1139805	Oryza	latifolia	20/05/1922	20	5	1922	Guatemala				15.2689082	-89.0438651		75 - 225			NA			
+HRG0455_S27	HRG0455		SIHUS	1136784	Oryza	latifolia	18/02/1922	18	2	1922	El Salvador				13.26827836	-87.91461074		60			NA			
+HRG0456_S52	HRG0456		SIHUS	1387099	Oryza	latifolia	1928	NA	NA	1928	Honduras				15.74110128	-87.45591532		20 - 600			NA			
+HRG0457_S65	HRG0457		SIHUS	2306260	Oryza	latifolia	07/01/1953	7	1	1953	Belize				NA	NA		NA			NA			
+HRG0458_S61	HRG0458		SIHUS	2844998	Oryza	latifolia	11/09/1977	11	9	1977	Nicaragua				11.1495134	-85.79575982		95			NA			
+HRG0459_S39	HRG0459		SIHUS	2042205	Oryza	latifolia	14/11/1950	14	11	1950	Costa Rica				10.00672473	-83.05316393		6			NA			
+HRG0460_S2	HRG0460		SIHUS	823144	Oryza	latifolia	01/02/1895	1	2	1895	Costa Rica				9.58	-82.95		100			NA			
+HRG0461_S74	HRG0461		SIHUS	3578345	Oryza	latifolia	26/06/1968	26	6	1968	Costa Rica				10.11366138	-85.26808017		5			NA			
+HRG0462_S12	HRG0462		SIHUS	979378	Oryza	latifolia	30/12/1912	30	12	1912	Costa Rica				10.35247	-85.17273		50			NA			
+HRG0463_S75	HRG0463		SIHUS	2565371	Oryza	latifolia	08/03/1966	8	3	1966	Costa Rica				10.68820244	-83.69359975		10			NA			
+HRG0465_S13	HRG0465		SIHUS	979376	Oryza	latifolia	20/10/1911	20	10	1911	Costa Rica				9.991799843	-83.04252166		NA			NA			
+HRG0466_S76	HRG0466		SIHUS	3054831	Oryza	latifolia	23/10/1968	23	10	1968	Costa Rica				10.94978164	-85.62116947		300			NA			
+HRG0467_S3	HRG0467		SIHUS	823146	Oryza	latifolia	01/02/1893	1	2	1893	Costa Rica				9.650353286	-82.75669078		NA			NA			
+HRG0468_S77	HRG0468		SIHUS	3040028	Oryza	latifolia	10/03/1966	10	3	1966	Costa Rica				10.681826	-83.690839		10			NA			
+HRG0471_S48	HRG0471		SIHUS	3691166	Oryza	latifolia	13/08/1994	13	8	1994	Paraguay				-24.9281	-58.1783		NA			NA			
+HRG0472_S4	HRG0472		SIHUS	979384	Oryza	latifolia	30/12/1912	30	12	1912	Trinidad				10.65903478	-61.41759782		NA			NA			
+HRG0473_S78	HRG0473		SIHUS	2383517	Oryza	latifolia	21/06/1963	21	6	1963	Trinidad				10.31815173	-61.10422438		NA			NA			
+HRG0475_S62	HRG0475		SIHUS	2908218	Oryza	latifolia	14/01/1980	14	1	1980	Argentina				NA	NA		NA			NA			
+HRG0476_S34	HRG0476		SIHUS	3032170	Oryza	latifolia	25/07/1983	25	7	1983	Brazil				-3.42	-57.92		NA			NA			
+HRG0477_S4	HRG0477		SIHUS	822618	Oryza	latifolia	01/05/1892	1	5	1892	Ecuador				-2.861937877	-80.14756852		NA			NA			
+HRG0478_S5	HRG0478		SIHUS	1816207	Oryza	latifolia	1852	NA	NA	1852	Ecuador				-2.861937877	-80.14756852		NA			NA			
+HRG0479_S40	HRG0479		SIHUS	1912767	Oryza	latifolia	13/07/1939	13	7	1939	Ecuador				-2.089767	-79.887447		NA			NA			
+HRG0480_S41	HRG0480		SIHUS	2075125	Oryza	latifolia	26/09/1950	26	9	1950	Ecuador				1.086797152	-78.98592814		10			NA			
+HRG0481_S31	HRG0481		SIHUS	1163853	Oryza	latifolia	22/06/1923	22	6	1923	Ecuador				NA	NA		100			NA			
+HRG0482_S6	HRG0482		SIHUS	2383000	Oryza	latifolia	1901	NA	NA	1901	Colombia				NA	NA		NA			NA			
+HRG0483_S54	HRG0483		SIHUS	2381061	Oryza	latifolia	18/10/1960	18	10	1960	Brazil				3.460278	-51.309444		NA			NA			
+HRG0484_S66	HRG0484		SIHUS	2205396	Oryza	latifolia	23/08/1951	23	8	1951	Brazil				2.492333433	-60.90720413		NA			NA			
+HRG0485_S63	HRG0485		SIHUS	2725289	Oryza	latifolia	23/03/1972	23	3	1972	Brazil				-23.05169822	-43.54413317		40 - 50			NA			
+HRG0486_S67	HRG0486		SIHUS	2463358	Oryza	latifolia	22/06/1952	22	6	1952	Brazil				-12.50712239	-63.54822805		NA			NA			
+HRG0487_S42	HRG0487		SIHUS	4184824	Oryza	latifolia	28/09/1945	28	9	1945	Colombia				NA	NA		300 - 400			NA			
+HRG0488_S43	HRG0488		SIHUS	1912577	Oryza	latifolia	13/04/1939	13	4	1939	Ecuador				-2.202483014	-79.9532422		NA			NA			
+HRG0489_S68	HRG0489		SIHUS	2116547	Oryza	latifolia	26/02/1950	26	2	1950	Argentina				NA	NA		NA			NA			
+HRG0490_S14	HRG0490		SIHUS	979391	Oryza	latifolia	01/05/1909	1	5	1909	Argentina				NA	NA		NA			NA			
+HRG0491_S79	HRG0491		SIHUS	2770443	Oryza	latifolia	12/03/1969	12	3	1969	Brazil				-27.45598528	-48.44687014		10			NA			
+HRG0492_S53	HRG0492		SIHUS	1691302	Oryza	latifolia	28/05/1935	28	5	1935	Colombia				NA	NA		100 - 700			NA			
+HRG0493_S44	HRG0493		SIHUS	2011857	Oryza	latifolia	1950	NA	NA	1950	Peru				NA	NA		NA			NA			
+HRG0494_S69	HRG0494		SIHUS	2205352	Oryza	latifolia	28/10/1950	28	10	1950	Brazil				-2.460550343	-54.79390688		NA			NA			
+HRG0495_S2	HRG0495		SIHUS	1561813	Oryza	latifolia	1808	NA	NA	1808	Colombia				NA	NA		NA			NA			
+HRG0496_S54	HRG0496		SIHUS	1539367	Oryza	latifolia	18/12/1931	18	12	1931	Peru				NA	NA		200			NA			
+HRG0497_S15	HRG0497		SIHUS	1044902	Oryza	latifolia	15/01/1918	15	1	1918	Colombia				7.209164411	-73.91930789		110 - 120			NA			
+HRG0498_S32	HRG0498		SIHUS	1344867	Oryza	latifolia	15/01/1928	15	1	1928	Colombia				NA	NA		NA			NA			
+HRG0499_S16	HRG0499		SIHUS	1043151	Oryza	latifolia	05/03/1918	5	3	1918	Colombia				8.013843	-76.192864		70 - 150			NA			
+HRG0500_S55	HRG0500		SIHUS	1387791	Oryza	latifolia	30/12/1928	30	12	1928	Venezuela				10.42246288	-68.55278428		120 - 160			NA			
+HRG0501_S7	HRG0501		SIHUS	600798	Oryza	latifolia	1899	NA	NA	1899	Colombia				NA	NA		NA			NA			
+HRG0502_S45	HRG0502		SIHUS	1911034	Oryza	latifolia	08/03/1944	8	3	1944	Colombia				NA	NA		45056			NA			
+HRG0503_S64	HRG0503		SIHUS	2883866	Oryza	latifolia	19/04/1975	19	4	1975	Argentina				-27.55491644	-58.74967999		NA			NA			
+HRG0504_S28	HRG0504		SIHUS	1067300	Oryza	latifolia	11/11/1920	11	11	1920	Venezuela				NA	NA		NA			NA			
+HRG0505_S80	HRG0505		SIHUS	2546143	Oryza	latifolia	01/09/1966	1	9	1966	Venezuela				9.83	-66.39		NA			NA			
+HRG0506_S33	HRG0506		SIHUS	1447502	Oryza	latifolia	10/05/1926	10	5	1926	Colombia				6.038723032	-73.97890641		NA			NA			
+HRG0507_S55	HRG0507		SIHUS	3083445	Oryza	latifolia	25/03/1962	25	3	1962	Brazil				-22.65110989	-43.64603904		1.5 - 2			NA			
+HRG0508_S46	HRG0508		SIHUS	1866832	Oryza	latifolia	03/06/1944	3	6	1944	Brazil				-0.717948	-49.172979		NA			NA			
+HRG0509_S70	HRG0509		SIHUS	2238106	Oryza	latifolia	26/04/1952	26	4	1952	Brazil				-0.820772994	-49.14993492		NA			NA			
+HRG0510_S56	HRG0510		SIHUS	1797788	Oryza	latifolia	30/10/1938	30	10	1938	Colombia				NA	NA		120			NA			
+HRG0511_S57	HRG0511		SIHUS	1797789	Oryza	latifolia	30/10/1938	30	10	1938	Colombia				NA	NA		120			NA			
+HRG0512_S29	HRG0512		SIHUS	1037386	Oryza	latifolia	01/05/1913	1	5	1913	Paraguay				NA	NA		NA			NA			
+HRG0513_S74	HRG0513		SIHUS	3337900	Oryza	latifolia	14/12/1985	14	12	1985	Ecuador				-1.05	-77.67		450			NA			
+HRG0514_S35	HRG0514		SIHUS	3246566	Oryza	latifolia	06/09/1984	6	9	1984	Bolivia				-13.08	-67.25		180			NA			
+HRG0515_S65	HRG0515		SIHUS	2725290	Oryza	latifolia	23/03/1972	23	3	1972	Brazil				NA	NA		40 - 50			NA			
+HRG0516_S81	HRG0516		SIHUS	2770449	Oryza	latifolia	12/03/1969	12	3	1969	Brazil				-27.45598528	-48.44687014		10			NA			
+HRG0517_S66	HRG0517		SIHUS	3136651	Oryza	latifolia	17/01/1969	17	1	1969	Colombia				NA	NA		340			NA			
+HRG0518_S67	HRG0518		SIHUS	3136650	Oryza	latifolia	17/01/1969	17	1	1969	Colombia				NA	NA		340			NA			
+HRG0519_S56	HRG0519		SIHUS	2433919	Oryza	latifolia	02/04/1957	2	4	1957	Brazil				-28.3417	-48.8197		02-Oct			NA			
+HRG0520_S28	HRG0520		SIHUS	3239647	Oryza	rufipogon	15/01/1990	15	1	1990	French Guiana				5.667665347	-53.77568269		5			NA			
+HRG0521_S15	HRG0521		SIHUS	3256170	Oryza	rufipogon	28/05/1986	28	5	1986	Bolivia				-16.1667	-62		500			NA			
+HRG0522_S16	HRG0522		SIHUS	3255903	Oryza	rufipogon	02/04/1986	2	4	1986	Bolivia				-16.0333	-62.0833		490			NA			
+HRG0523_S57	HRG0523		SIHUS	3412948	Oryza	rufipogon	21/02/1958	21	2	1958	French Guiana				5.026341479	-52.48562304		NA			NA			
+HRG0524_S19	HRG0524		SIHUS	3412949	Oryza	rufipogon	14/04/1956	14	4	1956	French Guiana				5.026341479	-52.48562304		NA			NA			
+HRG0527_S58	HRG0527		SIHUS	3158939	Oryza	rufipogon	14/04/1956	14	4	1956	French Guiana				5.026341479	-52.48562304		NA			NA			
+HRG0528_S3	HRG0528		SIHUS	3158940	Oryza	rufipogon	21/02/1958	21	2	1958	French Guiana				5.026341479	-52.48562304		NA			NA			
+HRG0529_S20	HRG0529		SIHUS	3159169	Oryza	rufipogon	28/03/1956	28	3	1956	Suriname				5.5	-55.2		NA			NA			
+HRG0531_S29	HRG0531		SIHUS	3190681	Oryza	rufipogon	13/04/1989	13	4	1989	French Guiana				5.66	-53.78		10			NA			
+HRG0532_S21	HRG0532		SIHUS	2305755	Oryza	rufipogon	29/08/1955	29	8	1955	Guyana				NA	NA		3			NA			
+HRG0535_S4	HRG0535		SIHUS	2913937	Oryza	rufipogon	31/01/1974	31	1	1974	French Guiana				4.68	-52.26		NA			NA			
+HRG0536_S17	HRG0536		SIHUS	2913936	Oryza	rufipogon	31/01/1974	31	1	1974	French Guiana				4.68	-52.26		NA			NA			
+HRG0540_S17	HRG0540		SIHUS	1039400	Oryza	rufipogon	01/05/1909	1	5	1909	Guyana				NA	NA		NA			NA			
+HRG0541_S11	HRG0541		SIHUS	1194231	Oryza	rufipogon	18/07/1923	18	7	1923	Guyana				5.95	-59.9		NA			NA			
+HRG0542_S5	HRG0542		SIHUS	3083774	Oryza	rufipogon	20/03/1956	20	3	1956	Suriname				5.5	-55.2		NA			NA			
+HRG0543_S18	HRG0543		SIHUS	3450044	Oryza	rufipogon	26/02/1978	26	2	1978	French Guiana				4.69	-52.26		NA			NA			
+HRG0544_S68	HRG0544		SIHUS	2858630	Oryza	rufipogon	10/11/1971	10	11	1971	Venezuela				8.726463356	-67.3131674		70			NA			
+HRG0548_S12	HRG0548		SIHUS	1502102	Oryza	rufipogon	13/08/1929	13	8	1929	Dominican Republic				18.55483227	-69.69665041		NA			NA			
+HRG0552_S72	HRG0552		SIHUS	1538629	Oryza	rufipogon	13/08/1929	13	8	1929	Dominican Republic				18.55483227	-69.69665041		NA			NA			
+HRG0553_S36	HRG0553		SIHUS	3516578	Oryza	rufipogon	01/12/1981	1	12	1981	Venezuela				8.376300425	-66.67966727		60			NA			
+HRG0554_S37	HRG0554		SIHUS	3135711	Oryza	rufipogon	01/12/1981	1	12	1981	Venezuela				8.05833292	-66.83626647		40 - 60			NA			
+HRG0555_S6	HRG0555		SIHUS	2564883	Oryza	rufipogon	02/08/1968	2	8	1968	Brazil				-0.728654816	-48.5170644		NA			NA			
+HRG0556_S22	HRG0556		SIHUS	2237855	Oryza	rufipogon	04/07/1951	4	7	1951	Brazil				NA	NA		NA			NA			
+HRG0557_S7	HRG0557		SIHUS	2543675	Oryza	rufipogon	10/08/1962	10	8	1962	Brazil				1.75	-50.97		NA			NA			
+HRG0559_S75	HRG0559		SIHUS	3175779	Oryza	rufipogon	25/11/1988	25	11	1988	Thailand				14.76300856	102.1766714		185			NA			
+HRG0560_S49	HRG0560		SIHUS	3175736	Oryza	rufipogon	13/11/1989	13	11	1989	India				22.57791769	86.16426655		250			NA			
+HRG0564_S76	HRG0564		SIHUS	3175732	Oryza	rufipogon	12/09/1988	12	9	1988	Bangladesh				23.05326192	88.96006986		-10			NA			
+HRG0570_S34	HRG0570		SIHUS	1385374	Oryza	rufipogon	17/03/1927	17	3	1927	Sri Lanka				8.340700788	80.4012492		NA			NA			
+HRG0571_S30	HRG0571		SIHUS	1105581	Oryza	rufipogon	27/10/1921	27	10	1921	China				23.42620047	113.8856927		NA			NA			
+HRG0574_S8	HRG0574		SIHUS	2896311	Oryza	rufipogon	30/05/1966	30	5	1966	Papua New Guinea				NA	NA		46			NA			
+HRG0575_S30	HRG0575		SIHUS	3175766	Oryza	rufipogon	24/08/1990	24	8	1990	Papua New Guinea				-7.009614346	141.4955611		NA			NA			
+HRG0577_S19	HRG0577		MBG	MO - (BC:MO-1289735/A:2696248)	Oryza	alta	NA	NA	NA	NA	Venezuela				8.866103	-61.487985		NA			NA			
+HRG0578_S18	HRG0578		MBG	MO - (BC:MO-1289738/A:847680)	Oryza	alta	NA	NA	NA	1913	Paraguay				-25.33	-57.35		NA			NA			
+HRG0579_S31	HRG0579		MBG	MO - (BC:MO-1302969/A:04873972)	Oryza	alta	28/10/1998	28	10	1998	Bolivia				-18.93583	-57.87333		60			NA			
+HRG0580_S32	HRG0580		MBG	MO - (BC:MO-1289763/A:3750538)	Oryza	grandiglumis	02/08/1989	2	8	1989	Colombia				-3.75	-70.25		100			NA			
+HRG0581_S50	HRG0581		MBG	MO - (BC:MO-1334920/A:4567408)	Oryza	latifolia	16/11/1993	16	11	1993	Costa Rica				9.85	-84.63333333		90			NA			
+HRG0582_S85	HRG0582		MBG	MO - (BC:MO-1207736/A:04873977)	Oryza	latifolia	28/02/1998	28	2	1998	Costa Rica				10.43138	-84.00361		100			NA			
+HRG0584_S86	HRG0584		MBG	MO - (BC:MO-1299050/A:04833757)	Oryza	latifolia	01/09/1995	1	9	1995	Costa Rica				9.770647336	-84.93589129		0-200			NA			
+HRG0585_S77	HRG0585		MBG	"MO - (BC:MO-1309041/A:3502509), (BC:MO-210288/A:3502508)"	Oryza	latifolia	01/10/1986	1	10	1986	Colombia				8.73857	-76.577747		NA			NA			
+HRG0586_S78	HRG0586		MBG	MO - (BC:MO-1309042/A:3502518)	Oryza	latifolia	02/10/1986	2	10	1986	Colombia				8.005436	-76.640526		10			NA			
+HRG0587_S51	HRG0587		MBG	MO - (BC:MO-1309043/A:04569727)	Oryza	latifolia	20/12/1990	20	12	1990	Colombia				8.06666	-76.33333		0			NA			
+HRG0588_S52	HRG0588		MBG	MO - (BC:MO-1309044/A:04628586)	Oryza	latifolia	19/05/1993	19	5	1993	Colombia				9	-74.08333333		70			NA			
+HRG0589_S69	HRG0589		MBG	MO - (BC:MO-1309045/A:2732351)	Oryza	latifolia	07/04/1979	7	4	1979	Colombia				4.66666	-76.91666		NA			NA			
+HRG0590_S8	HRG0590		MBG	MO - (BC:MO-1330217/A:2097537)	Oryza	latifolia	1890	NA	NA	1890	Paraguay				-22.475727	-62.28156		NA			NA			
+HRG0591_S82	HRG0591		MBG	MO - (BC:MO-1330219/A:5388430)	Oryza	latifolia	18/05/1967	18	5	1967	Colombia				7.135982	-77.233543		NA			NA			
+HRG0592_S53	HRG0592		MBG	MO - (BC:MO-1334884/A:3827874)	Oryza	latifolia	01/07/1989	1	7	1989	Costa Rica				9.5	-82.95		70-150			NA			
+HRG0593_S54	HRG0593		MBG	MO - (BC:MO-1334886/A:4946947)	Oryza	latifolia	17/07/1992	17	7	1992	Costa Rica				10.65	-85.63333333		100			NA			
+HRG0594_S79	HRG0594		MBG	MO - (BC:MO-1334887/A:3501058)	Oryza	latifolia	20/03/1987	20	3	1987	Costa Rica				45301	-83.6		45384			NA			
+HRG0595_S38	HRG0595		MBG	MO - (BC:MO-1334899/A:3214097)	Oryza	latifolia	26/08/1984	26	8	1984	Costa Rica				10.81666667	-85.56666667		0-320			NA			
+HRG0596_S87	HRG0596		MBG	MO - (BC:MO-1334900/A:5728944)	Oryza	latifolia	15/03/2002	15	3	2002	El Salvador				13.8752778	-88.9602778		470			NA			
+HRG0597_S88	HRG0597		MBG	MO - (BC:MO-1334901/A:5668675)	Oryza	latifolia	02/06/1997	2	6	1997	Nicaragua				14.06666667	-84.56666667		200-220			NA			
+HRG0600_S40	HRG0600		MBG	MO - (BC:MO-1621367/A:04853928)	Oryza	latifolia	16/08/2003	16	8	2003	Costa Rica				10.89916	-85.64972		200			NA			
+HRG0601_S80	HRG0601		MBG	MO - (BC:MO-1748978/A:5988805)	Oryza	latifolia	22/10/1985	22	10	1985	Colombia				5.723987	-76.67808		50			NA			
+HRG0602_S41	HRG0602		MBG	MO - (BC:MO-2220872/A:6218702)	Oryza	latifolia	16/12/2004	16	12	2004	Costa Rica				10.3491649	-85.2783924		10			NA			
+HRG0603_S42	HRG0603		MBG	MO - (BC:MO-2234869/A:6266170)	Oryza	latifolia	21/08/2003	21	8	2003	Costa Rica				10.83	-85.61		290			NA			
+HRG0604_S43	HRG0604		MBG	MO - (BC:MO-2234874/A:6266169)	Oryza	latifolia	21/06/2004	21	6	2004	Costa Rica				10.8833333	-85.6166667		200			NA			
+HRG0605_S89	HRG0605		MBG	"MO - (BC:MO-2388399/A:6191994), (BC:MO-2935578/A:6708613)"	Oryza	latifolia	09/09/1999	9	9	1999	Costa Rica				10.35	-85.3666667		20			NA			
+HRG0606_S44	HRG0606		MBG	MO - (BC:MO-2503173/A:6413904)	Oryza	latifolia	18/10/2006	18	10	2006	Costa Rica				10.389722	-83.97139		80			NA			
+HRG0607_S45	HRG0607		MBG	MO - (BC:MO-2504377/A:6425773)	Oryza	latifolia	04/12/2006	4	12	2006	Costa Rica				10.0008333	-84.8280556		20			NA			
+HRG0608_S90	HRG0608		MBG	MO - (BC:MO-2631439/A:6459133)	Oryza	latifolia	02/11/2011	2	11	2011	Nicaragua				11.9213889	-85.4261111		50			NA			
+HRG0609_S39	HRG0609		MBG	MO - (BC:MO-2631917/A:3001367)	Oryza	latifolia	03/11/1981	3	11	1981	Mexico				16.1208334	-93.0136111		650			NA			
+HRG0610_S40	HRG0610		MBG	MO - (BC:MO-2631918/A:2991186)	Oryza	latifolia	31/10/1981	31	10	1981	Mexico				15.9383333	-93.8177778		3			NA			
+HRG0611_S41	HRG0611		MBG	MO - (BC:MO-2631922/A:3230208)	Oryza	latifolia	13/11/1984	13	11	1984	Mexico				17.5	-93.1		25			NA			
+HRG0612_S91	HRG0612		MBG	MO - (BC:MO-2935399/A:6701249)	Oryza	latifolia	17/05/2000	17	5	2000	Costa Rica				8.65	-83.4666667		20			NA			
+HRG0613_S92	HRG0613		MBG	MO - (BC:MO-2935509/A:6711055)	Oryza	latifolia	06/11/1999	6	11	1999	Costa Rica				10.95	-85.6166667		270			NA			
+HRG0614_S70	HRG0614		MBG	MO - (BC:MO-365534/A:2583562)	Oryza	latifolia	27/08/1975	27	8	1975	Honduras				14.86444	-89.10611		600			NA			
+HRG0615_S58	HRG0615		MBG	MO - (BC:MO-365536/A:1084971)	Oryza	latifolia	27/07/1934	27	7	1934	Honduras				15.7363889	-87.4530556		27			NA			
+HRG0616_S81	HRG0616		MBG	MO - (BC:MO-365539/A:3323329)	Oryza	latifolia	06/09/1984	6	9	1984	Costa Rica				10.33333	-85.26111		20			NA			
+HRG0617_S42	HRG0617		MBG	MO - (BC:MO-367564/A:3415941)	Oryza	latifolia	06/02/1983	6	2	1983	Costa Rica				10.43138	-84.00361		100			NA			
+HRG0618_S82	HRG0618		MBG	MO - (BC:MO-367568/A:3717263)	Oryza	latifolia	01/08/1987	1	8	1987	Costa Rica				10.35	-85.35		10			NA			
+HRG0619_S93	HRG0619		MBG	MO - (BC:MO-368908/A:5165940)	Oryza	latifolia	02/12/1997	2	12	1997	Costa Rica				8.566666667	-83.51666667		200			NA			
+HRG0620_S33	HRG0620		MBG	MO - (BC:MO-1302957/A:04833754)	Oryza	rufipogon	03/04/1993	3	4	1993	Argentina				NA	NA		NA			NA			
+HRG0621_S20	HRG0621		MBG	MO - (BC:MO-208018/A:2667038)	Oryza	rufipogon	09/11/1978	9	11	1978	Brazil				NA	NA		NA			NA			
+HRG0713_S46	HRG0713		MBG	MO - (BC:MO-1299048/A:04873983)	Oryza	alta	02/11/1998	2	11	1998	Mexico				18.28444	-92.58916		NA			NA			
+HRG0714_S21	HRG0714		MBG	MO - (BC:MO-1289734/A:2993760)	Oryza	alta	01/12/1981	1	12	1981	Venezuela				8.83333	-67.36666		40			NA			
+HRG0715_S34	HRG0715		MBG	MO - (BC:MO-1289736/A:3500447)	Oryza	alta	23/09/1987	23	9	1987	Venezuela				7.5	-64.5		1483			NA			
+HRG0716_S9	HRG0716		MBG	MO - (BC:MO-367557/A:2108271)	Oryza	alta	21/12/1972	21	12	1972	Mexico				18.511659	-91.101909		NA			NA			
+HRG0717_S94	HRG0717		MBG	MO - (BC:MO-367558/A:5746416)	Oryza	alta	04/12/2002	4	12	2002	Mexico				18.43555	-92.635		200			NA			
+HRG0718_S22	HRG0718		MBG	MO - (BC:MO-2631916/A:2991387)	Oryza	alta	10/11/1981	10	11	1981	Mexico				17.4913889	-92.1325		30-40			NA			
+HRG0719_S10	HRG0719		MBG	MO - (BC:MO-208002/A:3696791)	Oryza	rufipogon	21/06/1966	21	6	1966	Papua New Guinea				-4.2167	142.8167		45			NA			
+HRG0724_S63	HRG0724		NHMFR	P00661292	Oryza	latifolia	1813	NA	NA	1813	Puerto Rico				NA	NA		NA			NA			
+HRG0861_S66	HRG0861		RBGK	K000433412	Oryza	rufipogon	NA	NA	NA	NA	Suriname				NA	NA		NA			NA			
+HRG0862_S69	HRG0862		RBGK	K000433413	Oryza	grandiglumis	NA	NA	NA	NA	Brazil				NA	NA		NA			NA			
