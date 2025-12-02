@@ -86,7 +86,23 @@ PROJECT_NAME="ENTER_DIRECTORY_NAME"  # Must match the name used in prep script, 
 
 **Prepare your input data:**
 - Place paired-end FASTQ files in the `1_initial_data/` directory
-- Files must follow naming convention: `[Sample]_1.fastq.gz` and `[Sample]_2.fastq.gz`(Must match the names under "Sample" provided in sample_metadata.txt)
+- Files must follow naming convention: `[Sample]_1.fastq.gz` and `[Sample]_2.fastq.gz` (Must match the names under "Sample" provided in sample_metadata.txt)
+
+**Retrieving Raw Sequencing Data**
+
+Raw FASTQ sequences are available from NCBI SRA. To download, use the SRA Toolkit (`prefetch` and `fasterq-dump`), for example:
+
+```bash
+# Install SRA Toolkit if needed
+conda install -c bioconda sra-tools
+
+# Download and convert to FASTQ (example for one BioProject)
+prefetch PRJNA1288534
+fasterq-dump PRJNA1288534 --split-files --outdir 1_initial_data/
+
+# Compress the FASTQ files
+gzip 1_initial_data/*.fastq
+```
 
 **To run:**
 ```bash
