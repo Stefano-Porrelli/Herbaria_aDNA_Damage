@@ -86,7 +86,7 @@ PROJECT_NAME="ENTER_DIRECTORY_NAME"  # Must match the name used in prep script, 
 
 **Prepare your input data:**
 - Place paired-end FASTQ files in the `1_initial_data/` directory
-- Files must follow naming convention: `SAMPLEID_1.fastq.gz` and `SAMPLEID_2.fastq.gz`
+- Files must follow naming convention: `[Sample]_1.fastq.gz` and `[Sample]_2.fastq.gz`(Must match the names under "Sample" provided in sample_metadata.txt)
 
 **To run:**
 ```bash
