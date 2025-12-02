@@ -53,16 +53,52 @@ PROJECT_NAME="ENTER_DIRECTORY_NAME"           # e.g., "Hordeum_vulgare_RBGK"
 REFERENCE_GENOME_FTP="FTP_LINK_TO_REF_GENOME" # e.g., "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/783/245/GCA_949783245.1_Hvulgare_FT262_BPGv2/GCA_949783245.1_Hvulgare_FT262_BPGv2_genomic.fna.gz"
 ```
 
-**Inputs**: Paired-end FASTQ files (*_1.fastq.gz and *_2.fastq.gz) in 1_initial_data/ directory
+**To run:**
+```bash
+# Make it an executable:
+chmod +x 01_aDNA_screening_prep.sh
+
+# On SLURM systems:
+sbatch 01_aDNA_screening_prep.sh
+
+# On local systems (remove SBATCH headers first):
+bash 01_aDNA_screening_prep.sh
+```
 
 **Outputs**: Directory structure with:
 
+- `1_initial data/` - Initial raw data and indexed reference genome
 - `2_trimmed_merged/` - Adapter-trimmed and merged reads
 - `3_quality_control/` - FastQC reports
 - `4_mapping/` - BAM files and mapping statistics
 - `5_aDNA_characteristics/` - MapDamage2 outputs 
 - `6_AMBER/` - Mapping bias assessment
 - `7_preseq/` - Complexity curves and yield predictions
+
+#### Step 2: Main Pipeline (`02_aDNA_screening_main.sh`)
+
+This script processes all samples through the aDNA screening workflow.
+
+**Before running, edit line 13:**
+```bash
+PROJECT_NAME="ENTER_DIRECTORY_NAME"  # Must match the name used in prep script, e.g. "Hordeum_vulgare_RBGK"
+```
+
+**Prepare your input data:**
+- Place paired-end FASTQ files in the `1_initial_data/` directory
+- Files must follow naming convention: `SAMPLEID_1.fastq.gz` and `SAMPLEID_2.fastq.gz`
+
+**To run:**
+```bash
+# Make it an executable:
+chmod +x 02_aDNA_screening_main.sh
+
+# On SLURM systems:
+sbatch 02_aDNA_screening_main.sh
+
+# On local systems (remove SBATCH headers first):
+bash 02_aDNA_screening_main.sh
+```
 
 ## R Statistical analyses workflow/scripts - REQUIREMENTS
 Install the following R packages:
