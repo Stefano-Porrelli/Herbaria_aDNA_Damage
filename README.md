@@ -37,7 +37,21 @@ The repository includes two bash scripts for processing raw sequencing data and 
 
 The screening pipeline assesses library quality, sequencing run quality, DNA degradation magnitude, endogenous DNA percentage, and authenticates aDNA through quantification of nucleotide misincorporations
 
-For a full description of the pipeline and laboratory methods, see the [Plant_aDNA_pipeline Gitlab](https://gitlab.com/smlatorreo/plant-adna-pipeline) and associated publication ["Latorre *et al*, 2020"](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cppb.20121)
+For a full description of the pipeline and laboratory methods, see the [Plant_aDNA_pipeline Gitlab](https://gitlab.com/smlatorreo/plant-adna-pipeline) and associated publication [(Latorre *et al*, 2020)](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cppb.20121)
+
+### Running the Plant aDNA Pipeline
+
+The pipeline is designed to run on SLURM-based HPC systems. Before running, you'll need to configure a few variables and retrieve raw data.
+
+#### Step 1: Preparation Script (`01_aDNA_screening_prep.sh`)
+
+This script creates the conda environment, sets up the directory structure, and downloads/indexes your reference genome.
+
+**Before running, edit lines 14-15:**
+```bash
+PROJECT_NAME="ENTER_DIRECTORY_NAME"           # e.g., "Hordeum_vulgare_RBGK"
+REFERENCE_GENOME_FTP="FTP_LINK_TO_REF_GENOME" # e.g., "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/949/783/245/GCA_949783245.1_Hvulgare_FT262_BPGv2/GCA_949783245.1_Hvulgare_FT262_BPGv2_genomic.fna.gz"
+```
 
 **Inputs**: Paired-end FASTQ files (*_1.fastq.gz and *_2.fastq.gz) in 1_initial_data/ directory
 
