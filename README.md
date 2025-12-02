@@ -100,6 +100,18 @@ sbatch 02_aDNA_screening_main.sh
 bash 02_aDNA_screening_main.sh
 ```
 
+#### Resource Requirements
+
+The default SLURM settings request:
+- **Prep script:** 16 CPUs, 32GB RAM, 24 hours
+- **Main script:** 16 CPUs, 64GB RAM, 24 hours
+
+Adjust these in the `#SBATCH` headers based on your system and dataset size.
+
+#### Running Without SLURM
+
+If running on a local system or non-SLURM HPC, remove or comment out lines 2-8 in each script (the `#SBATCH` directives) and run with `bash` directly.
+
 ## R Statistical analyses workflow/scripts - REQUIREMENTS
 Install the following R packages:
 
