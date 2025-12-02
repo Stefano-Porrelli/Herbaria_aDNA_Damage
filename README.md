@@ -37,6 +37,8 @@ The repository includes two bash scripts for processing raw sequencing data and 
 
 The screening pipeline assesses library quality, sequencing run quality, DNA degradation magnitude, endogenous DNA percentage, and authenticates aDNA through quantification of nucleotide misincorporations
 
+For a full description of the pipeline and laboratory methods, see the [Plant_aDNA_pipeline Gitlab](https://gitlab.com/smlatorreo/plant-adna-pipeline) and associated publication ["Latorre *et al*, 2020"](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cppb.20121)
+
 **Inputs**: Paired-end FASTQ files (*_1.fastq.gz and *_2.fastq.gz) in 1_initial_data/ directory
 
 **Outputs**: Directory structure with:
