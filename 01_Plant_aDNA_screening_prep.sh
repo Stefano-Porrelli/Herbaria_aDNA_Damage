@@ -7,6 +7,16 @@
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=32G
 
+################################################################################
+########   This is a demonstration of the pipeline described in:        ########
+########                                                                ########
+########  Latorre S.M., Lang, P.L.M., Burbano, H.A., Gutaker, R.M. 2020 ########
+########   Isolation, Library Preparation, and Bioinformatic Analysis   ########
+########               of Historical and Ancient Plant DNA              ########
+########           d.o.i.: https://doi.org/10.1002/cppb.20121           ########
+########					version 4.0 - 14/11/2025					########
+################################################################################
+
 # Preparation: create conda environment, install programs and Dependencies,
 # Retrieve reference genome and index it
 # Change variables below to project name and FTP link to reference genome assembly
