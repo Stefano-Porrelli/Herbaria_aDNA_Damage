@@ -7,6 +7,16 @@
 #SBATCH --cpus-per-task=16
 #SBATCH --mem=64G
 
+################################################################################
+########   This is a demonstration of the pipeline described in:        ########
+########                                                                ########
+########  Latorre S.M., Lang, P.L.M., Burbano, H.A., Gutaker, R.M. 2020 ########
+########   Isolation, Library Preparation, and Bioinformatic Analysis   ########
+########               of Historical and Ancient Plant DNA              ########
+########           d.o.i.: https://doi.org/10.1002/cppb.20121           ########
+########					version 4.0 - 14/11/2025					########
+################################################################################
+
 # Main aDNA pipeline - processing samples
 # Make sure to update PROJECT_NAME to match your prep script
 
