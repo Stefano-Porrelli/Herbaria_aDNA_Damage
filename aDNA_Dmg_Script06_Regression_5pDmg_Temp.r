@@ -239,8 +239,9 @@ P3 <- ggplot(data_analysis, aes(x = temp_annual, y = X5P_DMG_POS1, color = Genus
   theme(panel.grid = element_blank(),
         legend.position = "right") +
   annotate("text", x = -Inf, y = Inf, hjust = -0.1, vjust = c(1.5, 3), size = 3.5,
-           label = c(sprintf("Hordeum: R² = %.3f, p = %.3g", hordeum_annual_r2, hordeum_annual_p),
-                    sprintf("Oryza: R² = %.3f, p = %.3g", oryza_annual_r2, oryza_annual_p)))
+           label = c(sprintf("italic(Hordeum)~':  R²  =  %.3f,  p  =  %.3g'", hordeum_annual_r2, hordeum_annual_p),
+                    sprintf("italic(Oryza)~':  R²  =  %.3f,  p  =  %.3g'", oryza_annual_r2, oryza_annual_p)),
+           parse = TRUE)
 
 # Plot 4: Collection temperature (separate regressions by genus)
 P4 <- ggplot(data_analysis, aes(x = Collection_Temp, y = X5P_DMG_POS1, color = Genus)) +
@@ -254,9 +255,9 @@ P4 <- ggplot(data_analysis, aes(x = Collection_Temp, y = X5P_DMG_POS1, color = G
   theme(panel.grid = element_blank(),
         legend.position = "right") +
   annotate("text", x = -Inf, y = Inf, hjust = -0.1, vjust = c(1.5, 3), size = 3.5,
-           label = c(sprintf("Hordeum: R² = %.3f, p = %.3g", hordeum_coll_r2, hordeum_coll_p),
-                    sprintf("Oryza: R² = %.3f, p = %.3g", oryza_coll_r2, oryza_coll_p)))
-
+           label = c(sprintf("italic(Hordeum)~':  R²  =  %.3f,  p  =  %.3g'", hordeum_coll_r2, hordeum_coll_p),
+                    sprintf("italic(Oryza)~':  R²  =  %.3f,  p  =  %.3g'", oryza_coll_r2, oryza_coll_p)),
+           parse = TRUE)
 #------------------------------------------------------------------------------#
 #               Create shared legend and combine plots                          #
 #------------------------------------------------------------------------------#
