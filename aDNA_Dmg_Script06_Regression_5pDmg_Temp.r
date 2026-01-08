@@ -200,6 +200,64 @@ P2 <- ggplot(data_analysis, aes(x = Collection_Temp, y = X5P_DMG_POS1, color = G
            label = sprintf("R² = %.3f, p = %.3g", combined_coll_r2, combined_coll_p))
 
 #------------------------------------------------------------------------------#
+#               Separate Genera Analyses (genus-specific regression lines)    #
+#------------------------------------------------------------------------------#
+
+# Split data by genus for separate models
+hordeum_data <- data_analysis %>% filter(Genus == "Hordeum")
+oryza_data <- data_analysis %>% filter(Genus == "Oryza")
+
+# Models for Hordeum
+hordeum_annual_model <- lm(X5P_DMG_POS1 ~ temp_annual, data = hordeum_data)
+hordeum_coll_model <- lm(X5P_DMG_POS1 ~ Collection_Temp, data = hordeum_data)
+
+# Models for Oryza
+oryza_annual_model <- lm(X5P_DMG_POS1 ~ temp_annual, data = oryza_data)
+oryza_coll_model <- lm(X5P_DMG_POS1 ~ Collection_Temp, data = oryza_data)
+
+# Extract stats for Hordeum
+hordeum_annual_r2 <- summary(hordeum_annual_model)$r.squared
+hordeum_annual_p <- summary(hordeum_annual_model)$coefficients[2, 4]
+hordeum_coll_r2 <- summary(hordeum_coll_model)$r.squared
+hordeum_coll_p <- summary(hordeum_coll_model)$coefficients[2, 4]
+
+# Extract stats for Oryza
+oryza_annual_r2 <- summary(oryza_annual_model)$r.squared
+oryza_annual_p <- summary(oryza_annual_model)$coefficients[2, 4]
+oryza_coll_r2 <- summary(oryza_coll_model)$r.squared
+oryza_coll_p <- summary(oryza_coll_model)$coefficients[2, 4]
+
+# Plot 3: Annual temperature (separate regressions by genus)
+P3 <- ggplot(data_analysis, aes(x = temp_annual, y = X5P_DMG_POS1, color = Genus)) +
+  geom_point(alpha = 0.6, size = 1) +
+  geom_smooth(method = "lm", se = TRUE) +
+  scale_color_manual(values = genus_colors,
+                     labels = c(expression(italic("Hordeum")),
+                                expression(italic("Oryza")))) +
+  labs(x = "Annual Mean Temperature (°C)", y = "5' C>T Frequencies", tag = "c") +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),
+        legend.position = "right") +
+  annotate("text", x = -Inf, y = Inf, hjust = -0.1, vjust = c(1.5, 3), size = 3.5,
+           label = c(sprintf("Hordeum: R² = %.3f, p = %.3g", hordeum_annual_r2, hordeum_annual_p),
+                    sprintf("Oryza: R² = %.3f, p = %.3g", oryza_annual_r2, oryza_annual_p)))
+
+# Plot 4: Collection temperature (separate regressions by genus)
+P4 <- ggplot(data_analysis, aes(x = Collection_Temp, y = X5P_DMG_POS1, color = Genus)) +
+  geom_point(alpha = 0.6, size = 1) +
+  geom_smooth(method = "lm", se = TRUE) +
+  scale_color_manual(values = genus_colors,
+                     labels = c(expression(italic("Hordeum")),
+                                expression(italic("Oryza")))) +
+  labs(x = "Collection Temperature (°C)", y = "5' C>T Frequencies", tag = "d") +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),
+        legend.position = "right") +
+  annotate("text", x = -Inf, y = Inf, hjust = -0.1, vjust = c(1.5, 3), size = 3.5,
+           label = c(sprintf("Hordeum: R² = %.3f, p = %.3g", hordeum_coll_r2, hordeum_coll_p),
+                    sprintf("Oryza: R² = %.3f, p = %.3g", oryza_coll_r2, oryza_coll_p)))
+
+#------------------------------------------------------------------------------#
 #               Create shared legend and combine plots                          #
 #------------------------------------------------------------------------------#
 
