@@ -261,39 +261,24 @@ P4 <- ggplot(data_analysis, aes(x = Collection_Temp, y = X5P_DMG_POS1, color = G
 #               Create shared legend and combine plots                          #
 #------------------------------------------------------------------------------#
 
-# Create a plot with legend on the bottom for extraction
-legend_plot <- ggplot(data_analysis, aes(x = temp_annual, y = X5P_DMG_POS1, color = Genus)) +
-  geom_point() +
-  scale_color_manual(values = genus_colors,
-                     labels = c(expression(italic("Hordeum")),
-                                expression(italic("Oryza"))),
-                     name = "Genus") +
-  theme_minimal() +
-  theme(legend.position = "bottom",
-        legend.title = element_text(size = 12),
-        legend.text = element_text(size = 10),
-        legend.key.size = unit(1, "cm"))
+# 1. Create a separate plot just for the legend
+legend_plot <- P1 + theme(legend.position = "bottom")
+# 2. Extract just the legend
+legend <- gtable::gtable_filter(ggplotGrob(legend_plot), "guide-box")
+# 3. Remove legends from plots and add labels
+P1 <- P1 + theme(legend.position = "none") + labs(tag = "a")
+P2 <- P2 + theme(legend.position = "none") + labs(tag = "b")
+P3 <- P3 + theme(legend.position = "none") + labs(tag = "c")
+P4 <- P4 + theme(legend.position = "none") + labs(tag = "d")
 
-# Extract legend using grid
-g_legend <- function(a.gplot){
-  tmp <- ggplot_gtable(ggplot_build(a.gplot))
-  leg <- which(sapply(tmp$grobs, function(x) x$name) == "guide-box")
-  legend <- tmp$grobs[[leg]]
-  return(legend)
-}
-
-shared_legend <- g_legend(legend_plot)
-
-# Create the final plot using gridExtra
-final_plot <- grid.arrange(
-  arrangeGrob(P1, P2, ncol = 1, nrow = 2),
-  shared_legend,
-  ncol = 1,
-  heights = c(10, 1)
+# 4. Create the 2x2 grid with legend at bottom
+grid.arrange(
+  arrangeGrob(P1, P2, P3, P4, ncol = 2),
+  legend,
+  heights = c(10, 1),
+  ncol = 1
 )
 
-# Save and display
-grid.draw(final_plot)
 
 #------------------------------------------------------------------------------#
 #                             Print model summaries                            #
