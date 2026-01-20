@@ -52,7 +52,7 @@ r2_3 <- summary(model3)$r.squared
 p_3 <- summary(model3)$coefficients[2, 4]
 
 # Plot 1
-P1 <- ggplot(d, aes(x = MEDIAN_SIZE, y = gDNA_peak_size, color = Genus)) +
+P1_Frag_analysis <- ggplot(d, aes(x = MEDIAN_SIZE, y = gDNA_peak_size, color = Genus)) +
     geom_point(alpha = 0.7, size = 1) +
     geom_smooth(method = "lm", color = "black", se = TRUE) +
     scale_color_manual(values = genus_colors,
@@ -69,7 +69,7 @@ P1 <- ggplot(d, aes(x = MEDIAN_SIZE, y = gDNA_peak_size, color = Genus)) +
              parse = TRUE, hjust = 1)
 
 # Plot 2
-P2 <- ggplot(d, aes(x = MEDIAN_SIZE, y = Library_Peak_size, color = Genus)) +
+P2_Frag_analysis <- ggplot(d, aes(x = MEDIAN_SIZE, y = Library_Peak_size, color = Genus)) +
     geom_point(alpha = 0.7, size = 1) +
     geom_smooth(method = "lm", color = "black", se = TRUE) +
     scale_color_manual(values = genus_colors,
@@ -86,7 +86,7 @@ P2 <- ggplot(d, aes(x = MEDIAN_SIZE, y = Library_Peak_size, color = Genus)) +
              parse = TRUE, hjust = 1)
 
 # Plot 3: gDNA peak size vs Library peak size
-P3 <- ggplot(d, aes(x = gDNA_peak_size, y = Library_Peak_size, color = Genus)) +
+P3_Frag_analysis <- ggplot(d, aes(x = gDNA_peak_size, y = Library_Peak_size, color = Genus)) +
     geom_point(alpha = 0.7, size = 1) +
     geom_smooth(method = "lm", color = "black", se = TRUE) +
     scale_color_manual(values = genus_colors,
@@ -103,9 +103,9 @@ P3 <- ggplot(d, aes(x = gDNA_peak_size, y = Library_Peak_size, color = Genus)) +
              parse = TRUE, hjust = 1)
 
 # Remove legends from plots and add labels
-P1 <- P1 + theme(legend.position = "none") + labs(tag = "a")
-P2 <- P2 + theme(legend.position = "none") + labs(tag = "b")
-P3 <- P3 + theme(legend.position = "none") + labs(tag = "c")
+P1_Frag_analysis <- P1_Frag_analysis + theme(legend.position = "none") + labs(tag = "a")
+P2_Frag_analysis <- P2_Frag_analysis + theme(legend.position = "none") + labs(tag = "b")
+P3_Frag_analysis <- P3_Frag_analysis + theme(legend.position = "none") + labs(tag = "c")
 
 # Extract legend from one plot
 legend <- ggplot(d, aes(x = MEDIAN_SIZE, y = Library_Peak_size, color = Genus)) +
@@ -119,8 +119,8 @@ legend <- ggplot(d, aes(x = MEDIAN_SIZE, y = Library_Peak_size, color = Genus)) 
 legend_grob <- ggplotGrob(legend)$grobs[[which(sapply(ggplotGrob(legend)$grobs, function(x) x$name) == "guide-box")]]
 
 # Combine plots: P1 and P2 on top, P3 centered at bottom (same size)
-top_row <- arrangeGrob(P1, P2, ncol = 2)
-bottom_row <- arrangeGrob(nullGrob(), P3, nullGrob(), ncol = 3, widths = c(1, 2, 1))
+top_row <- arrangeGrob(P2_Frag_analysis, P3_Frag_analysis, ncol = 2)
+bottom_row <- arrangeGrob(nullGrob(), P1_Frag_analysis, nullGrob(), ncol = 3, widths = c(1, 2, 1))
 
 # Combine all plots with legend
 grid.arrange(top_row, bottom_row, legend_grob, 

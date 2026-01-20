@@ -33,11 +33,11 @@ d <- read.delim("aDNA_damage_screening_MAIN.txt",
 # remove samples deviating from exponential decline of fragment length and 5'Damage)
 # Define the filtering criteria
 filter_condition <- d$NO_MERGED_READS >= 5000 &
-                    d$Collection_year < 2010 &
-                    d$Lambda_R_squared > 0.95 &
-                    d$Lambda_p_value < 0.05 &
-                    d$X5P_DMG_R_squared > 0.5 &
-                    d$X5P_DMG_p_value < 0.05
+  d$Collection_year < 2010 &
+  d$Lambda_R_squared > 0.95 &
+  d$Lambda_p_value < 0.05 &
+  d$X5P_DMG_R_squared > 0.5 &
+  d$X5P_DMG_p_value < 0.05
 
 # Filter the data to keep samples meeting all criteria
 d_filtered <- d[filter_condition, ]
@@ -52,7 +52,10 @@ d_filtered <- d_filtered %>%
   filter(!is.na(MEDIAN_SIZE) & MEDIAN_SIZE > 0,
          !is.na(Log_Mean),
          !is.na(Collection_year)) %>%
-  mutate(Sample_Age = current_year - Collection_year)
+  mutate(Sample_Age = current_year - Collection_year,
+         # Create corrected 5' C>T value by subtracting non-deamination background
+         X5P_DMG_POS1_Corrected = X5P_DMG_POS1 - X5P_other_freq,
+         X3P_DMG_POS1_Corrected = X3P_DMG_POS1 - X3P_other_freq)
 
 # Set color palette for genera
 genus_colors <- c("Hordeum" = "#663399", "Oryza" = "#00A878")
@@ -178,7 +181,7 @@ frag_box <- ggplot(d_filtered, aes(x = Genus, y = MEDIAN_SIZE, fill = Genus)) +
   )
 
 #------------------------------------------------------------------------------#
-# 3. 5' C>T Damage - Model Comparison                                          #
+# 3. 5' C>T Damage (Corrected) - Model Comparison                              #
 #------------------------------------------------------------------------------#
 # Full model with interaction
 damage_full <- lm(X5P_DMG_POS1 ~ Sample_Age * Genus, data = d_filtered)

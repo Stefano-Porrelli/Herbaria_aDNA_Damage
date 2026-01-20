@@ -6,7 +6,6 @@
 #  Calculate "other" average                                                   #
 #------------------------------------------------------------------------------#
 
-library(dplyr)
 
 #------------------------------------------------------------------------------#
 # 1: Extract misincorporations from MapDamage files
@@ -192,8 +191,6 @@ write.csv(all_data, "all_misincorporations_with_other.csv", row.names = FALSE)
 #  Merge misincorporation data with main metadata                             #
 #  Match: Sample (misincorp) = Sample (metadata)                              #
 #------------------------------------------------------------------------------#
-
-library(dplyr)
 
 #------------------------------------------------------------------------------#
 # Read data files

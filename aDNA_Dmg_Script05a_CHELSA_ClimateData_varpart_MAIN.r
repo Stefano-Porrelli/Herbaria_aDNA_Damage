@@ -56,7 +56,10 @@ d_clean <- d_genera %>%
          !is.na(Collection_year),
          !is.na(Collection_month),
          !is.na(Herbarium)) %>%
-  mutate(Sample_Age = current_year - Collection_year)
+  mutate(Sample_Age = current_year - Collection_year,
+         # Create corrected 5' C>T value by subtracting non-deamination background
+         X5P_DMG_POS1_Corrected = X5P_DMG_POS1 - X5P_other_freq,
+         X3P_DMG_POS1_Corrected = X3P_DMG_POS1 - X3P_other_freq)
 
 # Clean coordinates
 clean_coords <- d_clean %>%
