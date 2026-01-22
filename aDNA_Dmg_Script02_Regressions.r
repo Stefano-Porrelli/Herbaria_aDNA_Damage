@@ -229,7 +229,7 @@ P2.1_Regression
 #               3 - Regression analysis: 5' C>T  ~ Sample Age                  #
 #                                Divided by Genera                             #
 #------------------------------------------------------------------------------#
-# Regression: 5' C>T (corrected) ~ sample age - by Genera
+# Regression: 5' C>T  ~ sample age - by Genera
 hordeum_model <- lm(X5P_DMG_POS1 ~ Sample_Age,
                     data = filter(d_filtered, Genus == "Hordeum"))
 oryza_model <- lm(X5P_DMG_POS1 ~ Sample_Age,
@@ -272,7 +272,7 @@ P3_Regression
 #               3.1 - Regression analysis: 5' C>T  ~ Sample Age                #
 #                                All Samples                                   #
 #------------------------------------------------------------------------------#
-# Regression: 5' C>T (corrected) ~ sample age - all together
+# Regression: 5' C>T ~ sample age - all together
 model <- lm(X5P_DMG_POS1 ~ Sample_Age, data = d_filtered)
 # Extract R-squared and p-value
 r_squared <- summary(model)$r.squared
