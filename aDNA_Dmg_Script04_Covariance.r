@@ -181,7 +181,7 @@ frag_box <- ggplot(d_filtered, aes(x = Genus, y = MEDIAN_SIZE, fill = Genus)) +
   )
 
 #------------------------------------------------------------------------------#
-# 3. 5' C>T Damage (Corrected) - Model Comparison                              #
+# 3. 5' C>T Damage - Model Comparison                                          #
 #------------------------------------------------------------------------------#
 # Full model with interaction
 damage_full <- lm(X5P_DMG_POS1 ~ Sample_Age * Genus, data = d_filtered)
