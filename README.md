@@ -296,6 +296,9 @@ Examines the relationship between temperature and DNA deamination using linear m
 - 5' C>T damage ~ Collection temperature
 - Genus-specific temperature effects
 
+## Script `aDNA_Dmg_Script07_Supplementary_Divergence_Corrected_Deamination.r`
+Supplementary script for analyses of reads-reference divergence and correction of 5'C>T misincorporation frequencies 
+
 ## References
 
 Allentoft, M.E., Collins, M., Harker, D., Haile, J., Oskam, C.L., Hale, M.L., Campos, P.F., Samaniego, J.A., Gilbert, M.T.P., Willerslev, E., Zhang, G., Scofield, R.P., Holdaway, R.N. and Bunce, M. (2012) 'The half-life of DNA in bone: measuring decay kinetics in 158 dated fossils', *Proceedings of the Royal Society B: Biological Sciences*, 279(1748) [10.1098/rspb.2012.1745](https://doi.org/10.1098/rspb.2012.1745)
