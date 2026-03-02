@@ -5,7 +5,7 @@ This repository contains a set of bash and R scripts to replicate the analyses a
 **Porrelli, S., Fornasiero, A., Le, P.H., Yin, W., Navarrete Rodrigues, M., Mohammed, N.,
 Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M. (2025)
 Patterns of aDNA Damage Through Time and Environments – lessons from herbarium specimens**  
-d.o.i.: [XXXXXXXXXXXXXXX](https://linktodoi.com)
+d.o.i.(pre-print): [10.1101/2025.10.26.684600](https://doi.org/10.1101/2025.10.26.684600)
 
 ![Final_figures](Data/aDNA_Dmg_Graphical_Abstract.png)
 
