@@ -5,7 +5,7 @@ This repository contains a set of bash and R scripts to replicate the analyses a
 **Porrelli, S., Fornasiero, A., Le, P.H., Yin, W., Navarrete Rodrigues, M., Mohammed, N.,
 Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M. (2025)
 Patterns of aDNA Damage Through Time and Environments – lessons from herbarium specimens**  
-d.o.i.(pre-print): [10.1093/gigascience/giag026](https://doi.org/10.1093/gigascience/giag026)
+d.o.i.: [10.1093/gigascience/giag026](https://doi.org/10.1093/gigascience/giag026)
 
 ![Final_figures](Data/aDNA_Dmg_Graphical_Abstract.png)
 
@@ -318,7 +318,7 @@ If you use the R code or data, please cite:
 ```text
 Porrelli, S., Fornasiero, A., Le, P.H., Yin, W., Navarrete Rodrigues, M., Mohammed, N.,
 Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M. (2025)
-Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens XXXXXXXXXXXXXXX
+Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens [10.1093/gigascience/giag026](https://doi.org/10.1093/gigascience/giag026)
 ```
 
 If you use the BASH scripts (Plan_aDNA_pipeline), please cite:
