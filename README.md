@@ -318,12 +318,15 @@ If you use the R code or data, please cite:
 ```text
 Porrelli, S., Fornasiero, A., Le, P.H., Yin, W., Navarrete Rodrigues, M., Mohammed, N.,
 Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M. (2025)
-Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens doi: https://doi.org/10.1093/gigascience/giag026
+Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens
+GigaScience, 2026;, giag026, doi: https://doi.org/10.1093/gigascience/giag026
 ```
 
 If you use the BASH scripts (Plan_aDNA_pipeline), please cite:
 
 ```text
-Latorre, S.M., Lang, P.L.M., Burbano, H.A. and Gutaker, R.M. (2020) 'Isolation, Library Preparation, and Bioinformatic Analysis of Historical and Ancient Plant DNA', *Current Protocols in Plant Biology*, 5(4) doi: https://doi.org/10.1002/cppb.20121
+Latorre, S.M., Lang, P.L.M., Burbano, H.A. and Gutaker, R.M. (2020)
+Isolation, Library Preparation, and Bioinformatic Analysis of Historical and Ancient Plant DNA
+Current Protocols in Plant Biology, 5(4) doi: https://doi.org/10.1002/cppb.20121
 
 ```
