@@ -320,14 +320,14 @@ If you use the R code or data, please cite:
 Porrelli, S., Fornasiero, A., Le, P.H., Yin, W., Navarrete Rodrigues, M., Mohammed, N.,
 Himmelbach, A., Clarke, A.C., Stein, N., Kersey, P.J., Wing, R.A., Gutaker, R.M. (2026)
 Patterns of aDNA Damage Through Time end Environments – lessons from herbarium specimens
-GigaScience, 2026;, giag026, doi: https://doi.org/10.1093/gigascience/giag026
+GigaScience, 2026;, giag026. doi: https://doi.org/10.1093/gigascience/giag026
 ```
 
 ```text
 Porrelli S; Fornasiero A; Le H P; Yin W; Rodriguez M N; Mohammed N; Himmelbach A;
 Clarke A C; Stein N; Kersey P J; Wing R A; Gutaker R M (2026)
 Supporting data for "Patterns of aDNA Damage Through Time and Environments - lessons from herbarium specimens"
-GigaScience Database. https://doi.org/10.5524/102775
+GigaScience Database. doi: https://doi.org/10.5524/102775
 ```
 
 If you use the BASH scripts (Plan_aDNA_pipeline), please cite:
