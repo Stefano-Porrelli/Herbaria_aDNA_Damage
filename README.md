@@ -22,12 +22,12 @@ The workflow consists of BASH and R scripts. The BASH scripts process raw sequen
 
 Samples             | BioProject Link
 ------------------- | --------------------------
-*Hordeum vulgare*   | [PRJNA1288534](https://example.com)
-*Hordeum spontaneum*| [PRJNA1289164](https://example.com)
-*Oryza rufipogon*   | [PRJNA1288425](https://example.com)
-*Oryza grandiglumis*| [PRJNA1288424](https://example.com)
-*Oryza latifolia*   | [PRJNA1288423](https://example.com)
-*Oryza* Americas    | [PRJNA1302186](https://example.com)
+*Hordeum vulgare*   | [PRJNA1288534](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1288534/)
+*Hordeum spontaneum*| [PRJNA1289164](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1289164/)
+*Oryza rufipogon*   | [PRJNA1288425](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1288425/)
+*Oryza grandiglumis*| [PRJNA1288424](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1288424/)
+*Oryza latifolia*   | [PRJNA1288423](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1288423/)
+*Oryza* Americas    | [PRJNA1302186](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1302186/)
 
 ## Plant aDNA Pipeline ([Latorre *et. al.*, 2020](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cppb.20121))
 
