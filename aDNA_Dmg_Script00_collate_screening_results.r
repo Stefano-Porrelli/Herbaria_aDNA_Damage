@@ -17,7 +17,7 @@
 #   - Calculate lambda from exponential decay of fragment length distribution  #
 #               - Plot exponential decay of fragment length                    #
 #           - Calculate log-mean from fragment length distribution             #
-#                                                                              #                                                                              #
+#                                                                              #
 # Note: sample_metadata.txt can be provided in a tab-separated file, ensure    #
 #       names under the column "Sample" match the name of the samples          #
 #       used during screening.                                                 #
