@@ -337,5 +337,3 @@ Latorre, S.M., Lang, P.L.M., Burbano, H.A. and Gutaker, R.M. (2020)
 Isolation, Library Preparation, and Bioinformatic Analysis of Historical and Ancient Plant DNA
 Current Protocols in Plant Biology, 5(4) doi: https://doi.org/10.1002/cppb.20121
 ```
-
-test
